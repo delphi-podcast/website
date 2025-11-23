@@ -1,4 +1,4 @@
----
+﻿---
 id: 2815
 title: 'Some Great Women of Programming'
 date: '2017-04-25T16:03:57-06:00'
@@ -26,10 +26,7 @@ tags:
 <p><a href="http://en.wikipedia.org/wiki/Jean_E._Sammet">Jean E. Sammet</a> (1928 - ) developed the FORMAC programming language, a variation of <a href="https://en.wikipedia.org/wiki/Fortran">FORTRAN</a>.</p>
 <p><a href="https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)">Margaret Hamilton</a> (1936 - ) Margaret Hamilton was the Director of the Software Engineering Division for the MIT Instrumentation Laboratory during the time that her division developed the on-board flight software for the Apollo space program. Also, in 1986 she became the founder and CEO of Hamilton Technologies, Inc. in Cambridge, Massachusetts, a company based around the Universal Systems Language.</p>
 
-<!-- wp:image {"id":2572,"align":"center"} -->
 <div class="wp-block-image"><figure class="aligncenter"><img src="/assets/images/2016/07/Margaret_Hamilton.gif" alt="Margaret Hamilton during the Apollo program" class="wp-image-2572"/><figcaption>Margaret Hamilton during the Apollo program</figcaption></figure></div>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>My daughters have&nbsp;as much, if not more, interest in computer programming than my boys.&nbsp;I hope we will continue to see more amazing women in computer programming!</p>
-<!-- /wp:paragraph -->
+

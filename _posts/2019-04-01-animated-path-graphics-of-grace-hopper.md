@@ -1,4 +1,4 @@
----
+﻿---
 id: 3309
 title: 'Animated Path Graphics of Grace Hopper'
 date: '2019-04-01T00:51:32-06:00'
@@ -12,23 +12,17 @@ tags:
     - News
 ---
 
-<!-- wp:paragraph -->
 <p>I wanted to finish this side project during Women's History Month to honor the <a href="https://en.wikipedia.org/wiki/Grace_Hopper">Amazing Grace Hopper</a> and her contributions to the field of Computer Science. I found this interesting <a href="https://openclipart.org/detail/137533/grace-hopper">SVG of Grace Hopper</a> that wanted to figure out how to render in Delphi using the FireMonkey TPath, but it also looked like it should be animated somehow . . . .</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:image {"id":3310,"align":"center","linkDestination":"custom"} -->
 <div class="wp-block-image"><figure class="aligncenter"><a href="https://openclipart.org/detail/137533/grace-hopper" target="_blank" rel="noreferrer noopener"><img src="/assets/images/2019/04/grace-hopper-154833_640.png" alt="Grace Hopper illustration by gingercoons" class="wp-image-3310"/></a></figure></div>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p> I've rendered some simple SVG graphics with the TPath component before, but this one was more complicated. It has multiple colors and variable opacity. This requires multiple TPath instances to handle each variation. It was a simple matter of loading in the SVG file using an IXMLDocument, then parsing the elements, and creating a TPath for each one. For fun I included a variable sleep between each draw. Also, to make sure all the paths have the same relative size I added a couple MoveTo calls to define the client area.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"delphi"} -->
-<pre class="wp-block-syntaxhighlighter-code">var
+```delphi
+var
   XmlSvg: IXMLDocument;
   val: String;
-  vals: TArray&lt;String>;
+  vals: TArray<String>;
   node: IXMLNode;
   path: TPath;
 begin
@@ -59,26 +53,22 @@ begin
 
       if node.HasAttribute('opacity') then
         path.Opacity := StrToFloat(node.Attributes['opacity']);
-      if node.HasAttribute('fill') and (node.Attributes['fill'] &lt;> 'none') and (node.Attributes['fill'] &lt;> '') then
+      if node.HasAttribute('fill') and (node.Attributes['fill'] <> 'none') and (node.Attributes['fill'] <> '') then
         path.Fill.Color := TAlphaColorRec.Alpha or StringToAlphaColor(node.Attributes['fill']);
 
     end;
     Sleep(Trunc(TrackBar1.Value));
     svgLayout.Repaint;
     Application.ProcessMessages;
-  end;</pre>
-<!-- /wp:syntaxhighlighter/code -->
+  end;
+```
 
-<!-- wp:paragraph -->
 <p>This is by no means a complete implementation of the SVG standard, but it is getting closer! Close enough for some simple SVG images though, and possibly a useful basis for more complicated ones.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>The animations was just a matter of assigning a TFloatAnimation to each TPath that adds some random movement. I included both slight scales and rotations. I could have done both on each, but was afraid that might be too much movement.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"delphi"} -->
-<pre class="wp-block-syntaxhighlighter-code">var
+```delphi
+var
   dance: TFloatAnimation;
   path: TPath;
   I: Integer;
@@ -135,21 +125,14 @@ begin
       end;
       dance.Enabled := True;
     end;
-  end;</pre>
-<!-- /wp:syntaxhighlighter/code -->
+  end;
+```
 
-<!-- wp:paragraph -->
 <p>And we end up with something like this . . .. (Down scaled and lower FPS) </p>
-<!-- /wp:paragraph -->
 
-<!-- wp:image {"id":3315} -->
 <figure class="wp-block-image"><img src="/assets/images/2019/04/Grace-Hopper-Animatedsample.gif" alt="" class="wp-image-3315"/></figure>
-<!-- /wp:image -->
 
-<!-- wp:paragraph -->
 <p>I'm posting my code if you want to play with it some more. The source SVG is embedded in a memo instead of reading it from a file. It was written with Delphi 10.3.1 Rio.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:file {"id":3312,"href":"/assets/images/2019/04/SVGAnimation.7z"} -->
 <div class="wp-block-file"><a href="/assets/images/2019/04/SVGAnimation.7z">SVGAnimation</a><a href="/assets/images/2019/04/SVGAnimation.7z" class="wp-block-file__button" download>Download</a></div>
-<!-- /wp:file -->
+
