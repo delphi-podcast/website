@@ -1,6 +1,6 @@
----
+﻿---
 id: 788
-title: '34 &#8211; Craig Stuntz'
+title: '34 – Craig Stuntz'
 date: '2009-10-19T02:18:16-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -40,3 +40,4 @@ Also check out
 	<li><a href="http://www.amazon.com/gp/product/0806530022?ie=UTF8&amp;tag=jimmckeeth03-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0806530022">BBook of Geek</a> from <a href="http://bbspot.com/">BBSpot.com</a></li>
 </ul>
 Thanks Craig!
+

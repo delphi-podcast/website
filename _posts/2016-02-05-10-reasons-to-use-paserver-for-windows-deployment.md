@@ -39,26 +39,26 @@ Now that we see the need, how do we do it?
 
 <a href="http://docwiki.embarcadero.com/RADStudio/en/Installing_the_Platform_Assistant_on_Windows">Install PAServer on the target Windows computer</a>. You can find it at C:\Program Files (x86)\Embarcadero\Studio\17.0\PAServer if you used the default install location during your original install. When installing PAServer, you either need to use a different install location (to a user writable folder), or specify a custom scratch-directory, as the default is not writable (unless you run PAServer as Administrator) and will give you an <a href="http://docwiki.embarcadero.com/RADStudio/en/E0009_Cannot_create_file_%22filepath%22._Access_is_denied">E0009 PAClient Error</a>. Once PAServer is setup <a href="http://docwiki.embarcadero.com/RADStudio/en/Running_the_Platform_Assistant_on_Windows">just run it</a>.
 
-<img class="alignnone size-full wp-image-2254" src="http://delphi.org/wp-content/uploads/2016/02/PAServerDestination.png" alt="Custom PAServer Install Destination" width="712" height="437" />
+<img class="alignnone size-full wp-image-2254" src="/assets/images/2016/02/PAServerDestination.png" alt="Custom PAServer Install Destination" width="712" height="437" />
 
 Use the <a href="http://docwiki.embarcadero.com/RADStudio/en/Connection_Profile_Manager">Connection Profile Manager</a> to <a href="http://docwiki.embarcadero.com/RADStudio/en/Create_a_Connection_Profile">create a new Windows profile</a>.
 
-<img class="alignnone size-full wp-image-2255" src="http://delphi.org/wp-content/uploads/2016/02/ProfileManager.png" alt="RAD Studio Connection Profile Manager" width="736" height="613" />
+<img class="alignnone size-full wp-image-2255" src="/assets/images/2016/02/ProfileManager.png" alt="RAD Studio Connection Profile Manager" width="736" height="613" />
 
 Instead of the default of OS X, choose either Windows 32-bit or 64-bit. The rest of the configuration is the same.
 
-<img class="alignnone size-full wp-image-2256" src="http://delphi.org/wp-content/uploads/2016/02/CreateProfile1.png" alt="Create Windows 64-bit Profile Connection" width="564" height="447" />
+<img class="alignnone size-full wp-image-2256" src="/assets/images/2016/02/CreateProfile1.png" alt="Create Windows 64-bit Profile Connection" width="564" height="447" />
 
 Then form the Project Manager, right-click on the Windows platform you want to deploy remotely, and select properties.
 
-<img class="alignnone size-full wp-image-2257" src="http://delphi.org/wp-content/uploads/2016/02/PlatformProperties.png" alt="Project Manager - Platform Properties" width="391" height="400" />
+<img class="alignnone size-full wp-image-2257" src="/assets/images/2016/02/PlatformProperties.png" alt="Project Manager - Platform Properties" width="391" height="400" />
 
 And then select the new connection you want.
 
-<img class="alignnone size-full wp-image-2258" src="http://delphi.org/wp-content/uploads/2016/02/SelectProfile.png" alt="Platform Properties - Select Profile" width="337" height="241" />
+<img class="alignnone size-full wp-image-2258" src="/assets/images/2016/02/SelectProfile.png" alt="Platform Properties - Select Profile" width="337" height="241" />
 
 This works with any project type (FireMonkey, VCL, Console, etc.)
 
-<img class="alignnone size-full wp-image-2259" src="http://delphi.org/wp-content/uploads/2016/02/ProfileSelected.png" alt="Profile Selected" width="366" height="277" />
+<img class="alignnone size-full wp-image-2259" src="/assets/images/2016/02/ProfileSelected.png" alt="Profile Selected" width="366" height="277" />
 
 Now you can also use the <a href="http://docwiki.embarcadero.com/RADStudio/Seattle/en/Deployment_Manager">Deployment Manager</a> for Windows apps as well.

@@ -1,6 +1,6 @@
----
+﻿---
 id: 942
-title: '40 &#8211; Nick Hodges &#8211; Part 1'
+title: '40 – Nick Hodges – Part 1'
 date: '2010-05-10T07:00:38-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -30,3 +30,4 @@ In this episode we talk about :
 </ul>
 </div>
 And more.
+

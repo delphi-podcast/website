@@ -1,6 +1,6 @@
----
+﻿---
 id: 230
-title: 'ScreenCast 1 &#8211; Adding an Explore Tool'
+title: 'ScreenCast 1 – Adding an Explore Tool'
 date: '2008-09-23T00:03:32-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -25,3 +25,4 @@ You can <a href="http://content.screencast.com/users/JimMcKeeth/folders/Default/
 Thanks!
 
 [<strong>Update</strong>: I took off the enclosure.  I don't think most video players can handle the SWF file anyway.]
+

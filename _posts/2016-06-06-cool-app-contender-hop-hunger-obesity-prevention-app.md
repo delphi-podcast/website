@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2479'
 permalink: /2016/06/cool-app-contender-hop-hunger-obesity-prevention-app/
-image: /wp-content/uploads/2016/06/HOP-Hunger-Obesity-Prevention-App-568x198.jpg
+image: /assets/images/2016/06/HOP-Hunger-Obesity-Prevention-App-568x198.jpg
 categories:
     - News
 tags:
@@ -16,11 +16,11 @@ tags:
     - News
 ---
 
-<a href="http://community.embarcadero.com/article/news/16221-join-our-club-of-elite-embarcadero-developers-show-us-your-cool-apps"><img class="alignright size-full wp-image-2449" src="http://delphi.org/wp-content/uploads/2016/05/Cool_App_Contest_Logo_and_Graphic.png" alt="Embarcadero Cool App Contest" width="262" height="252" /></a>There were a lot of amazing apps submitted for the <a href="article/news/16221-join-our-club-of-elite-embarcadero-developers-show-us-your-cool-apps">Embarcadero Cool App Contest</a>. Last month's winner was <a href="http://community.embarcadero.com/uploads/390/1Password.png">1Password for Windows</a>. Any entries that don't win one month, are automatically eligible for the next month. We will have our next winner shortly.
+<a href="http://community.embarcadero.com/article/news/16221-join-our-club-of-elite-embarcadero-developers-show-us-your-cool-apps"><img class="alignright size-full wp-image-2449" src="/assets/images/2016/05/Cool_App_Contest_Logo_and_Graphic.png" alt="Embarcadero Cool App Contest" width="262" height="252" /></a>There were a lot of amazing apps submitted for the <a href="article/news/16221-join-our-club-of-elite-embarcadero-developers-show-us-your-cool-apps">Embarcadero Cool App Contest</a>. Last month's winner was <a href="http://community.embarcadero.com/uploads/390/1Password.png">1Password for Windows</a>. Any entries that don't win one month, are automatically eligible for the next month. We will have our next winner shortly.
 
 In the meantime I thought I would highlight a few of the entries that caught my attention. They are all very cool apps.
 
-<a href="https://www.facebook.com/Sherwoodisthebest"><img class="alignleft" src="http://delphi.org/wp-content/uploads/2016/06/Sherwood-Middle-School.png" alt="Sherwood Middle School" width="138" height="126" /></a>The first one I want to highlight is by two sixth grade girls, <a href="https://www.youtube.com/watch?v=1I0OEi2gOcE">Suresh and Safalta</a>, from Sherwood Middle School in Shrewsbury, Massachusetts. They created an app to help tackle two big problems at the same time: <strong>Hunger and Obesity</strong>.
+<a href="https://www.facebook.com/Sherwoodisthebest"><img class="alignleft" src="/assets/images/2016/06/Sherwood-Middle-School.png" alt="Sherwood Middle School" width="138" height="126" /></a>The first one I want to highlight is by two sixth grade girls, <a href="https://www.youtube.com/watch?v=1I0OEi2gOcE">Suresh and Safalta</a>, from Sherwood Middle School in Shrewsbury, Massachusetts. They created an app to help tackle two big problems at the same time: <strong>Hunger and Obesity</strong>.
 
 The idea is brilliant: Educate users on lowering their caloric intake to reduce obesity, and then provide a way for them to donate the money they would have spent on junk food to those who are hungry.
 
@@ -48,7 +48,7 @@ This basic version of HOP is intended to determine if the user is obese, then se
 
 Now we ask the participants to make a pledge to donate the unused calories for saving the lives of starving children. By pledging to do so, it gives a cause for participants with obesity to lose weight and hope for hungry children fighting to survive.
 
-<a href="http://www.unicef.org/"><img class="alignright wp-image-2481" src="http://delphi.org/wp-content/uploads/2016/06/Unicef-300x239.png" alt="UNICEF" width="185" height="147" /></a>Our HOP App designed to pledge 25 cents to UNICEF on their behalf as a way to celebrate their achievement. However, in future users will have options to donate to any charitable organizations that are associated with feeding hungry children. Our mission is to help ending obesity and hunger in children and give them the gift of life, through motivating obese children to SHARE CALORIES with hungry children.</blockquote>
+<a href="http://www.unicef.org/"><img class="alignright wp-image-2481" src="/assets/images/2016/06/Unicef-300x239.png" alt="UNICEF" width="185" height="147" /></a>Our HOP App designed to pledge 25 cents to UNICEF on their behalf as a way to celebrate their achievement. However, in future users will have options to donate to any charitable organizations that are associated with feeding hungry children. Our mission is to help ending obesity and hunger in children and give them the gift of life, through motivating obese children to SHARE CALORIES with hungry children.</blockquote>
 I'm really excited to see their app develop, and it is great that they chose RAD Studio and Object Pascal / Delphi to build this. Especially with 10.1 Berlin it includes easy components to connect with health devices like scales, heart rate monitors and cadence sensors.
 
 Good luck to <a href="https://www.youtube.com/watch?v=1I0OEi2gOcE">Suresh and Safalta</a>!

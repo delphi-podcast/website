@@ -1,6 +1,6 @@
----
+﻿---
 id: 1847
-title: 'Episode 54 &#8211; Sarina DuPont'
+title: 'Episode 54 – Sarina DuPont'
 date: '2015-01-07T09:53:03-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -28,3 +28,4 @@ Typically I am in the <a class="zem_slink" title="Embarcadero Technologies, Scot
 In the next episode I'll have an interview with <a title="JT's Blog" href="http://community.embarcadero.com/index.php/blogs/blogger/listall/jt" target="_blank">John Thomas</a> (<a href="https://twitter.com/FireMonkeyPM" target="_blank">@FireMonkeyPM</a>), or JT, the Senior Director of Product Management here at Embarcadero Technologies.
 
 Oh, and check out the new <a href="http://blogs.embarcadero.com/davidi/2015/01/05/43855">Embarcadero Community Podcast</a> by <a href="http://blogs.embarcadero.com/davidi/">David I</a>.
+

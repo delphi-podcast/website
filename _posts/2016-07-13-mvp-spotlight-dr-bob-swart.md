@@ -17,7 +17,7 @@ I've never asked Bob if he actually has a PhD, but I wouldn't be surprised if he
 
 Currently Bob is enjoying his semi-annual holiday at Euro Disney with his two kids Erik Mark Pascal and Natasha Louise Delphine. Yes, those are their actual names! So cool.
 
-<a href="http://drbob42.com/"><img class="aligncenter size-full wp-image-2559" src="http://delphi.org/wp-content/uploads/2016/07/BobSwartDisney.jpg" alt="Bob Swart at EuroDisney" width="960" height="528" /></a>
+<a href="http://drbob42.com/"><img class="aligncenter size-full wp-image-2559" src="/assets/images/2016/07/BobSwartDisney.jpg" alt="Bob Swart at EuroDisney" width="960" height="528" /></a>
 
 I've met Bob a few times, once when I was in the Netherlands for the Software Development Conference. That was a great treat, and Bob was amazing to work with. I've ran into him at various conferences too.
 

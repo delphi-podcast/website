@@ -17,7 +17,7 @@ tags:
 
 In my <a href="http://delphi.org/2017/04/the-niagara-falls-lighting-episode/">interview with Martin</a> he talked a lot about the importance of performance, which is one of the reasons he uses Delphi for his real-time lighting control systems. He said something along the lines that if you are not programming with threading in mind then you are never going to get good performance. That is good advice. Even cell phones have quad-core processors in them these days.
 
-<a href="http://delphi.org/wp-content/uploads/2017/04/keep-threading-in-mind.jpg"><img class="aligncenter size-large wp-image-2813" src="http://delphi.org/wp-content/uploads/2017/04/keep-threading-in-mind-1024x683.jpg" alt="Keep Threading in Mind" width="640" height="427" /></a>
+<a href="/assets/images/2017/04/keep-threading-in-mind.jpg"><img class="aligncenter size-large wp-image-2813" src="/assets/images/2017/04/keep-threading-in-mind-1024x683.jpg" alt="Keep Threading in Mind" width="640" height="427" /></a>
 
 &nbsp;
 

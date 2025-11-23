@@ -1,6 +1,6 @@
----
+﻿---
 id: 658
-title: 'Delphi Live! 2009 &#8211; What is Cooking in the Delphi Labs &#8211; Part 1'
+title: 'Delphi Live! 2009 – What is Cooking in the Delphi Labs – Part 1'
 date: '2009-05-18T23:03:53-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -24,3 +24,4 @@ May 2009 in San Jose
 [<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-2/">Part 2</a>]
 
 I'll upload a video segment or two every day or so.  I have the project address, the touch demo, Funside of Delphi, and a few other sessions.
+

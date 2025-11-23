@@ -1,6 +1,6 @@
----
+﻿---
 id: 266
-title: '8 &#8211; Round Table on Best Practices'
+title: '8 – Round Table on Best Practices'
 date: '2008-10-07T03:51:01-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -54,3 +54,4 @@ Some episode links and notes.  Add more in the comments!
 	<li><a href="http://www.amazon.com/gp/product/1430208694?ie=UTF8&amp;tag=jimmckeeth03-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1430208694">On the Way to the Web: The Secret History of the Internet and Its Founders</a> by Michael A. Banks</li>
 	<li><a href="http://www.webaim.org/blog/user-agent-string-history/">Web Browser User Agent String History</a></li>
 </ul>
+

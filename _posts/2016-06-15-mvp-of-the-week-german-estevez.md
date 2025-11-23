@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2520'
 permalink: /2016/06/mvp-of-the-week-german-estevez/
-image: /wp-content/uploads/2016/06/German-Estevez-Ruiz.jpg
+image: /assets/images/2016/06/German-Estevez-Ruiz.jpg
 categories:
     - News
 tags:
@@ -14,7 +14,7 @@ tags:
     - News
 ---
 
-<a href="http://neftali.clubdelphi.com/"><img class="alignright size-full wp-image-2527" src="http://delphi.org/wp-content/uploads/2016/06/German-Estevez-Ruiz.jpg" alt="German Estevez Ruiz" width="128" height="170" /></a>This week I am spotlighting Germán "Neftalí" Estévez from Barcelona, Spain. He is a regular contributor on the <a href="http://www.ClubDelphi.com/">ClubDelphi</a> forms, which he also administers. You can also find him on <a href="http://stackoverflow.com/users/17487/">Stack Overflow</a>.
+<a href="http://neftali.clubdelphi.com/"><img class="alignright size-full wp-image-2527" src="/assets/images/2016/06/German-Estevez-Ruiz.jpg" alt="German Estevez Ruiz" width="128" height="170" /></a>This week I am spotlighting Germán "Neftalí" Estévez from Barcelona, Spain. He is a regular contributor on the <a href="http://www.ClubDelphi.com/">ClubDelphi</a> forms, which he also administers. You can also find him on <a href="http://stackoverflow.com/users/17487/">Stack Overflow</a>.
 <p style="padding-left: 30px;"><a href="http://stackoverflow.com/users/17487/"><img class="alignnone" src="http://stackoverflow.com/users/flair/17487.png" alt="Stack Overflow Netfalí" width="208" height="58" /></a></p>
 But I want to highlight a couple of his recent blog posts which can be found at <a href="http://neftali.clubdelphi.com/">neftali.clubdelphi.com</a> and althought he's started blogging on <a href="http://community.embarcadero.com/blogs/blogger/listings/german-estevez">community.embarcadero.com</a> too. His blog posts are in Spanish, but Google Translate takes care of most the heavy lifting, and his code samples are in the common Delphi.
 <h2><a href="http://community.embarcadero.com/blogs/entry/cuestion-de-volumen-1">Managing Audio on Android</a></h2>

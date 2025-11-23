@@ -1,6 +1,6 @@
----
+﻿---
 id: 94
-title: 'BetaBlogging &#8211; Delphi 2009 Install Time'
+title: 'BetaBlogging – Delphi 2009 Install Time'
 date: '2008-08-26T09:30:39-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -25,3 +25,4 @@ A few other bloggers have mentioned the install time being much faster, but I wa
 Keep in mind this is a beta, and subject to change, although I can hardly imagine the install getting slower in the release.  If anything it might get faster.  Well, unless the bundle more goodness with it.
 
 The exclusion of the .NET SDK is great though.  Of course you can install it if you want it I guess.
+

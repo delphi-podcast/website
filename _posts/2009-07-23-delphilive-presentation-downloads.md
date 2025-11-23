@@ -15,6 +15,6 @@ tags:
     - News
 ---
 
-<a href="http://delphilive.com/conferences/delphi_live/download_presentations"><img class="alignright size-full wp-image-626" title="DelphiLive! Speaker" src="http://www.delphi.org/wp-content/uploads/2009/04/delphilive-speakerbutton-v2.gif" alt="DelphiLive! Speaker" /></a>I've been meaning to post this for a while.  Kind of surprised I haven't seen anyone else post it.  I don't recall for sure where I got the link from, but this is the official download for all the <a href="http://delphilive.com/conferences/delphi_live/download_presentations">presentation materials</a> from DelphiLive! 2009 in San Jose.
+<a href="http://delphilive.com/conferences/delphi_live/download_presentations"><img class="alignright size-full wp-image-626" title="DelphiLive! Speaker" src="/assets/images/2009/04/delphilive-speakerbutton-v2.gif" alt="DelphiLive! Speaker" /></a>I've been meaning to post this for a while.  Kind of surprised I haven't seen anyone else post it.  I don't recall for sure where I got the link from, but this is the official download for all the <a href="http://delphilive.com/conferences/delphi_live/download_presentations">presentation materials</a> from DelphiLive! 2009 in San Jose.
 
 I was surprised how many people from across the pond (beyond the US) were in San Jose.  I wonder if I will see the same sort of ratio of Americans at <a href="http://delphilive.de/">DelphiLive! Germany</a>.

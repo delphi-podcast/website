@@ -1,6 +1,6 @@
----
+﻿---
 id: 164
-title: '4.1 &#8211; Julian Bucknall'
+title: '4.1 – Julian Bucknall'
 date: '2008-09-08T01:12:37-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -27,3 +27,4 @@ tags:
 	<li><a href="http://www.turbopower.com/">Turbo Power</a> (now on <a href="http://SourceForge.net/">SourceForge</a>)</li>
 </ul>
 <div>Winners of the <a href="http://www.delphi.org/2008/08/smartinspect-giveaway/">SmartInspect giveaway</a> announced.</div>
+

@@ -24,7 +24,7 @@ https://youtu.be/oIimgJAlJDM
 FireMonkey and the FireUI makes it easy to build one form to rule all the platforms. Combining layout controls and making use of Anchors, Alignment, Padding and Margins it is easy to make one form that looks and works great on all platforms.
 <h2><a href="http://embt.co/fmxanchors">Anchors</a></h2>
 <ul>
-	<li>Position relative to one or more edge(s) of parent:<a href="http://embt.co/fmxanchors" rel="attachment wp-att-2179"><img class="wp-image-2179 alignright" src="http://delphi.org/wp-content/uploads/2015/12/Anchor-242x300.png" alt="Anchor" width="162" height="201" /></a>
+	<li>Position relative to one or more edge(s) of parent:<a href="http://embt.co/fmxanchors" rel="attachment wp-att-2179"><img class="wp-image-2179 alignright" src="/assets/images/2015/12/Anchor-242x300.png" alt="Anchor" width="162" height="201" /></a>
 <ul>
 	<li>Top</li>
 	<li>Bottom</li>
@@ -71,7 +71,7 @@ FireMonkey and the FireUI makes it easy to build one form to rule all the platfo
 </ul>
 <h2>Spacing – Margins and Padding</h2>
 <ul>
-	<li><a href="http://embt.co/fmxmargins">Margins</a><a href="http://delphi.org/wp-content/uploads/2015/12/MarginsAndPadding.png"><img class="alignright wp-image-2180 size-medium" src="http://delphi.org/wp-content/uploads/2015/12/MarginsAndPadding-300x177.png" alt="MarginsAndPadding" width="300" height="177" /></a>
+	<li><a href="http://embt.co/fmxmargins">Margins</a><a href="/assets/images/2015/12/MarginsAndPadding.png"><img class="alignright wp-image-2180 size-medium" src="/assets/images/2015/12/MarginsAndPadding-300x177.png" alt="MarginsAndPadding" width="300" height="177" /></a>
 <ul>
 	<li>Spacing for siblings (and parent edges)</li>
 </ul>
@@ -92,7 +92,7 @@ FireMonkey and the FireUI makes it easy to build one form to rule all the platfo
 </li>
 	<li>Use TFlowLayoutBreak for forced line break</li>
 </ul>
-<a href="http://delphi.org/wp-content/uploads/2015/12/FlowLayout1.png" rel="attachment wp-att-2182"><img class="alignnone size-medium wp-image-2182" src="http://delphi.org/wp-content/uploads/2015/12/FlowLayout1-300x192.png" alt="FlowLayout1" width="300" height="192" /></a> <a href="http://delphi.org/wp-content/uploads/2015/12/FlowLayout2.png" rel="attachment wp-att-2181"><img class="alignnone size-medium wp-image-2181" src="http://delphi.org/wp-content/uploads/2015/12/FlowLayout2-300x192.png" alt="FlowLayout2" width="300" height="192" /></a>
+<a href="/assets/images/2015/12/FlowLayout1.png" rel="attachment wp-att-2182"><img class="alignnone size-medium wp-image-2182" src="/assets/images/2015/12/FlowLayout1-300x192.png" alt="FlowLayout1" width="300" height="192" /></a> <a href="/assets/images/2015/12/FlowLayout2.png" rel="attachment wp-att-2181"><img class="alignnone size-medium wp-image-2181" src="/assets/images/2015/12/FlowLayout2-300x192.png" alt="FlowLayout2" width="300" height="192" /></a>
 <h2><a href="http://embt.co/tgridlayout">TGridLayout</a></h2>
 <ul>
 	<li>Arranges child controls in a grid of equal sizes</li>
@@ -100,7 +100,7 @@ FireMonkey and the FireUI makes it easy to build one form to rule all the platfo
 	<li>Use <em>ItemWidth</em> and <em>ItemHeight</em> properties</li>
 	<li>Customize margins of individual controls</li>
 </ul>
-<a href="http://delphi.org/wp-content/uploads/2015/12/GridLayout2.png" rel="attachment wp-att-2183"><img class="alignnone size-medium wp-image-2183" src="http://delphi.org/wp-content/uploads/2015/12/GridLayout2-300x219.png" alt="GridLayout2" width="300" height="219" /></a> <a href="http://delphi.org/wp-content/uploads/2015/12/GridLayout1.png" rel="attachment wp-att-2184"><img class="alignnone size-medium wp-image-2184" src="http://delphi.org/wp-content/uploads/2015/12/GridLayout1-300x240.png" alt="GridLayout1" width="300" height="240" /></a>
+<a href="/assets/images/2015/12/GridLayout2.png" rel="attachment wp-att-2183"><img class="alignnone size-medium wp-image-2183" src="/assets/images/2015/12/GridLayout2-300x219.png" alt="GridLayout2" width="300" height="219" /></a> <a href="/assets/images/2015/12/GridLayout1.png" rel="attachment wp-att-2184"><img class="alignnone size-medium wp-image-2184" src="/assets/images/2015/12/GridLayout1-300x240.png" alt="GridLayout1" width="300" height="240" /></a>
 <h2><a href="http://embt.co/tgridpanellayout">TGridPanelLayout</a></h2>
 <ul>
 	<li>Creates a grid of specified rows and columns</li>
@@ -109,7 +109,7 @@ FireMonkey and the FireUI makes it easy to build one form to rule all the platfo
 	<li>You set the Height, Width, Align, and Anchors of children</li>
 	<li>Controls can span multiple cells</li>
 </ul>
-<a href="http://delphi.org/wp-content/uploads/2015/12/GridPanelLayout2.png" rel="attachment wp-att-2185"><img class="alignnone size-medium wp-image-2185" src="http://delphi.org/wp-content/uploads/2015/12/GridPanelLayout2-300x261.png" alt="GridPanelLayout2" width="300" height="261" /></a> <a href="http://delphi.org/wp-content/uploads/2015/12/GridPanelLayout1.png" rel="attachment wp-att-2186"><img class="alignnone size-medium wp-image-2186" src="http://delphi.org/wp-content/uploads/2015/12/GridPanelLayout1-300x156.png" alt="GridPanelLayout1" width="300" height="156" /></a>
+<a href="/assets/images/2015/12/GridPanelLayout2.png" rel="attachment wp-att-2185"><img class="alignnone size-medium wp-image-2185" src="/assets/images/2015/12/GridPanelLayout2-300x261.png" alt="GridPanelLayout2" width="300" height="261" /></a> <a href="/assets/images/2015/12/GridPanelLayout1.png" rel="attachment wp-att-2186"><img class="alignnone size-medium wp-image-2186" src="/assets/images/2015/12/GridPanelLayout1-300x156.png" alt="GridPanelLayout1" width="300" height="156" /></a>
 <h2><a href="http://embt.co/tscaledlayout">TScaledLayout</a></h2>
 <ul>
 	<li>Stretches child controls as it is resized at runtime</li>
@@ -118,7 +118,7 @@ FireMonkey and the FireUI makes it easy to build one form to rule all the platfo
 	<li>Some styles look better zoomed than others. The font grows - it is not a bitmap scale.</li>
 	<li>Has properties for <em>OriginalWidth</em> and <em>OriginalHeight</em> - Compare to <em>Width</em> and <em>Height</em> to determine scaling.</li>
 </ul>
-<a href="http://delphi.org/wp-content/uploads/2015/12/ScaledLayout-Stretch.png" rel="attachment wp-att-2187"><img class="alignnone size-medium wp-image-2187" src="http://delphi.org/wp-content/uploads/2015/12/ScaledLayout-Stretch-300x80.png" alt="ScaledLayout-Stretch" width="300" height="80" /></a>
+<a href="/assets/images/2015/12/ScaledLayout-Stretch.png" rel="attachment wp-att-2187"><img class="alignnone size-medium wp-image-2187" src="/assets/images/2015/12/ScaledLayout-Stretch-300x80.png" alt="ScaledLayout-Stretch" width="300" height="80" /></a>
 <h2><a href="http://embt.co/tscrollbox">TScrollBox</a></h2>
 <ul>
 	<li>Allows children to take up more space than parent</li>
@@ -164,7 +164,7 @@ FireMonkey and the FireUI makes it easy to build one form to rule all the platfo
 </ul>
 <h2><a href="http://embt.co/usingmultiview">TMultiView</a></h2>
 <ul>
-	<li>One super panel with multiple modes<a href="http://delphi.org/wp-content/uploads/2015/12/MultiView.png" rel="attachment wp-att-2188"><img class="alignright size-medium wp-image-2188" src="http://delphi.org/wp-content/uploads/2015/12/MultiView-300x242.png" alt="MultiView" width="300" height="242" /></a></li>
+	<li>One super panel with multiple modes<a href="/assets/images/2015/12/MultiView.png" rel="attachment wp-att-2188"><img class="alignright size-medium wp-image-2188" src="/assets/images/2015/12/MultiView-300x242.png" alt="MultiView" width="300" height="242" /></a></li>
 	<li>Supported modes
 <ul>
 	<li><em>PlatformDefault </em></li>

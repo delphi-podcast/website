@@ -36,18 +36,18 @@ I thought I would walk through the steps for developing with the Samsung Gear Li
 	<li>Select SAMSUNG Android ADB Interface</li>
 	<li>On your phone you will see a dialog "Allow Wear Debugging" Check "Always allow .. . " and then select OK.</li>
 </ol>
-<img class="aligncenter size-full wp-image-1819" src="http://delphi.org/wp-content/uploads/2014/11/GearLive-Update.gif" alt="Gear Live - Device Manager Driver Update" width="628" height="466" />
+<img class="aligncenter size-full wp-image-1819" src="/assets/images/2014/11/GearLive-Update.gif" alt="Gear Live - Device Manager Driver Update" width="628" height="466" />
 
 &nbsp;
 
 Once you have done all of that, it will show up in your IDE as a target, and when you load the <a href="https://github.com/jimmckeeth/FireUI-Devices">FireUI custom device</a> for it, then you will have a great design surface for it too.
 
-<a href="http://delphi.org/wp-content/uploads/2014/11/GearLive.png"><img class="aligncenter size-large wp-image-1818" src="http://delphi.org/wp-content/uploads/2014/11/GearLive-1024x775.png" alt="GearLive in XE7 IDE" width="620" height="469" /></a>
+<a href="/assets/images/2014/11/GearLive.png"><img class="aligncenter size-large wp-image-1818" src="/assets/images/2014/11/GearLive-1024x775.png" alt="GearLive in XE7 IDE" width="620" height="469" /></a>
 
 &nbsp;
 
 And you are ready to build your Gear Live app with Delphi XE7.
 
-<img class="aligncenter size-full wp-image-1820" src="http://delphi.org/wp-content/uploads/2014/11/GearLive.jpg" alt="Delphi XE7 on the Samsung Gear Live" width="576" height="1024" />
+<img class="aligncenter size-full wp-image-1820" src="/assets/images/2014/11/GearLive.jpg" alt="Delphi XE7 on the Samsung Gear Live" width="576" height="1024" />
 
 I'm sure I'll have more coverage on Android Wear in the coming months too.

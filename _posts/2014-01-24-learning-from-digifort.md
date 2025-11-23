@@ -22,13 +22,13 @@ https://www.youtube.com/watch?v=EmH3KWLAk8I
 
 Embarcadero just completed a <a title="Digifort Case Study" href="http://www.embarcadero.com/products/digifort-case-study">case study with him too</a>, which is really informative. I spoke with him down in Brazil and he said they previously developed mobile clients with both Java and Objective-C, and found Delphi let them develop their projects much faster, and they get both Android and iOS from one project. Also, and perhaps more importantly he said the performance of the Delphi client was just as good, plus they found it more flexible for building a user interface that looks great and is easy to use.
 
-<img class="aligncenter size-full wp-image-1482" src="http://delphi.org/wp-content/uploads/2014/01/digifort-mobile-camera348x424.jpg" alt="Digifort Mobile Client" width="348" height="424" />
+<img class="aligncenter size-full wp-image-1482" src="/assets/images/2014/01/digifort-mobile-camera348x424.jpg" alt="Digifort Mobile Client" width="348" height="424" />
 
 Digifort may be based in Brazil, but their clients are all over the world and are a mix of government agencies and business of various sizes. Eric arranged a trip to meet me in Scotts Valley this last week. He showed me some pictures of some of the walls of monitors his clients have, all powered by Digifort. Some really impressive installations.
 
 A big part of his trip was to pick up a his very own Google Glass to start developing a Digifort mobile app for Google Glass. In just a couple short sessions he was capturing images from the built in camera, connecting to his remote server, and streaming live video from Brazil to the glass display. The use case for security personal to view cameras while on patrol, while sharing what they see with everyone else is a great one.
 
-<img class="aligncenter size-full wp-image-1484" src="http://delphi.org/wp-content/uploads/2014/01/David-Eric-and-Jim.jpg" alt="David, Eric and Jim" width="782" height="309" />
+<img class="aligncenter size-full wp-image-1484" src="/assets/images/2014/01/David-Eric-and-Jim.jpg" alt="David, Eric and Jim" width="782" height="309" />
 
 Eric also had a chance to visit with some people from R&amp;D and product management and share his experiences working with Delphi XE5 and FireMonkey. Here are some best practices he found for making a really smooth user interface.
 <ul>

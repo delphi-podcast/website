@@ -1,6 +1,6 @@
----
+﻿---
 id: 326
-title: 'Torry&#8217;s Updates'
+title: 'Torry’s Updates'
 date: '2008-10-13T14:46:05-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -25,3 +25,4 @@ I remember when I was getting started in Delphi programming (I started late with
 Not only is Torry's still updating with new components, tools, code samples and applications (see the list of updates in the last 7 days) they just updated their footer to include the following:
 <blockquote>The Ultimate Source of Object Pascal and Delphi Programming Knowledge.</blockquote>
 That should shift some more of their 19,900 pages about Delphi onto the TPCI.  Previously only 35 pages contained the phrase "Delphi programming".  That is a boost of up to 19,865 pages (depending on how many Google and other search engines index.)
+

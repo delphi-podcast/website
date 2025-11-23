@@ -14,7 +14,7 @@ tags:
 
 These are the slides from my Mobile Dev and Test session on Rapid Prototyping Mobile Projects with Arduino and Open Hardware in San Diego. I'll update later with links and more resources.
 
-<a href="http://delphi.org/wp-content/uploads/2017/04/TechWell-McKeeth-Arduino.pdf">slides download</a> (v0.9)
+<a href="/assets/images/2017/04/TechWell-McKeeth-Arduino.pdf">slides download</a> (v0.9)
 
 [slideshare id=75473967&amp;doc=rapidprototypingmobileprojectswitharduinoandopenhardware-170427162811]
 

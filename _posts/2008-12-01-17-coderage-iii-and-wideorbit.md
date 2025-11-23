@@ -1,6 +1,6 @@
----
+﻿---
 id: 505
-title: '17 &#8211; CodeRage III and WideOrbit'
+title: '17 – CodeRage III and WideOrbit'
 date: '2008-12-01T14:22:42-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -54,3 +54,4 @@ And lastly, I know a lot of people are looking for work right now, so I wanted t
 You can learn more about <a href="http://www.WideOrbit.com/">WideOrbit on our website</a>, but if you are interested then please email me, or let whomever you contact know that you heard about WideOrbit from Jim McKeeth on the Podcast at Delphi.org.  I look forward to working with you.
 
 I hope you enjoy CodeRage III and I will have a wrap up session from my impression of CodeRage next Monday.  After that we will be back to our usual interview format, although I will be refocused on shorter podcasts.
+

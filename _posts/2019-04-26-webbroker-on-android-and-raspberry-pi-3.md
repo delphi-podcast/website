@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=3330'
 permalink: /2019/04/webbroker-on-android-and-raspberry-pi-3/
-image: /wp-content/uploads/2019/04/Android-WebBroker-Server-389x198.png
+image: /assets/images/2019/04/Android-WebBroker-Server-389x198.png
 categories:
     - News
 tags:
@@ -19,7 +19,7 @@ tags:
 ---
 
 <!-- wp:image {"id":3332,"align":"right","width":273,"height":297} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://delphi.org/wp-content/uploads/2019/04/Android-WebBroker-Server.png" alt="" class="wp-image-3332" width="273" height="297"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="/assets/images/2019/04/Android-WebBroker-Server.png" alt="" class="wp-image-3332" width="273" height="297"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

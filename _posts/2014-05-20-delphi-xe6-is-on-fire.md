@@ -18,7 +18,7 @@ When you run your app from the IDE it will popup and run on the Fire TV, but aft
 
 By default your only input device is the Amazon Fire TV remote.
 
-<img class="aligncenter size-full wp-image-1676" src="http://delphi.org/wp-content/uploads/2014/05/firetvremote.png" alt="firetvremote" width="501" height="501" />
+<img class="aligncenter size-full wp-image-1676" src="/assets/images/2014/05/firetvremote.png" alt="firetvremote" width="501" height="501" />
 
 Simply handle the <strong>OnKeyUp</strong> event on your form and you will receive events with the key codes <em>vkLeft, vkRight, vkUp, vkDown, vkMenu, vkHardwareBack, vkMediaPlayPause</em> and a key value of <strong>0</strong> for the select, fast forward or rewind buttons. The Home and Voice Search buttons are always handled by the OS. If you choose to handle the vkHardwareBack then set the key value to 0 (or any other value) and the system will ignore it, otherwise your app will exit.
 

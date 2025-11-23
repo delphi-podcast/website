@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2708'
 permalink: /2017/02/yes-starter-editions-is-free/
-image: /wp-content/uploads/2017/02/Free-Delphi-Hero-800x800-800x198.png
+image: /assets/images/2017/02/Free-Delphi-Hero-800x800-800x198.png
 categories:
     - News
 tags:
@@ -15,7 +15,7 @@ tags:
 
 I still get people asking about Embarcadero offering a free or community version or <a href="https://www.embarcadero.com/products/delphi">Delphi</a> or <a href="https://www.embarcadero.com/products/cbuilder">C++Builder</a>. That is one of the big strategies of IDERA - offering good free tools. So when we joined IDERA it didn't take long before we started offering <a href="https://www.embarcadero.com/products/delphi/starter/promotional-download">Delphi</a> and <a href="https://www.embarcadero.com/products/cbuilder/starter/promotional-download">C++Builder</a> Starter edition for <em>free (or a 100% discount, depending on who you ask)</em>.<!--more-->
 
-<a href="https://www.embarcadero.com/products/delphi/starter/promotional-download"><img class="alignnone wp-image-2723 size-full" src="http://delphi.org/wp-content/uploads/2017/02/Free-Delphi-Hero-800x800.png" alt="Free Starter Edition" width="800" height="800" /></a>
+<a href="https://www.embarcadero.com/products/delphi/starter/promotional-download"><img class="alignnone wp-image-2723 size-full" src="/assets/images/2017/02/Free-Delphi-Hero-800x800.png" alt="Free Starter Edition" width="800" height="800" /></a>
 
 At first Embarcadero offered it for a limited time, but it is still offered it and you can still get it. The next question I get is "Will it be free forever?" to which I reply something along the lines that forever is a really long time, and I don't have a crystal ball.
 

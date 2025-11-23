@@ -1,6 +1,6 @@
----
+﻿---
 id: 765
-title: '33 &#8211; Andreas Hausladen'
+title: '33 – Andreas Hausladen'
 date: '2009-10-12T00:30:32-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -18,8 +18,9 @@ tags:
     - 'Spirit of Delphi'
 ---
 
-<img class="alignright size-full wp-image-781" title="Andreas Hausladen" src="http://www.delphi.org/wp-content/uploads/2009/10/andreashausladen.jpg" alt="Andreas Hausladen" width="170" height="204" />For our first podcast after an extended hiatus we spoke with the amazing <a href="http://blogs.embarcadero.com/nickhodges/2007/12/06/38987">Spirit of Delphi 2007</a> award winner <a href="http://andy.jgknet.de/">Andreas Hausladen</a>.  For those who don't know Andreas, he is the creator and maintainer of a number of Delphi addons, libraries and fixes, including <a href="http://andy.jgknet.de/blog/?page_id=10">DDevExtensions</a>, <a href="http://andy.jgknet.de/blog/?page_id=288">VCL Fix Pack</a> and <a href="http://andy.jgknet.de/blog/?page_id=246">IDE Fix Pack</a>.  Much of the code of his <a href="http://andy.jgknet.de/blog/?page_id=8">DelphiSpeedUp</a> were incorporated into Delphi 2007 and most all of it into Delphi 2009.
+<img class="alignright size-full wp-image-781" title="Andreas Hausladen" src="/assets/images/2009/10/andreashausladen.jpg" alt="Andreas Hausladen" width="170" height="204" />For our first podcast after an extended hiatus we spoke with the amazing <a href="http://blogs.embarcadero.com/nickhodges/2007/12/06/38987">Spirit of Delphi 2007</a> award winner <a href="http://andy.jgknet.de/">Andreas Hausladen</a>.  For those who don't know Andreas, he is the creator and maintainer of a number of Delphi addons, libraries and fixes, including <a href="http://andy.jgknet.de/blog/?page_id=10">DDevExtensions</a>, <a href="http://andy.jgknet.de/blog/?page_id=288">VCL Fix Pack</a> and <a href="http://andy.jgknet.de/blog/?page_id=246">IDE Fix Pack</a>.  Much of the code of his <a href="http://andy.jgknet.de/blog/?page_id=8">DelphiSpeedUp</a> were incorporated into Delphi 2007 and most all of it into Delphi 2009.
 
 This is the first podcast recorded with my new Blue Snowflake microphone.  Let me know if you like the audio better.
 
 The picture of Andreas is actually a few years old.  He didn't have a current one.
+

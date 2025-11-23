@@ -21,7 +21,7 @@ MikeG reported that he wasn't able to get the <a href="http://www.delphi.org/200
 
 Go to <strong>Tools </strong>/ <strong>Configure Tools </strong>/ <strong>Add</strong>
 
-<a href="http://www.delphi.org/wp-content/uploads/2008/09/1-addingexploretool.png"><img class="alignnone size-medium wp-image-246" title="Adding an Explore Tool" src="http://www.delphi.org/wp-content/uploads/2008/09/1-addingexploretool.png" alt="Adding an Explore Tool" /></a>
+<a href="/assets/images/2008/09/1-addingexploretool.png"><img class="alignnone size-medium wp-image-246" title="Adding an Explore Tool" src="/assets/images/2008/09/1-addingexploretool.png" alt="Adding an Explore Tool" /></a>
 
 The Title can be anything you want.  The program is <strong>Explorer </strong>(the .exe is optional) and the parameters must be<strong> /select, $edname</strong> (be sure you remember the comma!)
 

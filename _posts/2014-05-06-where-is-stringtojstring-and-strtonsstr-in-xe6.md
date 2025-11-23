@@ -16,13 +16,13 @@ The useful helper routines <strong>StringToJString</strong> and <strong>StrToNS
 
 You want to go to Indexing Options to set Windows Search up to be useful.
 
-<img class="aligncenter size-full wp-image-1656" src="http://delphi.org/wp-content/uploads/2014/05/Indexing-Options.png" alt="Windows Search Indexing Options" width="589" height="673" />
+<img class="aligncenter size-full wp-image-1656" src="/assets/images/2014/05/Indexing-Options.png" alt="Windows Search Indexing Options" width="589" height="673" />
 
 First select <strong>Modify</strong> and browse to the Source folder and add it to the list of indexed locations. I like to add the source folder as a favorite in Explorer too, to make it easier to get back there.
 <blockquote>C:\Program Files (x86)\Embarcadero\Studio\14.0\source</blockquote>
 Next click <strong>Advanced</strong> and go to the <strong>File Types</strong> tab and select <strong>.PAS</strong> file and any other file types you would like to have indexed, and change them to <strong>Index Properties and File Contents</strong>. It uses the plain text filter, which in my experience is good enough, and your only option (without installing a new one).
 
-<img class="aligncenter size-full wp-image-1657" src="http://delphi.org/wp-content/uploads/2014/05/Indexing-Options-Advanced.png" alt="Indexing Options - Advanced - File Types" width="460" height="608" />
+<img class="aligncenter size-full wp-image-1657" src="/assets/images/2014/05/Indexing-Options-Advanced.png" alt="Indexing Options - Advanced - File Types" width="460" height="608" />
 
 It takes a bit for the index to rebuild, but after that you can quickly search all of the XE6 source to find APIs, Helper Methods or any number of other useful code to aid in your development process. This is where that favorite to the source folder is helpful. Either search from the root of the source folder, or browse into a subfolder to only search specific source files.
 

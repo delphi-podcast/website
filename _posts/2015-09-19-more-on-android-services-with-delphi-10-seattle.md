@@ -13,7 +13,7 @@ tags:
     - Mobile
 ---
 
-<img class="alignright size-full wp-image-2036" src="http://delphi.org/wp-content/uploads/2015/09/NewAndroidServiceWizard.png" alt="New Android Service Wizard" width="335" height="395" />Today we had our <a href="http://forms.embarcadero.com/RAD10SeattleDeepDive?cid=701G0000000tKTx">RAD Studio 10 Seattle Deep Dive</a> and I expanded on my <a href="http://delphi.org/2015/09/minimalistic-android-service-with-delphi-10-seattle/">Minimalistic Android Studio</a> video with some more details. If you didn't get registered to join us live, be sure and <a href="http://forms.embarcadero.com/RAD10SeattleDeepDive?cid=701G0000000tKTx">register now</a> to get access to the replay. In the meantime, here are some more details and a new sample for you.
+<img class="alignright size-full wp-image-2036" src="/assets/images/2015/09/NewAndroidServiceWizard.png" alt="New Android Service Wizard" width="335" height="395" />Today we had our <a href="http://forms.embarcadero.com/RAD10SeattleDeepDive?cid=701G0000000tKTx">RAD Studio 10 Seattle Deep Dive</a> and I expanded on my <a href="http://delphi.org/2015/09/minimalistic-android-service-with-delphi-10-seattle/">Minimalistic Android Studio</a> video with some more details. If you didn't get registered to join us live, be sure and <a href="http://forms.embarcadero.com/RAD10SeattleDeepDive?cid=701G0000000tKTx">register now</a> to get access to the replay. In the meantime, here are some more details and a new sample for you.
 
 These slides cover both Android Services and iOS Background Execution Mode. You can read about the different <a href="http://embt.co/UIBackgroundModes">iOS Background Modes</a> in Apple's documentation.
 

@@ -1,6 +1,6 @@
----
+﻿---
 id: 341
-title: '11 &#8211; More Roundtable'
+title: '11 – More Roundtable'
 date: '2008-10-20T08:13:25-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -42,3 +42,4 @@ Another round table discussion about latest news and developments.
 <a href="http://blogs.remobjects.com/blogs/mh"><img class="alignleft" title="marc hoffman" src="http://delphi.org/images/guests/marchoffman%28small%29.jpg" alt="" width="150" height="99" /></a>marc hoffman is the Chief Software Architect for <a href="http://www.remobjects.com/">RemObjects</a> and a Spare-time Photographer. When he is not guest appearing on this podcast he runs a <a href="http://blogs.remobjects.com/blogs/mh">blog at RemObjects.com</a> where he talks about Oxygene and shares some of his photographs. marc lives in Berlin Germany, and prefers his name all lowercase.  Follow him on <a href="http://twitter.com/dwarfland">Twitter</a>.
 
 Time is running out for the <a href="http://www.remobjects.com/">RemObjects</a> and <a href="http://www.ScooterSoftware.com/">BeyondCompare</a> discount codes.  I look forward to seeing everyone at PDC next week!
+

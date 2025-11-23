@@ -44,3 +44,4 @@ http://www.youtube.com/watch?v=WZgUJKlAHuo
 
 What to learn more about other devices and gadgets? Join me for my free webinar on <a href="http://forms.embarcadero.com/DevicesWebinar1-22">Programming Devices and Gadgets with RAD Studio</a>&nbsp;on January 22nd.<a href="http://forms.embarcadero.com/DevicesWebinar1-22"><img class="alignnone" alt="Programming Devices and Gadgets with RAD Studio" src="http://img.en25.com/EloquaImages/clients/Embarcadero/%7Bbdf8dda7-28a8-449b-9a5a-23cf781bd523%7D_RADInAction_Devices_680x150.jpg" width="680" height="150"></a></trigger></uses-permission></meta-data></action>
 
+

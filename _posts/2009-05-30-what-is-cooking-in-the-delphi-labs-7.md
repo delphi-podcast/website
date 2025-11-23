@@ -1,6 +1,6 @@
----
+﻿---
 id: 709
-title: 'Delphi Live! 2009 &#8211; What&#8217;s Cooking in the Delphi Labs &#8211; Part 7'
+title: 'Delphi Live! 2009 – What’s Cooking in the Delphi Labs – Part 7'
 date: '2009-05-30T22:08:34-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -34,3 +34,4 @@ Part 7 of 8
 [<a href="http://www.youtube.com/watch?v=AFZbMQJpQNM">YouTube</a>]
 
 [<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-6/">Part 6</a>] - [Part 8] <em>(Coming soon!)</em>
+

@@ -18,7 +18,7 @@ tags:
     - poll
 ---
 
-<img class="alignright size-full wp-image-804" title="Community Nominee" src="http://www.delphi.org/wp-content/uploads/2009/11/community-nominee.jpg" alt="Community Nominee" />John Thomas of <a href="http://Wings-of-Wind.com/">Wings-of-Wind.com</a> started a community poll.  Originally he was calling it the <a href="http://wings-of-wind.com/2009/10/13/spirit-of-delphi-award-2009/">Spirit of Delphi award</a>, but then it was pointed out that the Spirit of Delphi is awarded by the Delphi R&amp;D team.  Well John didn't let this discourage him, so he renamed it the Delphi Legends Community Award.
+<img class="alignright size-full wp-image-804" title="Community Nominee" src="/assets/images/2009/11/community-nominee.jpg" alt="Community Nominee" />John Thomas of <a href="http://Wings-of-Wind.com/">Wings-of-Wind.com</a> started a community poll.  Originally he was calling it the <a href="http://wings-of-wind.com/2009/10/13/spirit-of-delphi-award-2009/">Spirit of Delphi award</a>, but then it was pointed out that the Spirit of Delphi is awarded by the Delphi R&amp;D team.  Well John didn't let this discourage him, so he renamed it the Delphi Legends Community Award.
 
 John kicked off <a href="http://wings-of-wind.com/2009/10/17/spirit-of-delphi-award-2009-the-poll/">the poll</a> process by nominating Zarko Gajic of Delphi.About.Com and Peter Below of TeamB.  Then the community nominated a number of others, including myself.  Just being nominated among such other great Delphi legends is quite an honor.
 

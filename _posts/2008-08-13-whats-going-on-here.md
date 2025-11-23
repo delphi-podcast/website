@@ -1,6 +1,6 @@
----
+﻿---
 id: 10
-title: 'What&#8217;s going on here?'
+title: 'What’s going on here?'
 date: '2008-08-13T00:06:54-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -25,3 +25,4 @@ I am going to start out with a weekly audio podcast, but in the future I hope to
 Just remember, Delphi Rocked before Dot Net did!
 
 <em><strong>Update</strong>: <a href="http://www.delphi.org/2008/08/episode-1-tiburon/">Episode 1 is out!</a></em>
+

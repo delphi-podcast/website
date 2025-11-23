@@ -1,6 +1,6 @@
----
+﻿---
 id: 499
-title: '16 &#8211; CodeRage, Delphi RobotRage and Technology'
+title: '16 – CodeRage, Delphi RobotRage and Technology'
 date: '2008-11-25T23:17:21-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -33,3 +33,4 @@ Speaking of CodeRage, one of my sessions is the <strong>Revenge of Delphi Robot 
 For more information visit <a href="http://www.delphi.org/robot-rage/">www.delphi.org/robot-rage/ </a>where you can download the SDK.  The only requirement is you submit source that can be compiled in either Delphi 2009 or Delphi Prism.  You have until midnight Pacific time on <strong>December 3rd </strong>to submit your robot.  That way I will have time to have them face off and record the battle.
 
 For the podcast this week I have what I believe is a real treat.  After I finished recording <a href="http://www.delphi.org/2008/10/episode-12-nick-marc-allen-on-delphi-prism/">Episode 12 with Nick, marc and Allen at PDC</a> we all started discussing technology, specifically where it was headed and where it had been.  This is a real candid conversation, and I happened to record it as well.  Keep in mind everyone here was just talking as themselves, and not speaking for the companies they work for, so there are no official statements or anything like that.  Just four guys having a nice conversation.  We started out talking about how long the 64-bit architecture would be enough before we needed to jump to whatever is next . . .
+

@@ -12,7 +12,7 @@ tags:
     - News
 ---
 
-[caption id="attachment_1129" align="alignright" width="300" caption="Good news everyone!"]<img class="size-medium wp-image-1129" title="Professor Farnsworth" src="http://delphi.org/wp-content/uploads/2012/04/professor-farnsworth-right-300x241.png" alt="Professor Farnsworth" width="300" height="241" />[/caption]
+[caption id="attachment_1129" align="alignright" width="300" caption="Good news everyone!"]<img class="size-medium wp-image-1129" title="Professor Farnsworth" src="/assets/images/2012/04/professor-farnsworth-right-300x241.png" alt="Professor Farnsworth" width="300" height="241" />[/caption]
 
 Simon "Is-he-actually-human?" Stuart and Jamie "Something pithy" Ingilby are hosting the next episode of the Podcast at Delphi.org. The bad news to this is that your regular host, Jim McKeeth, will not be hosting. However, all is not lost! For the 50th Episode of the Podcast at Delphi.org it has been decided that the tables should be turned on Jim and that he should be answering questions instead of asking them!
 

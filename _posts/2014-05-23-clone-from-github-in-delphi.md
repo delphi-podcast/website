@@ -16,7 +16,7 @@ There are a lot of interesting Delphi projects showing up on <a href="http://www
 
 Sometimes it is nice to just open the project in your <a href="http://www.embarcadero.com/products/rad-studio">IDE of choice</a> directly from GitHub. Turns out this is just as easy as 1-2-3. Right above the <em>Clone in Desktop</em> and <em>Download ZIP</em> buttons there is a <strong>checkout URL</strong> with support for Subversion. Simple click Subversion, then click copy URL and your can then open the GitHub project directly from the Delphi or RAD Studio IDE.
 
-<a href="http://delphi.org/wp-content/uploads/2014/05/github-subversion.png"><img class="aligncenter size-large wp-image-1694" src="http://delphi.org/wp-content/uploads/2014/05/github-subversion-1024x740.png" alt="github-subversion" width="620" height="448" /></a>
+<a href="/assets/images/2014/05/github-subversion.png"><img class="aligncenter size-large wp-image-1694" src="/assets/images/2014/05/github-subversion-1024x740.png" alt="github-subversion" width="620" height="448" /></a>
 
 This maintains the revision history locally so you can browse it from the history tab, but it doesn't appear to allow checking changes back in.
 

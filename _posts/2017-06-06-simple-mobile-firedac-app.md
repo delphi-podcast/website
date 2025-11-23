@@ -16,7 +16,7 @@ Go ahead and lay the UI out the same, and put down most of the same FireDAC com
 
 So your form will look something like this . . .
 
-<img class="aligncenter size-full wp-image-2841" src="http://delphi.org/wp-content/uploads/2017/06/FireDAC-ToDo-1.png" alt="FireDAC-ToDo-1" width="318" height="467" />
+<img class="aligncenter size-full wp-image-2841" src="/assets/images/2017/06/FireDAC-ToDo-1.png" alt="FireDAC-ToDo-1" width="318" height="467" />
 
 Add an implementation uses clause
 

@@ -1,6 +1,6 @@
----
+﻿---
 id: 745
-title: '32 &#8211; Upgrading WordPress'
+title: '32 – Upgrading WordPress'
 date: '2009-07-28T03:28:52-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -22,3 +22,4 @@ And now for something completely different.  Today we have a video podcast of u
 You can watch the <a href="http://podcast.remobjects.com/32-UpgradingWordpress/32-UpgradingWordpress.html">video online</a>, or download it to watch later.  I included the MP3 as well, but this is much better as a video podcast.
 
 Let me know if you like these portable formatted video podcasts.
+

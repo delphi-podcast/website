@@ -18,7 +18,7 @@ tags:
     - News
 ---
 
-<a href="http://www.delphi.org/wp-content/uploads/2008/10/delphi_man.pdf"><img class="alignright size-full wp-image-345" title="Delphi Man" src="http://www.delphi.org/wp-content/uploads/2008/10/delphiman.png" alt="" /></a>My friend <a href="http://jamie.op-i.net/wordpress/">Jamie</a> sent me a <a href="http://twitter.com/jamiei/statuses/964496746">Twitter earlier</a> that he found an original Delphi Man.  Jamie said he has actually had Delphi Man at his side on his desk for quite some time.  He is actually planning to patch him to say <a title="CodeGear Rocks!" href="http://www.CodeGear.com/">CodeGear</a> instead of Borland, although the Borland is fairly discrete now.
+<a href="/assets/images/2008/10/delphi_man.pdf"><img class="alignright size-full wp-image-345" title="Delphi Man" src="/assets/images/2008/10/delphiman.png" alt="" /></a>My friend <a href="http://jamie.op-i.net/wordpress/">Jamie</a> sent me a <a href="http://twitter.com/jamiei/statuses/964496746">Twitter earlier</a> that he found an original Delphi Man.  Jamie said he has actually had Delphi Man at his side on his desk for quite some time.  He is actually planning to patch him to say <a title="CodeGear Rocks!" href="http://www.CodeGear.com/">CodeGear</a> instead of Borland, although the Borland is fairly discrete now.
 
 So print out Delphi Man and take him with you on all your Delphi Programming adventures as you fight the evil forces of Doctor Deadline and his sinister sidekicks Bug Boy and Feature Creaper.
 

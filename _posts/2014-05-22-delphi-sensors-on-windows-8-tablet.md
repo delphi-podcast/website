@@ -12,7 +12,7 @@ tags:
 
 New in XE6 is support for VCL Sensors. What better way to show these off then on the <a title="Dell Venue 8 Pro" href="http://www.dell.com/us/p/dell-venue-8-pro/pd">8" Dell Venue 8 Pro Windows 8.1 Tablet</a>. The <strong>VCLSensors</strong> sample ships with <a href="http://www.embarcadero.com/products/rad-studio">RAD Studio XE6</a>. I simply deployed it to the Dell Venue 8 Pro and it runs great.
 
-<a href="http://delphi.org/wp-content/uploads/2014/05/VCL-Sensors-on-Dell-Venue-8-Pro.jpg"><img class="aligncenter size-large wp-image-1691" src="http://delphi.org/wp-content/uploads/2014/05/VCL-Sensors-on-Dell-Venue-8-Pro-1024x576.jpg" alt="VCL Sensors on Dell Venue 8 Pro" width="620" height="348" /></a>
+<a href="/assets/images/2014/05/VCL-Sensors-on-Dell-Venue-8-Pro.jpg"><img class="aligncenter size-large wp-image-1691" src="/assets/images/2014/05/VCL-Sensors-on-Dell-Venue-8-Pro-1024x576.jpg" alt="VCL Sensors on Dell Venue 8 Pro" width="620" height="348" /></a>
 
 &nbsp;
 

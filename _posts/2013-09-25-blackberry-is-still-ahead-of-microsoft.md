@@ -13,7 +13,7 @@ tags:
 
 When talking about Delphi XE5's support for Android and iOS, someone usually asks if we plan to support Windows Phone, but never asks (that I've heard) if we plan to support Blackberry. In the news we keep hearing how <a href="http://www.bbc.co.uk/news/business-24182038">Blackberry is struggling</a> and losing market share, while Microsoft is fighting to gain market share. Interestingly Blackberry is still ahead of Microsoft.
 
-<a href="http://www.comscore.com/Insights/Press_Releases/2013/9/comScore_Reports_July_2013_U.S._Smartphone_Subscriber_Market_Share"><img class="aligncenter size-full wp-image-1315" alt="Mobile Market Share" src="http://delphi.org/wp-content/uploads/2013/09/MobileMarketShare.jpg" width="624" height="463" /></a>
+<a href="http://www.comscore.com/Insights/Press_Releases/2013/9/comScore_Reports_July_2013_U.S._Smartphone_Subscriber_Market_Share"><img class="aligncenter size-full wp-image-1315" alt="Mobile Market Share" src="/assets/images/2013/09/MobileMarketShare.jpg" width="624" height="463" /></a>
 
 &nbsp;
 

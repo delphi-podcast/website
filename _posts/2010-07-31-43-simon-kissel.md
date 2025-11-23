@@ -1,6 +1,6 @@
----
+﻿---
 id: 969
-title: '43 &#8211; Simon Kissel'
+title: '43 – Simon Kissel'
 date: '2010-07-31T22:59:49-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -23,3 +23,4 @@ In episode 43 I have a nice conversation with Simon Kissel about his projects:
 Thanks to Simon for his time and my apologies to him and everyone else that this took a while to post.
 
 <strong>Update</strong>: The links were broken due to server issues.  They are working now.  Simon reported over 1000 downloads of CrossKylix since the update.
+

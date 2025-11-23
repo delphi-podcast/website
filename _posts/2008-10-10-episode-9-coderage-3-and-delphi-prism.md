@@ -1,6 +1,6 @@
----
+﻿---
 id: 300
-title: '9 &#8211; CodeRage 3 and Delphi Prism'
+title: '9 – CodeRage 3 and Delphi Prism'
 date: '2008-10-10T01:49:44-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -43,3 +43,4 @@ Delphi Twitters at PDC
 Post a comment if you will be at PDC and include your Twitter page if you have one.
 
 I will be at CodeRage and PDC.  See you there!
+

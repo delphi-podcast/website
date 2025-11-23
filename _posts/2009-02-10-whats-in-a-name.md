@@ -1,6 +1,6 @@
----
+﻿---
 id: 568
-title: 'What&#8217;s in a Language Name?'
+title: 'What’s in a Language Name?'
 date: '2009-02-10T19:31:59-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -33,3 +33,4 @@ I know every C/C++ programmer I have known is very strict about referring to the
 I used to always called it Object Pascal, but I think Delphi is the way to go now.  How about you?  Let me know <em><strong>why </strong></em>in the comments.
 
 <em>That which we call Delphi, by any other name would be as productive!</em>
+

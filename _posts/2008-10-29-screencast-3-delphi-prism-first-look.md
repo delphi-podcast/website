@@ -1,6 +1,6 @@
----
+﻿---
 id: 431
-title: 'Screencast 3 &#8211; Delphi Prism first look'
+title: 'Screencast 3 – Delphi Prism first look'
 date: '2008-10-29T09:28:10-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -20,3 +20,4 @@ I recorded a quick first look at Delphi Prism in Visual Studio 2008.  Just a sh
 	<li><a href="http://www.Delphi.org/screencasts/3-DelphiPrismVideo1.html">Screencast 3 - Delphi Prism first look</a></li>
 </ul>
 More to come!  Let me know what you think and what you would like to see.
+

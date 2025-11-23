@@ -56,7 +56,7 @@ void __fastcall TFormThreading::MyIteratorEvent(TObject *Sender, int AIndex)
 
 <a href="http://delphiaball.co.uk/">Stephen Ball</a> has a series of blog posts on the <a href="http://delphiaball.co.uk/tag/parallel-programming/%20">Parallel Programming Library</a>, including a <a href="http://delphiaball.co.uk/2014/09/05/quick-introduction-to-parallel-programming-with-xe7/">Quick Introduction</a> and one on <a href="http://delphiaball.co.uk/2014/09/23/parallel-programming-thread-pool/">managing the thread pool</a>. As Stephen points out, while you can customize the thread pool, that doesn't alway mean you should. <a href="http://www.malcolmgroves.com/blog/">Malcolm Groves</a> also has some great <a href="http://www.malcolmgroves.com/blog/?cat=109">blog posts on PPL</a>.
 
-<a href="http://dannywind.nl/">Danny Wind</a> has a great Code Rage 9 session on the <a href="http://dannywind.nl/delphi/coderage9/%20">Parallel Programming Library</a> (be sure to <a href="http://dannywind.nl/wp-content/uploads/2014/10/DelphiParallelLibrary_CreateResponsiveApps_DannyWind.zip">download his samples</a>). <em>David I. did the <a href="https://www.youtube.com/watch?v=QJeKfJHbwUk">C++ version</a></em>.
+<a href="http://dannywind.nl/">Danny Wind</a> has a great Code Rage 9 session on the <a href="http://dannywind.nl/delphi/coderage9/%20">Parallel Programming Library</a> (be sure to <a href="http://dannywind.nl/assets/images/2014/10/DelphiParallelLibrary_CreateResponsiveApps_DannyWind.zip">download his samples</a>). <em>David I. did the <a href="https://www.youtube.com/watch?v=QJeKfJHbwUk">C++ version</a></em>.
 
 https://www.youtube.com/watch?v=rZfux4by0po&#038;rel=0
 

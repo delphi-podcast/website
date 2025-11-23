@@ -18,7 +18,7 @@ In the physical world we frequently see it as something made of plastic that is 
 
 Apple's platforms used to be full of a great examples of Skeuomorphism. On iOS all the default icons had a glare that made them look 3D. Many apps, had a extra details to make them look lifelike. Take the Notes app, it was full of torn bits of paper, leather borders, stitching, paper lines, etc. The new version doesn't have any of that (although it does have a slight paper texture).
 
-<a href="http://delphi.org/wp-content/uploads/2014/01/iOS6vsiOS7Notes.png"><img src="http://delphi.org/wp-content/uploads/2014/01/iOS6vsiOS7Notes.png" alt="iOS6 vs iOS7 Notes" width="620" height="465" class="aligncenter size-large wp-image-1462" /></a>
+<a href="/assets/images/2014/01/iOS6vsiOS7Notes.png"><img src="/assets/images/2014/01/iOS6vsiOS7Notes.png" alt="iOS6 vs iOS7 Notes" width="620" height="465" class="aligncenter size-large wp-image-1462" /></a>
 
 iOS 7 didn't lead the move to non-skeuomorphic design. Windows Phone 7 (the predecessor to WP8 and Windows 8) and the Metro design eschewed skeuomorphism completely. (If you are keeping score, iOS 7's features were inspired by Android and design inspired by Microsoft.) Android has always been been straddling the proverbial skeuomorphic fence. Although with the the other two mobile plays moving away from skeuomorphism I expect Android to follow.
 

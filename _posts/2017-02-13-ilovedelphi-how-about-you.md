@@ -13,7 +13,7 @@ tags:
     - 'Request for feedback'
 ---
 
-<a href="http://delphi.org/wp-content/uploads/2017/02/ILoveDelphi-1.png"><img class="alignright wp-image-2681 " src="http://delphi.org/wp-content/uploads/2017/02/ILoveDelphi-1-1024x963.png" alt="#ILoveDelphi" width="400" height="376" /></a>February 14th is Delphi's birthday (and some other holiday). What a great time to talk about how much we love Delphi.
+<a href="/assets/images/2017/02/ILoveDelphi-1.png"><img class="alignright wp-image-2681 " src="/assets/images/2017/02/ILoveDelphi-1-1024x963.png" alt="#ILoveDelphi" width="400" height="376" /></a>February 14th is Delphi's birthday (and some other holiday). What a great time to talk about how much we love Delphi.
 
 I moved from Basic to Turbo Pascal back in the DOS days, and then started using Delphi with version 2. Since then I've used a number of other development tools, including Objective-C, Java, JavaScript, C# and others. Delphi has always been my favorite. It is the tool I turn to when I need to get something done quickly, and it is the bar which I use to measure every other development tool (and none of them measure up).
 

@@ -10,7 +10,7 @@ tags:
     - 'Source Code'
 ---
 
-<a href="https://moto360.motorola.com/"><img class="alignright size-medium wp-image-1777" src="http://delphi.org/wp-content/uploads/2014/09/hero-moto-360-210x300.png" alt="Moto 360" width="210" height="300" /></a>I really like my <a href="https://moto360.motorola.com/">Moto 360</a> watch. It looks fabulous, and does great as an extension of my Android phone, but of course the most important question is how to make an app for it. Turns out it just works with <a href="http://www.embarcadero.com/products/rad-studio">RAD Studio X7</a>, Delphi or C++. Thanks to the new FireUI Multi-Device designer I can actually create a custom view in the UI to make designing the perfect user interface a breeze. Here are some of the details of what I discovered along the way, followed by a download of my sample and the custom view.
+<a href="https://moto360.motorola.com/"><img class="alignright size-medium wp-image-1777" src="/assets/images/2014/09/hero-moto-360-210x300.png" alt="Moto 360" width="210" height="300" /></a>I really like my <a href="https://moto360.motorola.com/">Moto 360</a> watch. It looks fabulous, and does great as an extension of my Android phone, but of course the most important question is how to make an app for it. Turns out it just works with <a href="http://www.embarcadero.com/products/rad-studio">RAD Studio X7</a>, Delphi or C++. Thanks to the new FireUI Multi-Device designer I can actually create a custom view in the UI to make designing the perfect user interface a breeze. Here are some of the details of what I discovered along the way, followed by a download of my sample and the custom view.
 
 The bottom line is it just works, which really isn't a surprise. Most new Android devices use <a href="http://www.arm.com/products/processors/technologies/neon.php">ARMv7 and the NEON instruction set</a>. (NEON is kind of like the MMX standard on the Intel platform. At first not everyone used those instructions, but once they caught on, everyone did.) So it is no surprise that the Moto 360 does too. Unlike some of the other watches, the Moto 360 does not have a micro USB port. So you have to use <a href="https://developer.android.com/training/wearables/apps/bt-debugging.html">ADB over BlueTooth</a>. This requires a few extra steps to setup, and is <em>really slow</em> to deploy over. So slow I canceled the first two deployments because I thought I set something up wrong.
 
@@ -42,7 +42,7 @@ The requirement to get the custom view to show up in the IDE is you need to upda
 
 You'll need to update the path to that Artwork to point to the correct location of the PNG on your system. Or you can just leave it blank. Here is what it all looks like when setup in the IDE.
 
-<a href="http://delphi.org/wp-content/uploads/2014/09/HelloMoto360-IDE.png"><img class="alignnone size-large wp-image-1781" src="http://delphi.org/wp-content/uploads/2014/09/HelloMoto360-IDE-1024x703.png" alt="Hello Moto 360 in the XE7 IDE" width="620" height="425" /></a>
+<a href="/assets/images/2014/09/HelloMoto360-IDE.png"><img class="alignnone size-large wp-image-1781" src="/assets/images/2014/09/HelloMoto360-IDE-1024x703.png" alt="Hello Moto 360 in the XE7 IDE" width="620" height="425" /></a>
 
 You'll notice a red circle on the design surface. I added this to see where the corners are (since the display is round). At runtime you can just barely see the red if you hold the watch right. In production I'd hide this at runtime. I placed the TCircle at -1, -1 and set the size to 242 x 242. This way the circle follows the bezel and not the display area of the screen. I suppose if I bumped it out another pixel it would disappear completely at runtime.
 
@@ -93,17 +93,17 @@ Now the Android Wear app on your phone should show
 </ul>
 Be sure that your Moto 360 app uses the unit that defines the Moto 360 device (from your package). This way your app can select it at runtime. If you do all that, you'll see something similar to this with it running on the Moto 360:
 
-<img class="alignnone size-full wp-image-1782" src="http://delphi.org/wp-content/uploads/2014/09/20140918_180154.jpg" alt="Hello Moto 360 from Delphi XE7" width="746" height="600" />
+<img class="alignnone size-full wp-image-1782" src="/assets/images/2014/09/20140918_180154.jpg" alt="Hello Moto 360 from Delphi XE7" width="746" height="600" />
 
 My camera had a hard time focusing on it, but rest assured it looks fabulous! I tried C++ too, and no surprises, it works as well. More experimenting to do, but it is nice to know I have a tool that will take me everywhere I want to go.
 
 If you don't have a Moto 360, you can setup an Android emulator (AVD) instead. I did that before mine showed up. You need to download the Android 4.4W (API20) SDK Platform and ARM System image.
 
-<img class="alignnone size-full wp-image-1784" src="http://delphi.org/wp-content/uploads/2014/09/SDK.png" alt="Android Wear SDK Download" width="738" height="610" />
+<img class="alignnone size-full wp-image-1784" src="/assets/images/2014/09/SDK.png" alt="Android Wear SDK Download" width="738" height="610" />
 
 Then create an AVD with the new Emulator.
 
-<img class="alignnone size-full wp-image-1785" src="http://delphi.org/wp-content/uploads/2014/09/AVD-Settings.png" alt="Android Wear AVD Settings" width="482" height="696" />
+<img class="alignnone size-full wp-image-1785" src="/assets/images/2014/09/AVD-Settings.png" alt="Android Wear AVD Settings" width="482" height="696" />
 
 It actually gives you the rectangle screen with a round bezel. Also it is 320 x 320 (so completely round) and 240 PPI. This means the view I created (since it was exclusive) won't work on the emulator. You'll need to create a new custom view for the emulator, but I'll leave that up to to.
 

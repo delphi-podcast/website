@@ -7,16 +7,16 @@ layout: post
 guid: 'http://delphi.org/?p=3371'
 permalink: /2019/06/integrating-obs-studio-with-x-keys-xk-24-usb-keypad/
 enclosure:
-    - "http://delphi.org/wp-content/uploads/2019/06/XkeysOBS.mp4\n48877903\nvideo/mp4\n"
-image: /wp-content/uploads/2019/06/image-8-651x198.png
+    - "/assets/images/2019/06/XkeysOBS.mp4\n48877903\nvideo/mp4\n"
+image: /assets/images/2019/06/image-8-651x198.png
 categories:
     - News
 tags:
     - News
 ---
 
-<!-- wp:video {"autoplay":false,"id":3372,"loop":false,"muted":false,"src":"http://delphi.org/wp-content/uploads/2019/06/XkeysOBS.mp4"} -->
-<figure class="wp-block-video"><video controls src="http://delphi.org/wp-content/uploads/2019/06/XkeysOBS.mp4"></video><figcaption>Short demo and introduction</figcaption></figure>
+<!-- wp:video {"autoplay":false,"id":3372,"loop":false,"muted":false,"src":"/assets/images/2019/06/XkeysOBS.mp4"} -->
+<figure class="wp-block-video"><video controls src="/assets/images/2019/06/XkeysOBS.mp4"></video><figcaption>Short demo and introduction</figcaption></figure>
 <!-- /wp:video -->
 
 <!-- wp:paragraph -->
@@ -24,7 +24,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3376} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image-2.png" alt="" class="wp-image-3376"/></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image-2.png" alt="" class="wp-image-3376"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -32,7 +32,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3377} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image-8.png" alt="" class="wp-image-3377"/></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image-8.png" alt="" class="wp-image-3377"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

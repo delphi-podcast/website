@@ -1,6 +1,6 @@
----
+﻿---
 id: 947
-title: '41 &#8211; Primoz Gabrijelcic &#8211; OmniThreadLibrary'
+title: '41 – Primoz Gabrijelcic – OmniThreadLibrary'
 date: '2010-05-18T02:05:16-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -31,3 +31,4 @@ Primoz is a long time Delphi developer as well as writer for The Delphi Magazine
 	<li>The OmniThreadLibrary</li>
 	<li>and more!</li>
 </ul>
+

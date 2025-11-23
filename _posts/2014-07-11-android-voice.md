@@ -1,6 +1,6 @@
----
+﻿---
 id: 1731
-title: 'Skill Sprint: Android Voice &#8211; Speech Recognition and TTS'
+title: 'Skill Sprint: Android Voice – Speech Recognition and TTS'
 date: '2014-07-11T11:19:16-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -12,7 +12,7 @@ tags:
     - webinar
 ---
 
-<img class="alignright size-medium wp-image-1733" src="http://delphi.org/wp-content/uploads/2014/07/Talking-Android-243x300.png" alt="Androids can talk and listen!" width="243" height="300" />For my Developer Skill Sprint I was originally scheduled to show how to do a Google Glass Voice Trigger. That is pretty cool because it allows you to launch a Google Glass app with your voice, but I decided to expand on that to also show how the Google Glass app can be launched with the results of additional voice input, as well as how to take dictation and do text to speech everywhere else in Android.
+<img class="alignright size-medium wp-image-1733" src="/assets/images/2014/07/Talking-Android-243x300.png" alt="Androids can talk and listen!" width="243" height="300" />For my Developer Skill Sprint I was originally scheduled to show how to do a Google Glass Voice Trigger. That is pretty cool because it allows you to launch a Google Glass app with your voice, but I decided to expand on that to also show how the Google Glass app can be launched with the results of additional voice input, as well as how to take dictation and do text to speech everywhere else in Android.
 <ul>
 	<li><a href="http://www.slideshare.net/jimmckeeth/android-voice-skill-sprint">Slides</a> (SlideShare)</li>
 	<li><a href="https://github.com/jimmckeeth/FireMonkey-Android-Voice/">Demo and Components</a> (GitHub)</li>
@@ -22,3 +22,4 @@ I've still got a lot of work to do on the components, but they work as is for no
 http://www.youtube.com/watch?v=MmgFcg_mGsA
 
 &nbsp;
+

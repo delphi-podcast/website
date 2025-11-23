@@ -11,7 +11,7 @@ tags:
     - Funny
 ---
 
-<a href="codingindelphi.com"><img class=" wp-image-2409 alignright" src="http://delphi.org/wp-content/uploads/2016/05/CodingInDelphiCover.png" alt="Nick Hodges' Coding In Delphi" width="179" height="232" /></a>I was reading <a href="http://www.codingindelphi.com/blog/">Nick Hodges</a>’ <a href="http://codingindelphi.com/">Coding in Delphi</a> again last night (insomnia). In chapter 1 on <em>Exception Handling</em> he opens talking about how <em>not</em> to use exceptions. It got me thinking about some of the atrocious exception usage I’ve seen. I thought I would share a few examples beyond the usual exception sins.
+<a href="codingindelphi.com"><img class=" wp-image-2409 alignright" src="/assets/images/2016/05/CodingInDelphiCover.png" alt="Nick Hodges' Coding In Delphi" width="179" height="232" /></a>I was reading <a href="http://www.codingindelphi.com/blog/">Nick Hodges</a>’ <a href="http://codingindelphi.com/">Coding in Delphi</a> again last night (insomnia). In chapter 1 on <em>Exception Handling</em> he opens talking about how <em>not</em> to use exceptions. It got me thinking about some of the atrocious exception usage I’ve seen. I thought I would share a few examples beyond the usual exception sins.
 <h2>The Try / Except / Raise / Free Pattern</h2>
 The documentation on the <b>Try / Except</b> pattern says that all the code after the <b>Except</b> block gets ran because the exception is handled. Additionally you can call <b>Raise</b> during the handler to send the exception further up the call stack.
 
@@ -48,4 +48,4 @@ The second issue is this was just one subsystem of a larger project. It was only
 
 I really believe that in a large project there should be some consistency in how the pieces are architected unless there is a compelling reason to do things different in one subsystem. That makes it easier for developers to work in different parts of the system.
 <h2 style="text-align: center;">So what are the craziest abuses of exceptions and exception handling you’ve seen?</h2>
-By the way, Nick has a new book out on <a href="https://leanpub.com/dependencyinjectionindelphi">Dependency Injection in Delphi</a>. You should pick up a copy.<a href="https://leanpub.com/dependencyinjectionindelphi"><img class="aligncenter wp-image-2733" src="http://delphi.org/wp-content/uploads/2017/02/Dependency-Injection-In-Delphi.jpg" alt="Nick Hodges' Dependency Injection In Delphi" width="203" height="264" /></a>
+By the way, Nick has a new book out on <a href="https://leanpub.com/dependencyinjectionindelphi">Dependency Injection in Delphi</a>. You should pick up a copy.<a href="https://leanpub.com/dependencyinjectionindelphi"><img class="aligncenter wp-image-2733" src="/assets/images/2017/02/Dependency-Injection-In-Delphi.jpg" alt="Nick Hodges' Dependency Injection In Delphi" width="203" height="264" /></a>

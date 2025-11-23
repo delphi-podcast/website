@@ -1,6 +1,6 @@
----
+﻿---
 id: 719
-title: 'Delphi Live! 2009 &#8211; Whitespace'
+title: 'Delphi Live! 2009 – Whitespace'
 date: '2009-06-30T03:49:02-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -37,3 +37,4 @@ One suggestion was a hosted version of Delphi that you could use virtually, but 
 If anyone else has any suggestions for a Turbo version or something similar then please make your ideas known.
 
 I am expecting the next Delphi to be a great release and am looking forward to the weaver beta blog posts and the Delphi 2010 release.
+

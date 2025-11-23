@@ -1,6 +1,6 @@
----
+﻿---
 id: 1989
-title: 'MVP Tweets of the Week &#8211; April 26, 2015'
+title: 'MVP Tweets of the Week – April 26, 2015'
 date: '2015-05-03T19:07:56-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -153,3 +153,4 @@ That is just some of the Tweets from our MVPs. You should really follow them to 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 Not all of our MVPs are active on Twitter, check out the <a href="http://www.embarcadero.com/mvp-directory">MVP directory</a> for details on each of them. In the future I'll highlight updates from different sources.
+

@@ -2,3 +2,8 @@
 name: 'The Podcast at Delphi.org'
 description: 'The Podcast about the Delphi programming language, tools, news and community.'
 baseurl: ""
+permalink: /:title/
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme

@@ -17,7 +17,7 @@ Here is the video replay. It is about half Q&amp;A and half presentation.
 
 https://www.youtube.com/watch?v=nkjVPOGcdw0
 
-If you want to download my sample application: <a href="http://delphi.org/wp-content/uploads/2015/03/LocalSQL-demo.zip">LocalSQL-demo</a>
+If you want to download my sample application: <a href="/assets/images/2015/03/LocalSQL-demo.zip">LocalSQL-demo</a>
 
 Slides:
 

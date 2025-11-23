@@ -28,13 +28,13 @@ If you run <a href="http://delphi.org/2013/09/syscheck-for-xe5-compatibility/">S
 
 This first screenshot shows Glass appearing in the Project Manager as a valid target (once the required USB drivers were installed, which was tricky for glass).
 
-<a href="http://delphi.org/wp-content/uploads/2013/11/HelloGlassProjectManager.png"><img class="aligncenter size-full wp-image-1372" alt="HelloGlassProjectManager" src="http://delphi.org/wp-content/uploads/2013/11/HelloGlassProjectManager.png" width="385" height="414" /></a>
+<a href="/assets/images/2013/11/HelloGlassProjectManager.png"><img class="aligncenter size-full wp-image-1372" alt="HelloGlassProjectManager" src="/assets/images/2013/11/HelloGlassProjectManager.png" width="385" height="414" /></a>
 
 Here is a screenshot of the app running on Glass
-<p style="text-align: center;"><img class="aligncenter  wp-image-1373" alt="Delphi XE5 App running on Google Glass" src="http://delphi.org/wp-content/uploads/2013/11/HelloGlassScreen.png" width="640" height="360" /></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-1373" alt="Delphi XE5 App running on Google Glass" src="/assets/images/2013/11/HelloGlassScreen.png" width="640" height="360" /></p>
 I didn't hide the status bar, which most Glassware does, and it does nothing other than serve the purpose of showing a Delphi XE5 app running on Google Glass. There were no special settings (other than the dark theme, which is a matter of taste) to make the app run on Glass. It just works.
 
 And lastly a quick selfie of me and Glass, taken through glass.
-<p style="text-align: center;"><img class="aligncenter  wp-image-1374" alt="JimWithGlass" src="http://delphi.org/wp-content/uploads/2013/11/JimWithGlass.png" width="640" height="470" /></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-1374" alt="JimWithGlass" src="/assets/images/2013/11/JimWithGlass.png" width="640" height="470" /></p>
 <p style="text-align: left;">I was hoping it would look more red than orange, but should have known Tangerine would be orange.</p>
 <p style="text-align: left;">Rest assured, there will be more coverage of Delphi and Glass. We are just getting warmed up. This app was not using the GDK (which is still in Beta) but it is an actual Delphi app running on Glass. What an exciting day!</p>

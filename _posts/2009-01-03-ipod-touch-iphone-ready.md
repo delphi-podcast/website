@@ -1,6 +1,6 @@
----
+﻿---
 id: 529
-title: 'Now iPod Touch &#038; iPhone Ready!'
+title: 'Now iPod Touch & iPhone Ready!'
 date: '2009-01-03T14:54:39-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -18,3 +18,4 @@ tags:
 ---
 
 Thanks to <a href="http://www.flickdotnet.de/">Holger Flick</a> for letting me know that our podcast is <a href="http://www.flickdotnet.de/index.php/2009/01/podcast-at-delphiorg-is-ipod-touchiphone-ready/">now iPod Touch/iPhone ready</a>!  I don't have an iPod Touch or iPhone (yet), so I wasn't even aware this was a problem.  Since I haven't changed anything then I assume this is a new feature of <a href="http://www.CyberEars.com/">CyberEars</a>, who provides the hosting for my podcast and feed.
+

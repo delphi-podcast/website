@@ -16,7 +16,7 @@ tags:
     - News
 ---
 
-<a href="http://www.delphi.org/wp-content/uploads/2008/10/dr_deadline_co.pdf"><img class="alignright size-full wp-image-351" title="Dr. Deadline" src="http://www.delphi.org/wp-content/uploads/2008/10/dr_deadline.png" alt="" /></a>It would appear Dr. Deadline has returned in an attempt to foil the plans of <a href="http://www.delphi.org/2008/10/return-of-delphi-man/">Delphi Man</a>!  Thanks to the amazing <a href="http://tdelphihobbyist.blogspot.com/">Dave Keighan</a> for sending me an original <a href="http://www.delphi.org/wp-content/uploads/2008/10/dr_deadline_co.pdf">Dr. Deadline PDF</a>.  Maybe print out and give one of these to your manager. . . .
+<a href="/assets/images/2008/10/dr_deadline_co.pdf"><img class="alignright size-full wp-image-351" title="Dr. Deadline" src="/assets/images/2008/10/dr_deadline.png" alt="" /></a>It would appear Dr. Deadline has returned in an attempt to foil the plans of <a href="http://www.delphi.org/2008/10/return-of-delphi-man/">Delphi Man</a>!  Thanks to the amazing <a href="http://tdelphihobbyist.blogspot.com/">Dave Keighan</a> for sending me an original <a href="/assets/images/2008/10/dr_deadline_co.pdf">Dr. Deadline PDF</a>.  Maybe print out and give one of these to your manager. . . .
 
 Thanks to B. Peuthert who pointed out that we can learn more about the original adventures of <a href="http://dn.codegear.com/article/20297">Turboman</a> in the <a href="http://dn.codegear.com/museum">CodeGear Museum</a>!  Now if we can just get him to snap some pictures of him with his inflatables!  I'd love to post them here!
 

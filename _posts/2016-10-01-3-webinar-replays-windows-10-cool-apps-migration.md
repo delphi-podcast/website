@@ -1,6 +1,6 @@
----
+﻿---
 id: 2649
-title: '3 Webinar Replays: Windows 10, Cool Apps &#038; Migration'
+title: '3 Webinar Replays: Windows 10, Cool Apps & Migration'
 date: '2016-10-01T15:48:13-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -23,3 +23,4 @@ https://www.youtube.com/watch?v=v43pNK1LNSw
 On this webinar we learned how to migrate from older editions of Delphi and C++Builder with some stories of what to look for and how to update your code.
 
 https://www.youtube.com/watch?v=7EnKXZ9-Pc8
+

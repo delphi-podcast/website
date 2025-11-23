@@ -1,6 +1,6 @@
----
+﻿---
 id: 510
-title: '18 &#8211; CodeRage III Wrap-Up'
+title: '18 – CodeRage III Wrap-Up'
 date: '2008-12-09T02:17:23-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -49,3 +49,4 @@ Delphi Prism is officially released now, and <a href="http://cc.codegear.com/Fre
 <a href="http://www.monien.net/blog/index.php/2008/12/enable-sync-editing-in-delphi-prism/">Olaf Monien has a video</a> on how to enable “Sync Editing” with Delphi Prism. It makes use of the free DXCore from DevExpress.  <em>(Sorry for spelling and pronouncing <a href="http://twitter.com/omonien/status/1046896560">your name wrong</a>.)</em>
 
 Well that is it for this week and our CodeRage wrap-up.  I hope you all enjoyed CodeRage as much as I did.  Join me next week when I will have <a href="http://blogs.remobjects.com/blogs/mh">marc hoffman</a> back on to discuss the future of the Oxygene compiler and some of the other exciting things that <a href="http://www.RemObjects.com/">RemObjects</a> is up to.
+

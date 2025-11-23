@@ -1,6 +1,6 @@
----
+﻿---
 id: 2673
-title: 'Cool Apps &#038; Niagara Falls'
+title: 'Cool Apps & Niagara Falls'
 date: '2017-02-06T21:22:35-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -23,3 +23,4 @@ Nick and Jim discuss cool mobile apps built with FireMonkey.
  	<li style="font-weight: 400;"><span style="font-weight: 400;"><strong><a href="http://www.in2.rs/bionet-lis">ValidIN</a></strong> is a mobile medical app that networks Croatian biomedical laboratories so that blood samples can be validated quickly and accurately. It is built on the </span><a href="https://www.embarcadero.com/products/delphi"><span style="font-weight: 400;">Delphi</span></a><span style="font-weight: 400;"> platform for iOS and Android using FireDAC and </span><a href="http://edn.embarcadero.com/delphi/distcomp/datasnap"><span style="font-weight: 400;">DataSnap</span></a><span style="font-weight: 400;"> as well. </span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;"><strong><a href="http://project1.ca/mindglow">MindGlow</a></strong> is a powerful meditation tool you can use to induce your mind into states of peace in those times when stress might just be a bit too much. It uses Embarcadero </span><a href="https://www.embarcadero.com/products/delphi"><span style="font-weight: 400;">Delphi</span></a><span style="font-weight: 400;"> and FireMonkey but also Apple’s Core Audio and Google’s Android AudioTrack. More and more, the research is showing that meditation has physical health benefits.  From reduced cortisol, to increase in HRV, meditation can and will improve your health.  To gain the most of these physical benefits, Delta sessions is critical.  Serious trainers and elite athletes know that recovery and rest is an essential component to pushing past physical limits and improving overall health. Delta meditation does this in spades!  MindGlow is a fascinating app. Learn more </span><a href="https://youtu.be/6AKO0da1uSo"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;">.</span></li>
 </ul>
+

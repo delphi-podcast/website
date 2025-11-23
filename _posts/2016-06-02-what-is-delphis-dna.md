@@ -1,12 +1,12 @@
----
+﻿---
 id: 2454
-title: 'What is Delphi&#8217;s DNA?'
+title: 'What is Delphi’s DNA?'
 date: '2016-06-02T19:52:24-06:00'
 author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2454'
 permalink: /2016/06/what-is-delphis-dna/
-image: /wp-content/uploads/2016/06/Delphi-DNA-Wordcloud.png
+image: /assets/images/2016/06/Delphi-DNA-Wordcloud.png
 tags:
     - Article
 ---
@@ -23,7 +23,7 @@ I was chatting with someone today who was less familiar with Delphi. He asked wh
 </ol>
 I made this graphic a while ago to explain why developing with Delphi was so awesome. I call it the three levels of development. The idea is each level builds on the one beneath it. The higher levels provide great productivity benefits.
 
-<img class="size-full wp-image-2456 aligncenter" src="http://delphi.org/wp-content/uploads/2016/06/3LevelsOfDevelopment.png" alt="3 Levels of Development" width="268" height="333" />
+<img class="size-full wp-image-2456 aligncenter" src="/assets/images/2016/06/3LevelsOfDevelopment.png" alt="3 Levels of Development" width="268" height="333" />
 
 The great thing about Delphi is it lets you easily move between these levels. You can do so much in code, even at design time, but it doesn't keep you at that high level. When you need it you can move down to a lower level, even to the point of writing inline assembly code on Win32.
 
@@ -37,8 +37,9 @@ What did I miss? What else is in Delphi's DNA? What is the one thing that makes 
  	<li><strong>Backward Compatibility</strong> - This is something Delphi really spoils us with. Even when there are breaking changes they are typically minor and easy to work around when compared to other development technologies.</li>
  	<li><strong>Speed</strong> - Delphi has this in spades: Speed of development, speed of compilation, and speed of execution. Sure, you may be able to find some situations where something is faster in one area, but over all Delphi is very well rounded in the speed department.</li>
 </ol>
-<img class="alignnone size-medium wp-image-2494" src="http://delphi.org/wp-content/uploads/2016/06/Delphi-DNA-Wordcloud.png" alt="Delphi DNA Wordcloud" />
+<img class="alignnone size-medium wp-image-2494" src="/assets/images/2016/06/Delphi-DNA-Wordcloud.png" alt="Delphi DNA Wordcloud" />
 
 <strong>Update</strong>: We made an <a href="http://delphi.org/2017/02/delphis-dna-infographic/">Infographic</a> for Delphi's DNA
 
-<a href="http://delphi.org/2017/02/delphis-dna-infographic/"><img class="size-medium wp-image-2713 alignleft" src="http://delphi.org/wp-content/uploads/2017/02/DelphiDNA-169x300.png" alt="Delphi's highly evolved DNA makes it the best development tool for any platform and any project." width="169" height="300" /></a>
+<a href="http://delphi.org/2017/02/delphis-dna-infographic/"><img class="size-medium wp-image-2713 alignleft" src="/assets/images/2017/02/DelphiDNA-169x300.png" alt="Delphi's highly evolved DNA makes it the best development tool for any platform and any project." width="169" height="300" /></a>
+

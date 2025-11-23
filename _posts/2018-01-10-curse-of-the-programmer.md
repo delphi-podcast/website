@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2953'
 permalink: /2018/01/curse-of-the-programmer/
-image: /wp-content/uploads/2018/01/hammer-screw-940x198.jpg
+image: /assets/images/2018/01/hammer-screw-940x198.jpg
 categories:
     - News
 tags:
@@ -20,7 +20,7 @@ If you aren't familiar with the <a href="https://en.wikipedia.org/wiki/Law_of_th
 
 My understanding is that the law of the instrument means you are limited by instruments or tools you know how to use. For example, if you have a screw, some wood, and a hammer, then you might successfully get the screw into the wood, but a screwdriver would be a better alternative.
 
-[caption id="attachment_2956" align="alignnone" width="960"]<img class="wp-image-2956 size-full" src="http://delphi.org/wp-content/uploads/2018/01/hammer-screw.jpg" alt="Law of the instrument" width="960" height="640" /> Image from Pixabay by <a href="https://pixabay.com/photos/confused-muddled-illogical-880735/">Steve Buissinne</a>[/caption]
+[caption id="attachment_2956" align="alignnone" width="960"]<img class="wp-image-2956 size-full" src="/assets/images/2018/01/hammer-screw.jpg" alt="Law of the instrument" width="960" height="640" /> Image from Pixabay by <a href="https://pixabay.com/photos/confused-muddled-illogical-880735/">Steve Buissinne</a>[/caption]
 
 The law of the instrument also means an obsession with the perfection of the instruments you know. I remember back in the day when I was convinced there was no reason to bother with any other programming languages because Delphi was the best. Now I've spent some time using a lot of other programming languages, and so I can confidently say Delphi is the best, while I can see the value and use of other programming languages.
 

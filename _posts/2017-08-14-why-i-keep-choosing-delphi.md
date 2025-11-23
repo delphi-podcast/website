@@ -16,7 +16,7 @@ tags:
 ---
 
 <!-- wp:image {"align":"left","width":188,"height":300} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2017/08/Turbo_pascal_30_cover.jpg?resize=192,300" alt="Turbo Pascal" width="188" height="300"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://i0.wp.com/delphi.org/assets/images/2017/08/Turbo_pascal_30_cover.jpg?resize=192,300" alt="Turbo Pascal" width="188" height="300"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -24,7 +24,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","width":150,"height":159} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i1.wp.com/delphi.org/wp-content/uploads/2017/08/CBuilder.png?resize=150,150" alt="C++Builder" width="150" height="159"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i1.wp.com/delphi.org/assets/images/2017/08/CBuilder.png?resize=150,150" alt="C++Builder" width="150" height="159"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -32,7 +32,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","width":200,"height":150} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2017/08/C_Sharp.png?resize=182,125" alt="C#" width="200" height="150"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://i0.wp.com/delphi.org/assets/images/2017/08/C_Sharp.png?resize=182,125" alt="C#" width="200" height="150"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -40,7 +40,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"right","width":150,"height":148} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i1.wp.com/delphi.org/wp-content/uploads/2017/08/Ruby.png?resize=150,150" alt="Ruby" width="150" height="148"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i1.wp.com/delphi.org/assets/images/2017/08/Ruby.png?resize=150,150" alt="Ruby" width="150" height="148"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -48,7 +48,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","width":132,"height":200,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><a href="https://i1.wp.com/delphi.org/wp-content/uploads/2017/08/Ruby.png"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2017/08/JavaScript-logo.png?resize=150,232" alt="JavaScript" width="132" height="200"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized"><a href="https://i1.wp.com/delphi.org/assets/images/2017/08/Ruby.png"><img src="https://i0.wp.com/delphi.org/assets/images/2017/08/JavaScript-logo.png?resize=150,232" alt="JavaScript" width="132" height="200"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -56,7 +56,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3303,"align":"right","width":131,"height":240} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://delphi.org/wp-content/uploads/2019/03/java.png" alt="" class="wp-image-3303" width="131" height="240"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="/assets/images/2019/03/java.png" alt="" class="wp-image-3303" width="131" height="240"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -64,7 +64,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","width":186,"height":217,"linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><a href="http://delphi.org/www.embarcadero.com/products/delphi"><img src="https://i1.wp.com/delphi.org/wp-content/uploads/2017/08/Helmet.png?resize=261,300" alt="Delphi Helmet" width="186" height="217"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized"><a href="http://delphi.org/www.embarcadero.com/products/delphi"><img src="https://i1.wp.com/delphi.org/assets/images/2017/08/Helmet.png?resize=261,300" alt="Delphi Helmet" width="186" height="217"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -76,7 +76,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3304} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/03/Delphi-is-Back.png" alt="" class="wp-image-3304"/></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/03/Delphi-is-Back.png" alt="" class="wp-image-3304"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -88,11 +88,11 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3305} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/03/So-many-platforms.png" alt="" class="wp-image-3305"/></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/03/So-many-platforms.png" alt="" class="wp-image-3305"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3306,"align":"right","width":268,"height":379} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://delphi.org/wp-content/uploads/2019/03/Delphi-Hope-300.png" alt="" class="wp-image-3306" width="268" height="379"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="/assets/images/2019/03/Delphi-Hope-300.png" alt="" class="wp-image-3306" width="268" height="379"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -1,6 +1,6 @@
----
+﻿---
 id: 2628
-title: 'Get a Copy of Marco&#8217;s Object Pascal Handbook with Delphi Starter'
+title: 'Get a Copy of Marco’s Object Pascal Handbook with Delphi Starter'
 date: '2016-08-24T17:07:01-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -47,4 +47,5 @@ If you want a <a href="http://www.marcocantu.com/objectpascalhandbook/">physical
 </ul>
 </li>
 </ul>
-<a href="http://cc.embarcadero.com/item/30605"><img class="alignnone size-large wp-image-2629" src="http://delphi.org/wp-content/uploads/2016/08/ObjectPascalHandbook-781x1024.jpg" alt="Marco Cantu's Object Pascal Handbook" width="640" height="839" /></a>
+<a href="http://cc.embarcadero.com/item/30605"><img class="alignnone size-large wp-image-2629" src="/assets/images/2016/08/ObjectPascalHandbook-781x1024.jpg" alt="Marco Cantu's Object Pascal Handbook" width="640" height="839" /></a>
+

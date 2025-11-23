@@ -19,7 +19,7 @@ tags:
 
 I consider this pretty exciting news.  As of today <a href="http://stackoverflow.com/">Stack Overflow</a> has awarded it's first <a href="http://stackoverflow.com/badges/65/delphi">Delphi badge</a> for users who earn 400 upvotes on questions tagged <a href="http://stackoverflow.com/questions/tagged/delphi">Delphi</a>.
 
-<a href="http://stackoverflow.com/badges/65/delphi"><img class="alignnone size-full wp-image-623" title="Stack Overflow's Delphi badge" src="http://www.delphi.org/wp-content/uploads/2009/04/delphibadge.png" alt="Stack Overflow's Delphi badge" /></a>
+<a href="http://stackoverflow.com/badges/65/delphi"><img class="alignnone size-full wp-image-623" title="Stack Overflow's Delphi badge" src="/assets/images/2009/04/delphibadge.png" alt="Stack Overflow's Delphi badge" /></a>
 
 I was actually quite surprised to be the first to receive it.  Ever since Stack Overflow started I really wanted to see Delphi listed as one of the top category tags and badges.   As of today it is one of twenty specialist badges and the 46th <a href="http://stackoverflow.com/tags">most common tag</a> (not including the 13 variations like VCL, Delphi2009, Delphi-Prism, etc.) with <a href="http://stackoverflow.com/questions/tagged/delphi">1,104 questions</a>.
 

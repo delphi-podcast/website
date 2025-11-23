@@ -1,6 +1,6 @@
----
+﻿---
 id: 538
-title: '20 &#8211; Introducing Delphi Live 2009'
+title: '20 – Introducing Delphi Live 2009'
 date: '2009-01-26T11:59:05-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -27,3 +27,4 @@ In this episode we talk to <a href="http://www.monien.net/blog/">Olaf Monien</a>
 Stay tuned here and <a href="http://www.monien.net/blog/">Olaf's blog</a> for more information as it develops.
 
 [display_podcast]
+

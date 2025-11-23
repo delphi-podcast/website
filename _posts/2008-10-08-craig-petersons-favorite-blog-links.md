@@ -1,6 +1,6 @@
----
+﻿---
 id: 273
-title: 'Craig Peterson&#8217;s favorite blog links'
+title: 'Craig Peterson’s favorite blog links'
 date: '2008-10-08T01:13:33-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -27,3 +27,4 @@ Back in <a href="http://www.delphi.org/2008/09/episode-7-beyond-compare/">Episod
 I am sure Craig also frequents the <a href="http://www.scootersoftware.com/vbulletin/">Beyond Compare forums</a> too, which have their own <a href="http://www.scootersoftware.com/vbulletin/external.php?type=RSS2">RSS feed</a>.
 
 If you still have not taken advantage of that 25% discount code on Beyond Compare 3, please listen to <a href="http://www.delphi.org/2008/09/episode-7-beyond-compare/">Episode 7</a> again, and get the code, or just upgrade without the code.  Seriously, Beyond Compare is one of my favorite tools, and it is <a href="http://www.codinghorror.com/blog/archives/000454.html">Jeff Atwood's too</a>.
+

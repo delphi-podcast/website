@@ -1,6 +1,6 @@
----
+﻿---
 id: 1905
-title: 'Factorials, Combinations &#038; Permutaions'
+title: 'Factorials, Combinations & Permutaions'
 date: '2015-02-08T18:56:51-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -94,3 +94,4 @@ end.
 [/delphi]
 
 My original optimization had a bug in it, but <a href="https://groups.yahoo.com/neo/groups/tdag/conversations/topics/5342">Bryan Mayland</a> fixed it for me. This is old code, and there are probably some options to optimize it better. I'd love input, suggestions, etc.
+

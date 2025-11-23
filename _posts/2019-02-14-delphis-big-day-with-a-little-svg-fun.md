@@ -1,6 +1,6 @@
----
+﻿---
 id: 3279
-title: 'Delphi&#8217;s Big Day (with a little SVG fun!)'
+title: 'Delphi’s Big Day (with a little SVG fun!)'
 date: '2019-02-14T20:28:40-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -150,12 +150,12 @@ C 336.073 130.317 327.446 127.441 318.541 125.215 L 270.384 194.923 C 274.525 19
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3280,"align":"center","width":544,"height":497} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://delphi.org/wp-content/uploads/2019/02/image.png" alt="The path data rendered in Delphi with a TPath component 
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/assets/images/2019/02/image.png" alt="The path data rendered in Delphi with a TPath component 
 (The strokes default to black, but you can tweak that)" class="wp-image-3280" width="544" height="497"/><figcaption>Rendered in Delphi with a TPath component <br>(The strokes default to black, but you can tweak that)</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3286,"align":"center","width":500,"height":500} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://delphi.org/wp-content/uploads/2019/02/Delphi-Helmet-Heart-Love-Just-One-Path.svg" alt="The default SVG" class="wp-image-3286" width="500" height="500"/><figcaption>And as an SVG</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/assets/images/2019/02/Delphi-Helmet-Heart-Love-Just-One-Path.svg" alt="The default SVG" class="wp-image-3286" width="500" height="500"/><figcaption>And as an SVG</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -165,3 +165,4 @@ C 336.073 130.317 327.446 127.441 318.541 125.215 L 270.384 194.923 C 274.525 19
 <!-- wp:paragraph -->
 <p>What fun Delphi side projects are you working on? What did you do to celebrate the birthday of your favorite programming language?</p>
 <!-- /wp:paragraph -->
+

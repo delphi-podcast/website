@@ -1,6 +1,6 @@
----
+﻿---
 id: 598
-title: 'Delphi &#8220;Weaver&#8221; Beta coming'
+title: 'Delphi “Weaver” Beta coming'
 date: '2009-03-19T23:24:23-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -21,3 +21,4 @@ What do we know about <em>Weaver</em>?  Well, we are expecting it will be relea
 It may have the new front end compiler architecture, which sounds like it might get us closer to Delphi Prism syntax compatibility.
 
 So what do you want to see in the new Delphi?  New features?  Bug fixes?  Minor tweaks?  You can make your suggestions on the <a href="http://delphi.uservoice.com/">Delphi User Voice page</a>.  Then we can all vote on them.
+

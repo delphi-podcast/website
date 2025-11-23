@@ -1,6 +1,6 @@
----
+﻿---
 id: 649
-title: '29 &#8211; Pawel Glowacki'
+title: '29 – Pawel Glowacki'
 date: '2009-05-01T03:10:18-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -29,3 +29,4 @@ Delphi Wings is an experimental component-based native Delphi Win32 framework th
 	<li><strong>Delphi DataSnap 2009 Deep Dive</strong>
 Delphi DataSnap 2009 Deep Dive provides in-depth coverage of Delphi programming with DataSnap 2009 framework. In this tutorial Pawel is going to cover four different types of DataSnap 2009 clients, DataSnap architecture, server objects life cycle management, the details of DataSnap JSON-based on the wire protocol and DataSnap customization options. The tutorial will also include building DataSnap clients in Delphi Prism communicating with Delphi 2009 native DataSnap servers.</li>
 </ul>
+

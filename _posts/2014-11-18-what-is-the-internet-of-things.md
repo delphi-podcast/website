@@ -14,7 +14,7 @@ You've no doubt seen talk of the Internet of Things, or the Internet of Everythi
 
 It took me a while to warm up to the idea. At first I thought it was just marketing hype, but now I am really excited and see it as part of a huge trend that is going to really change life as we know it. In fact we've already seen a lot of the changes. The Internet of Things (IoT) isn't something coming someday; it is something already here and is only going to get bigger.
 
-[caption id="attachment_1831" align="aligncenter" width="680"]<a href="http://www.gartner.com/newsroom/id/2819918"><img class="wp-image-1831 size-full" src="http://delphi.org/wp-content/uploads/2014/11/HypeCycle_EmergineTechnologies_2014.jpg" alt="Gartner's 2014 Hype Cycle of Emergine Technologies" width="680" height="425" /></a> Gartner says we are 5 to 10 years away from seeing the full productivity of IoT[/caption]
+[caption id="attachment_1831" align="aligncenter" width="680"]<a href="http://www.gartner.com/newsroom/id/2819918"><img class="wp-image-1831 size-full" src="/assets/images/2014/11/HypeCycle_EmergineTechnologies_2014.jpg" alt="Gartner's 2014 Hype Cycle of Emergine Technologies" width="680" height="425" /></a> Gartner says we are 5 to 10 years away from seeing the full productivity of IoT[/caption]
 
 &nbsp;
 

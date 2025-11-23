@@ -1,6 +1,6 @@
----
+﻿---
 id: 600
-title: '24 &#8211; Delphi Projects'
+title: '24 – Delphi Projects'
 date: '2009-03-27T00:53:34-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -22,3 +22,4 @@ This episode is the start of a series of podcasts.  I thought it would be more 
 Leave suggestions for names for the client in the comments.  <a href="http://blogs.embarcadero.com/abauer/">Allen Bauer</a> is already using the <a href="http://twitter.com/kylix_rd/status/961063820">Delphitter name</a>.  I am kind of leaning towards something that combines both Delphi and Twitter, but it needs to not contain the whole word "Twitter," but you can be creative too.  I'll set up a poll with all the suggestions so everyone can vote.  I have a name in mind already, but I am not attached to it.
 
 If you are excited about this then please spread the word!
+

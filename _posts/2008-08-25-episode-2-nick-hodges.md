@@ -1,6 +1,6 @@
----
+﻿---
 id: 71
-title: '2 &#8211; Nick Hodges'
+title: '2 – Nick Hodges'
 date: '2008-08-25T01:42:48-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -27,3 +27,4 @@ Also check out our sponsors: <a href="http://www.gurock.com/" target="_blank">Sm
 Music provided by <a href="http://incompetech.com/m/c/royalty-free/" target="_blank">Kevin MacLeod</a>.
 
 Thanks for all the great feedback and support!  Be sure to subscribe and leave comments via <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=288704496">iTunes</a> as well.
+

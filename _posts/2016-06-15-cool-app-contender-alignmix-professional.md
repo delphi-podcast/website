@@ -12,11 +12,11 @@ tags:
     - News
 ---
 
-<a href="https://www.alignmix.com/"><img class=" wp-image-2523 alignleft" src="http://delphi.org/wp-content/uploads/2016/06/AlignMix-Website-Banner-Logo.png" alt="AlignMix" width="246" height="113" /></a>I'll be honest, if you described AlignMix to me I might fall asleep, but after seeing the <a href="https://youtu.be/sjcQXCXibJw">video of it in action</a> I find I am trying to find scenarios to use it! Simply put, AlignMix is used to divide and map territories. But wow, it does an amazing job at it.
+<a href="https://www.alignmix.com/"><img class=" wp-image-2523 alignleft" src="/assets/images/2016/06/AlignMix-Website-Banner-Logo.png" alt="AlignMix" width="246" height="113" /></a>I'll be honest, if you described AlignMix to me I might fall asleep, but after seeing the <a href="https://youtu.be/sjcQXCXibJw">video of it in action</a> I find I am trying to find scenarios to use it! Simply put, AlignMix is used to divide and map territories. But wow, it does an amazing job at it.
 
 https://youtu.be/sjcQXCXibJw
 
-<a href="embt.co/CoolAppContest"><img class="alignright wp-image-2449" src="http://delphi.org/wp-content/uploads/2016/05/Cool_App_Contest_Logo_and_Graphic.png" alt="Embarcadero Cool App Contest" width="212" height="204" /></a>I've been in situations where I was trying to divide up maps for different purposes. We were using paper, and it was tedious. You would move one line, and then total up the different territories only to find you needed to move another line. At the time I just assumed it was one of those narrow niche projects that wasn't worth creating a software solution. I'm glad I was wrong.
+<a href="embt.co/CoolAppContest"><img class="alignright wp-image-2449" src="/assets/images/2016/05/Cool_App_Contest_Logo_and_Graphic.png" alt="Embarcadero Cool App Contest" width="212" height="204" /></a>I've been in situations where I was trying to divide up maps for different purposes. We were using paper, and it was tedious. You would move one line, and then total up the different territories only to find you needed to move another line. At the time I just assumed it was one of those narrow niche projects that wasn't worth creating a software solution. I'm glad I was wrong.
 
 According to Steve of AlignMix
 <blockquote>AlignMix is a Geographic Information System which helps companies to design and manage sales territories for their sales force. It enable the user to easily move the territory boundaries and re-assign zip codes (or postcodes) to make the territories fair and balanced. It was launched on April 8th 2016

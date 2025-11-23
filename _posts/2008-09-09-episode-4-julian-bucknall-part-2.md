@@ -1,6 +1,6 @@
----
+﻿---
 id: 180
-title: '4.2 &#8211; Julian Bucknall'
+title: '4.2 – Julian Bucknall'
 date: '2008-09-09T23:37:54-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -27,3 +27,4 @@ tags:
 	<li><a href="http://www.turbopower.com/">Turbo Power</a> (now on <a href="http://SourceForge.net/">SourceForge</a>)</li>
 </ul>
 <div>Be sure to read the great additional information from <a href="http://www.delphi.org/2008/09/episode-4-julian-bucknall-part-2/#comments">Barry Kelly in the comments</a>!</div>
+

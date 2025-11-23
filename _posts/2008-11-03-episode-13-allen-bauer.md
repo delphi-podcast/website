@@ -1,6 +1,6 @@
----
+﻿---
 id: 442
-title: 'Episode 13 &#8211; Allen Bauer live at PDC2008'
+title: 'Episode 13 – Allen Bauer live at PDC2008'
 date: '2008-11-03T23:13:56-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -46,3 +46,4 @@ Whatever format you get, it is 10:49 long.
 	<li><a href="http://podcast.remobjects.com/13-AllenBauer.wmv">WMV (320 x 240) [126 megs]</a></li>
 	<li><a href="http://www.vimeo.com/2149190">Watch online</a> [Vimeo]</li>
 </ul>
+

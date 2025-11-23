@@ -13,7 +13,7 @@ tags:
     - News
 ---
 
-<a href="http://LearnDelphi.TV/"><img class="alignright wp-image-2451 size-full" src="http://delphi.org/wp-content/uploads/2016/06/LearnDelphi-TV.png" alt="LearnDelphi.TV" width="200" height="200" /></a>Alister Christie of New Zealand is our MVP of the Week. Alister is the master of Delphi video trainings with his site at <a href="http://LearnDelphi.TV/">LearnDelphi.tv</a>. He has over 100 free videos, and then over 30 more hours of premium videos. A great resource for people new to Delphi development, or anyone who wants to take their skill to the next level.
+<a href="http://LearnDelphi.TV/"><img class="alignright wp-image-2451 size-full" src="/assets/images/2016/06/LearnDelphi-TV.png" alt="LearnDelphi.TV" width="200" height="200" /></a>Alister Christie of New Zealand is our MVP of the Week. Alister is the master of Delphi video trainings with his site at <a href="http://LearnDelphi.TV/">LearnDelphi.tv</a>. He has over 100 free videos, and then over 30 more hours of premium videos. A great resource for people new to Delphi development, or anyone who wants to take their skill to the next level.
 
 When I was in New Zealand I got a chance to sit down with Alister and Damien Bootsma for a <a href="https://youtu.be/9oRkotTIZUA">short interview</a>.
 

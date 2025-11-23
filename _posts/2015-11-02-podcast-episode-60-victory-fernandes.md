@@ -1,6 +1,6 @@
----
+﻿---
 id: 2146
-title: 'Podcast Episode 60 &#8211; Victory Fernandes'
+title: 'Podcast Episode 60 – Victory Fernandes'
 date: '2015-11-02T16:54:15-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -13,7 +13,7 @@ tags:
 
 In this episode I talk with Embarcadero MVP <a href="http://tkssoftware.com/victory/">Victory Fernandes</a> from <a href="https://en.wikipedia.org/wiki/Salvador,_Bahia">Salvador, Brazil</a>. While Victory is from Brazil, he also speaks fluent English.
 
-<a href="http://tkssoftware.com/victory/60/"><img class="aligncenter size-full wp-image-2147" src="http://delphi.org/wp-content/uploads/2015/11/Victory-Fernandes.jpg" alt="Victory Fernandes" width="960" height="718" /></a>
+<a href="http://tkssoftware.com/victory/60/"><img class="aligncenter size-full wp-image-2147" src="/assets/images/2015/11/Victory-Fernandes.jpg" alt="Victory Fernandes" width="960" height="718" /></a>
 
 Victory talks about:
 <ul>
@@ -29,3 +29,4 @@ Victory talks about:
 Most all of Victory's projects are powered by Delphi and InterBase with emphasis on embedded and real-time application development.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/231288400&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

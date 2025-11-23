@@ -1,6 +1,6 @@
----
+﻿---
 id: 578
-title: '22 &#8211; Delphi Developer Days 2009'
+title: '22 – Delphi Developer Days 2009'
 date: '2009-02-16T18:34:44-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -18,8 +18,9 @@ tags:
 
 [display_podcast]
 
-<a href="http://www.marcocantu.com/"><img class="alignleft size-full wp-image-586" title="Marco Cantu" src="http://www.delphi.org/wp-content/uploads/2009/02/marcocantu2.jpg" alt="Marco Cantu" width="107" height="141" /></a>Marco Cantù is on <a href="http://twitter.com/marcocantu">Twitter</a> now, as well as <a href="http://www.facebook.com/people/Marco-Cantu/600881813">Facebook</a> and <a href="http://www.linkedin.com/in/marcocantu">LinkedIn</a>.  His latest books include the <a href="http://www.marcocantu.com/dh2009/">Delphi 2009 Handbook</a> and <a href="http://www.marcocantu.com/epascal/">Essential Pascal</a>.  You can find more about him on <a href="http://www.marcocantu.com/">his website</a>, or keep track of him on <a href="http://blog.marcocantu.com/">his blog</a>.  Marco lives in Piacenza, Italy, but frequently travels to consult and train on Delphi development.
+<a href="http://www.marcocantu.com/"><img class="alignleft size-full wp-image-586" title="Marco Cantu" src="/assets/images/2009/02/marcocantu2.jpg" alt="Marco Cantu" width="107" height="141" /></a>Marco Cantù is on <a href="http://twitter.com/marcocantu">Twitter</a> now, as well as <a href="http://www.facebook.com/people/Marco-Cantu/600881813">Facebook</a> and <a href="http://www.linkedin.com/in/marcocantu">LinkedIn</a>.  His latest books include the <a href="http://www.marcocantu.com/dh2009/">Delphi 2009 Handbook</a> and <a href="http://www.marcocantu.com/epascal/">Essential Pascal</a>.  You can find more about him on <a href="http://www.marcocantu.com/">his website</a>, or keep track of him on <a href="http://blog.marcocantu.com/">his blog</a>.  Marco lives in Piacenza, Italy, but frequently travels to consult and train on Delphi development.
 
-<img class="alignright size-full wp-image-580" title="Cary Jensen" src="http://www.delphi.org/wp-content/uploads/2009/02/caryjensen.jpg" alt="Cary Jensen" />Cary Jensen is now on <a href="http://twitter.com/caryjensen">Twitter</a> as well and plans to frequently post about Delphi.  He is President of <a href="http://www.jensendatasystems.com/">Jensen Data Systems, Inc.</a>, a Texas-based company that specializes in Internet and database development training and consulting, and winner of the Delphi Informant Magazine 2003 and 2002 Readers Choice Awards for Best Training.
+<img class="alignright size-full wp-image-580" title="Cary Jensen" src="/assets/images/2009/02/caryjensen.jpg" alt="Cary Jensen" />Cary Jensen is now on <a href="http://twitter.com/caryjensen">Twitter</a> as well and plans to frequently post about Delphi.  He is President of <a href="http://www.jensendatasystems.com/">Jensen Data Systems, Inc.</a>, a Texas-based company that specializes in Internet and database development training and consulting, and winner of the Delphi Informant Magazine 2003 and 2002 Readers Choice Awards for Best Training.
 
 Marco and Cary are great.  We ended up talking about all sorts of stuff in addition to the Delphi Developer Days.  In fact, we will need to do another podcast to talk some more.
+

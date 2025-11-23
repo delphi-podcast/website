@@ -12,7 +12,7 @@ tags:
     - podcast
 ---
 
-<img class="alignright  wp-image-2025" src="http://delphi.org/wp-content/uploads/2015/08/59-Allen-Bauer-2.jpg" alt="Allen Bauer" width="164" height="164" />In this special episode we talk with Allen Bauer, Chief Scientist here at Embarcadero Technologies. This month is the 7 year anniversary of the Podcast at Delphi.org, and today is Allen's birthday. This conversation was recorded during Delphi Week, a celebration of Delphi's birthday back in February.
+<img class="alignright  wp-image-2025" src="/assets/images/2015/08/59-Allen-Bauer-2.jpg" alt="Allen Bauer" width="164" height="164" />In this special episode we talk with Allen Bauer, Chief Scientist here at Embarcadero Technologies. This month is the 7 year anniversary of the Podcast at Delphi.org, and today is Allen's birthday. This conversation was recorded during Delphi Week, a celebration of Delphi's birthday back in February.
 
 We talk about what Allen does as a Chief Scientist as well as some of his side projects. We also discuss some of the new platforms we face today as developers and the challenges and likelihood of Delphi targeting them. Finally some discussion about features Allen would like to see added to Delphi in the future.
 

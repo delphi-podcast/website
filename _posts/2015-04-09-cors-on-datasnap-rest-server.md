@@ -35,3 +35,4 @@ different server.
 Note: CORS is security feature of the browser so there could be some
 dependency there. Tested with Firefox, Chrome and IE and it seems to
 be working fine.
+

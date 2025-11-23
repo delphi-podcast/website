@@ -47,3 +47,4 @@ What you need is a second <strong>FDMemTable</strong>. My first one is called <e
     MembersMemTable.EndBatch;
   end;
 [/delphi]
+

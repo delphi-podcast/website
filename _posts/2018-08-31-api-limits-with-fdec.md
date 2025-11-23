@@ -15,7 +15,7 @@ tags:
     - 'Source Code'
 ---
 
-<img class="size-medium wp-image-3136 alignright" src="http://delphi.org/wp-content/uploads/2018/08/API-Limits-300x300.png" alt="API Limits with FireDAC Enterprise Connectors" width="300" height="300" />The FireDAC Enterprise Connectors (#FDEC) by CData and Embarcadero make it really easy to work with various APIs just like you would any SQL database. For example if you want to publish the results of a query to a Google Sheet (which I find incredibly useful) then it is just a few FireDAC components and you are off to the races. You might run into an API limit though.
+<img class="size-medium wp-image-3136 alignright" src="/assets/images/2018/08/API-Limits-300x300.png" alt="API Limits with FireDAC Enterprise Connectors" width="300" height="300" />The FireDAC Enterprise Connectors (#FDEC) by CData and Embarcadero make it really easy to work with various APIs just like you would any SQL database. For example if you want to publish the results of a query to a Google Sheet (which I find incredibly useful) then it is just a few FireDAC components and you are off to the races. You might run into an API limit though.
 
 What is an API limit? Most rest services have a limit to how often a client can call a specific API within a certain amount of time. Google calls this their <a href="https://developers.google.com/sheets/api/limits">usage limit</a>:
 <blockquote>This version of the Google Sheets API has a limit of 500 requests per 100 seconds per project, and 100 requests per 100 seconds per user. Limits for reads and writes are tracked separately. There is no daily usage limit.</blockquote>

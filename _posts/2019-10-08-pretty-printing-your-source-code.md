@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=3419'
 permalink: /2019/10/pretty-printing-your-source-code/
-image: /wp-content/uploads/2019/10/Header-940x198.png
+image: /assets/images/2019/10/Header-940x198.png
 categories:
     - News
 tags:
@@ -50,7 +50,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3428,"align":"right","width":75,"height":75} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://delphi.org/wp-content/uploads/2019/10/image.png" alt="" class="wp-image-3428" width="75" height="75"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="/assets/images/2019/10/image.png" alt="" class="wp-image-3428" width="75" height="75"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -58,11 +58,11 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3429,"align":"center","width":403,"height":463} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="http://delphi.org/wp-content/uploads/2019/10/image-1.png" alt="" class="wp-image-3429" width="403" height="463"/><figcaption><a href="https://getgreenshot.org/"><strong>Greenshot </strong></a>screen shot image editor</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/assets/images/2019/10/image-1.png" alt="" class="wp-image-3429" width="403" height="463"/><figcaption><a href="https://getgreenshot.org/"><strong>Greenshot </strong></a>screen shot image editor</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3431,"align":"right"} -->
-<div class="wp-block-image"><figure class="alignright"><img src="http://delphi.org/wp-content/uploads/2019/10/image-3.png" alt="" class="wp-image-3431"/></figure></div>
+<div class="wp-block-image"><figure class="alignright"><img src="/assets/images/2019/10/image-3.png" alt="" class="wp-image-3431"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -70,11 +70,11 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3423,"width":640,"height":365} -->
-<figure class="wp-block-image is-resized"><img src="https://i2.wp.com/delphi.org/wp-content/uploads/2019/10/carbon.png?fit=640%2C365" alt="" class="wp-image-3423" width="640" height="365"/><figcaption>Sample from  <a href="https://carbon.now.sh/">Carbon.now.sh</a> </figcaption></figure>
+<figure class="wp-block-image is-resized"><img src="https://i2.wp.com/delphi.org/assets/images/2019/10/carbon.png?fit=640%2C365" alt="" class="wp-image-3423" width="640" height="365"/><figcaption>Sample from  <a href="https://carbon.now.sh/">Carbon.now.sh</a> </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3433,"align":"right"} -->
-<div class="wp-block-image"><figure class="alignright"><img src="http://delphi.org/wp-content/uploads/2019/10/image-5.png" alt="" class="wp-image-3433"/></figure></div>
+<div class="wp-block-image"><figure class="alignright"><img src="/assets/images/2019/10/image-5.png" alt="" class="wp-image-3433"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -82,11 +82,11 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3425} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/10/CodeRage-1.png" alt="" class="wp-image-3425"/><figcaption> <a href="https://codeimg.io/">Codeimg.io</a></figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/10/CodeRage-1.png" alt="" class="wp-image-3425"/><figcaption> <a href="https://codeimg.io/">Codeimg.io</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3434,"align":"right","width":261,"height":92} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://delphi.org/wp-content/uploads/2019/10/image-6.png" alt="" class="wp-image-3434" width="261" height="92"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="/assets/images/2019/10/image-6.png" alt="" class="wp-image-3434" width="261" height="92"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -94,11 +94,11 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3426,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="http://delphi.org/wp-content/uploads/2019/10/src2img-CodeRage.png" alt="" class="wp-image-3426"/><figcaption> <a href="https://team411.github.io/src2img/"><strong>src2img</strong></a> </figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="/assets/images/2019/10/src2img-CodeRage.png" alt="" class="wp-image-3426"/><figcaption> <a href="https://team411.github.io/src2img/"><strong>src2img</strong></a> </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3435,"align":"right","width":88,"height":88} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://delphi.org/wp-content/uploads/2019/10/image-7.png" alt="" class="wp-image-3435" width="88" height="88"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="/assets/images/2019/10/image-7.png" alt="" class="wp-image-3435" width="88" height="88"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -122,7 +122,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3427} -->
-<figure class="wp-block-image"><img src="https://i2.wp.com/delphi.org/wp-content/uploads/2019/10/CodeRage-2019.png?fit=640%2C360" alt="" class="wp-image-3427"/></figure>
+<figure class="wp-block-image"><img src="https://i2.wp.com/delphi.org/assets/images/2019/10/CodeRage-2019.png?fit=640%2C360" alt="" class="wp-image-3427"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

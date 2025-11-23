@@ -1,12 +1,12 @@
----
+﻿---
 id: 3170
-title: 'Arduino &#038; Delphi Cosplay'
+title: 'Arduino & Delphi Cosplay'
 date: '2018-10-26T16:16:49-06:00'
 author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=3170'
 permalink: /2018/10/arduino-delphi-cosplay/
-image: /wp-content/uploads/2018/10/RGB-LED-Shades-940x198.jpg
+image: /assets/images/2018/10/RGB-LED-Shades-940x198.jpg
 categories:
     - News
 tags:
@@ -19,7 +19,7 @@ tags:
 ---
 
 <!-- wp:image {"id":3171,"align":"right","width":312,"height":312,"linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="https://i1.wp.com/delphi.org/wp-content/uploads/2018/10/20180907_193710.jpg?fit=640%2C640"><img src="https://i1.wp.com/delphi.org/wp-content/uploads/2018/10/20180907_193710.jpg?fit=640%2C640" alt="Me with a Spartan Boba Fett, but I thought he was more of a Delphi Dude ?(FanX Salt Lake City - 2018)" class="wp-image-3171" width="312" height="312"/></a><figcaption>Me with a <em>Spartan Boba Fett.</em>&nbsp;I thought he was more of a <em>Delphi Dude </em>(FanX Salt Lake City - 2018)</figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="https://i1.wp.com/delphi.org/assets/images/2018/10/20180907_193710.jpg?fit=640%2C640"><img src="https://i1.wp.com/delphi.org/assets/images/2018/10/20180907_193710.jpg?fit=640%2C640" alt="Me with a Spartan Boba Fett, but I thought he was more of a Delphi Dude ?(FanX Salt Lake City - 2018)" class="wp-image-3171" width="312" height="312"/></a><figcaption>Me with a <em>Spartan Boba Fett.</em>&nbsp;I thought he was more of a <em>Delphi Dude </em>(FanX Salt Lake City - 2018)</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -35,7 +35,7 @@ tags:
 <!-- /wp:pullquote -->
 
 <!-- wp:image {"id":3172,"align":"right","width":242,"height":366,"linkDestination":"attachment"} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><a href="http://delphi.org/?attachment_id=3172"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2018/10/Cyberpunk2077.jpg?fit=200%2C300" alt="The V character from Cyberpunk 2077. Cosplayer Maul. photo by eosAndy." class="wp-image-3172" width="242" height="366"/></a><figcaption>The V character from <em>Cyberpunk 2077</em>. Cosplayer&nbsp;<a href="https://www.facebook.com/maulcosplay/">Maul</a>. photo by&nbsp;<a href="https://www.facebook.com/eosandy/">eosAndy</a>. His cosplay is much better than mine.</figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><a href="http://delphi.org/?attachment_id=3172"><img src="https://i0.wp.com/delphi.org/assets/images/2018/10/Cyberpunk2077.jpg?fit=200%2C300" alt="The V character from Cyberpunk 2077. Cosplayer Maul. photo by eosAndy." class="wp-image-3172" width="242" height="366"/></a><figcaption>The V character from <em>Cyberpunk 2077</em>. Cosplayer&nbsp;<a href="https://www.facebook.com/maulcosplay/">Maul</a>. photo by&nbsp;<a href="https://www.facebook.com/eosandy/">eosAndy</a>. His cosplay is much better than mine.</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -55,7 +55,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"attachment"} -->
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3183"><img src="http://delphi.org/wp-content/uploads/2018/10/20180906_143531.jpg" alt="Cyberpunk 2077 cosplay LEDs straight on. They changed colors, and weren't always red and green." data-id="3183" data-link="http://delphi.org/?attachment_id=3183" class="wp-image-3183"/></a><figcaption>Cyberpunk 2077 cosplay LEDs straight on. They changed colors, and weren't always red and green.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3185"><img src="http://delphi.org/wp-content/uploads/2018/10/20180906_174958.jpg" alt="Arduino MEGA 2560 behind my back controlled everything." data-id="3185" data-link="http://delphi.org/?attachment_id=3185" class="wp-image-3185"/></a><figcaption>Arduino MEGA 2560 behind my back controlled everything.&nbsp;</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3184"><img src="http://delphi.org/wp-content/uploads/2018/10/20180906_143136.jpg" alt="Wrist mounted smartphone, light up collar, LEDs glued to my face, and el wire on my arm. Not pictured is the bluetooth keyboard on my other wrist." data-id="3184" data-link="http://delphi.org/?attachment_id=3184" class="wp-image-3184"/></a><figcaption>Wrist mounted smartphone, light up collar, LEDs glued to my face, and el wire on my arm.&nbsp;</figcaption></figure></li></ul>
+<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3183"><img src="/assets/images/2018/10/20180906_143531.jpg" alt="Cyberpunk 2077 cosplay LEDs straight on. They changed colors, and weren't always red and green." data-id="3183" data-link="http://delphi.org/?attachment_id=3183" class="wp-image-3183"/></a><figcaption>Cyberpunk 2077 cosplay LEDs straight on. They changed colors, and weren't always red and green.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3185"><img src="/assets/images/2018/10/20180906_174958.jpg" alt="Arduino MEGA 2560 behind my back controlled everything." data-id="3185" data-link="http://delphi.org/?attachment_id=3185" class="wp-image-3185"/></a><figcaption>Arduino MEGA 2560 behind my back controlled everything.&nbsp;</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3184"><img src="/assets/images/2018/10/20180906_143136.jpg" alt="Wrist mounted smartphone, light up collar, LEDs glued to my face, and el wire on my arm. Not pictured is the bluetooth keyboard on my other wrist." data-id="3184" data-link="http://delphi.org/?attachment_id=3184" class="wp-image-3184"/></a><figcaption>Wrist mounted smartphone, light up collar, LEDs glued to my face, and el wire on my arm.&nbsp;</figcaption></figure></li></ul>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
@@ -63,15 +63,15 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"attachment"} -->
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3187"><img src="http://delphi.org/wp-content/uploads/2018/10/RGB-LED-Shades.jpg" alt="Wearing the RGB LED Shades" data-id="3187" data-link="http://delphi.org/?attachment_id=3187" class="wp-image-3187"/></a><figcaption>Wearing the RGB LED Shades</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3188"><img src="http://delphi.org/wp-content/uploads/2018/10/Attaching_HC-06.jpg" alt="Attaching the HC-06 to the RGB LED Shades" data-id="3188" data-link="http://delphi.org/?attachment_id=3188" class="wp-image-3188"/></a><figcaption>Attaching the HC-06 to the RGB LED Shades</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3189"><img src="http://delphi.org/wp-content/uploads/2018/10/mini-1.png" alt="Arduino Mini pinout" data-id="3189" data-link="http://delphi.org/?attachment_id=3189" class="wp-image-3189"/></a></figure></li></ul>
+<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3187"><img src="/assets/images/2018/10/RGB-LED-Shades.jpg" alt="Wearing the RGB LED Shades" data-id="3187" data-link="http://delphi.org/?attachment_id=3187" class="wp-image-3187"/></a><figcaption>Wearing the RGB LED Shades</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3188"><img src="/assets/images/2018/10/Attaching_HC-06.jpg" alt="Attaching the HC-06 to the RGB LED Shades" data-id="3188" data-link="http://delphi.org/?attachment_id=3188" class="wp-image-3188"/></a><figcaption>Attaching the HC-06 to the RGB LED Shades</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="http://delphi.org/?attachment_id=3189"><img src="/assets/images/2018/10/mini-1.png" alt="Arduino Mini pinout" data-id="3189" data-link="http://delphi.org/?attachment_id=3189" class="wp-image-3189"/></a></figure></li></ul>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>After soldering the HC-06 onto my shades I can power them up and pair my Android phone with the HC-06 module. One note about my soldering is that if you look you will see that it is connected to two analog pins instead of digital pins. On most Arduinos the analog pins can double as digital pins (see the <a href="http://delphi.org/wp-content/uploads/2018/10/mini-1.png">Pinout</a>).</p>
+<p>After soldering the HC-06 onto my shades I can power them up and pair my Android phone with the HC-06 module. One note about my soldering is that if you look you will see that it is connected to two analog pins instead of digital pins. On most Arduinos the analog pins can double as digital pins (see the <a href="/assets/images/2018/10/mini-1.png">Pinout</a>).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3190} -->
-<figure class="wp-block-image"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2018/10/BluetoothDialog.jpg?fit=636%2C1024" alt="Android Bluetooth Pairing Dialog" class="wp-image-3190"/><figcaption>Android Bluetooth Pairing Dialog</figcaption></figure>
+<figure class="wp-block-image"><img src="https://i0.wp.com/delphi.org/assets/images/2018/10/BluetoothDialog.jpg?fit=636%2C1024" alt="Android Bluetooth Pairing Dialog" class="wp-image-3190"/><figcaption>Android Bluetooth Pairing Dialog</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -117,7 +117,7 @@ end;[/delphi]</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3155} -->
-<figure class="wp-block-image"><img src="https://i1.wp.com/delphi.org/wp-content/uploads/2018/10/RGB-Rio-Glasses.jpg?fit=640%2C477" alt="RGB Rio Shades" class="wp-image-3155"/><figcaption>I'm wearing the Rio RGB Shades with the Delphi powered controller on my Android phone</figcaption></figure>
+<figure class="wp-block-image"><img src="https://i1.wp.com/delphi.org/assets/images/2018/10/RGB-Rio-Glasses.jpg?fit=640%2C477" alt="RGB Rio Shades" class="wp-image-3155"/><figcaption>I'm wearing the Rio RGB Shades with the Delphi powered controller on my Android phone</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -125,7 +125,7 @@ end;[/delphi]</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3160,"linkDestination":"attachment"} -->
-<figure class="wp-block-image"><a href="http://delphi.org/2018/10/10-3-rio-preview-in-brazil/davidkeynote/"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2018/10/DavidKeynote.jpg?fit=640%2C157" alt="David Millington kicking off the Keynote" class="wp-image-3160"/></a><figcaption>David Millington kicking off the 10.3 Keynote</figcaption></figure>
+<figure class="wp-block-image"><a href="http://delphi.org/2018/10/10-3-rio-preview-in-brazil/davidkeynote/"><img src="https://i0.wp.com/delphi.org/assets/images/2018/10/DavidKeynote.jpg?fit=640%2C157" alt="David Millington kicking off the Keynote" class="wp-image-3160"/></a><figcaption>David Millington kicking off the 10.3 Keynote</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -133,7 +133,7 @@ end;[/delphi]</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3181} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2018/10/20170923_092712-e1540587238929.jpg" alt="Jim wearing LED Steampunk Goggles" class="wp-image-3181"/><figcaption>RGB LED Steampunk Goggles </figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2018/10/20170923_092712-e1540587238929.jpg" alt="Jim wearing LED Steampunk Goggles" class="wp-image-3181"/><figcaption>RGB LED Steampunk Goggles </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -141,7 +141,7 @@ end;[/delphi]</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3182} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2018/10/20170922_162257.jpg" alt="RGB LED Goggles, a horse mask, and a Los Angeles Kings hockey jersey" class="wp-image-3182"/><figcaption>RGB LED Goggles, a horse mask, and a Los Angeles Kings hockey jersey (don't ask)</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2018/10/20170922_162257.jpg" alt="RGB LED Goggles, a horse mask, and a Los Angeles Kings hockey jersey" class="wp-image-3182"/><figcaption>RGB LED Goggles, a horse mask, and a Los Angeles Kings hockey jersey (don't ask)</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -149,7 +149,7 @@ end;[/delphi]</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3180} -->
-<figure class="wp-block-image"><img src="https://i1.wp.com/delphi.org/wp-content/uploads/2018/10/20170923_105337.jpg?fit=640%2C696" alt="I met Star Lord!" class="wp-image-3180"/><figcaption>I met Star Lord!</figcaption></figure>
+<figure class="wp-block-image"><img src="https://i1.wp.com/delphi.org/assets/images/2018/10/20170923_105337.jpg?fit=640%2C696" alt="I met Star Lord!" class="wp-image-3180"/><figcaption>I met Star Lord!</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -161,7 +161,7 @@ end;[/delphi]</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3191,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://www.visuino.com/"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2018/10/RGBShadesVisuino.png?fit=640%2C488" alt="Visuino makes Arduino and LED RGB Shade development easy. It is an Embarcadero Cool App developed with Delphi!" class="wp-image-3191"/></a><figcaption>Visuino makes Arduino and LED RGB Shade development easy. It is an Embarcadero Cool App developed with Delphi!</figcaption></figure>
+<figure class="wp-block-image"><a href="https://www.visuino.com/"><img src="https://i0.wp.com/delphi.org/assets/images/2018/10/RGBShadesVisuino.png?fit=640%2C488" alt="Visuino makes Arduino and LED RGB Shade development easy. It is an Embarcadero Cool App developed with Delphi!" class="wp-image-3191"/></a><figcaption>Visuino makes Arduino and LED RGB Shade development easy. It is an Embarcadero Cool App developed with Delphi!</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -169,7 +169,7 @@ end;[/delphi]</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3192} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2018/10/BoianAndJim.jpg" alt="Boian and Jim at the 2017 SoCal CodeCamp in Los Angeles" class="wp-image-3192"/><figcaption>Boian and Jim at the 2017 SoCal CodeCamp in Los Angeles</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2018/10/BoianAndJim.jpg" alt="Boian and Jim at the 2017 SoCal CodeCamp in Los Angeles" class="wp-image-3192"/><figcaption>Boian and Jim at the 2017 SoCal CodeCamp in Los Angeles</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -177,5 +177,6 @@ end;[/delphi]</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3176} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2018/10/20170921_172518.jpg" alt="I love polyhedral dice" class="wp-image-3176"/><figcaption>I love polyhedral dice</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2018/10/20170921_172518.jpg" alt="I love polyhedral dice" class="wp-image-3176"/><figcaption>I love polyhedral dice</figcaption></figure>
 <!-- /wp:image -->
+

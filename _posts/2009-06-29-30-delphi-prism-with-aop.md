@@ -1,6 +1,6 @@
----
+﻿---
 id: 724
-title: '30 &#8211; Delphi Prism with AOP'
+title: '30 – Delphi Prism with AOP'
 date: '2009-06-29T11:59:32-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -28,3 +28,4 @@ Yeah, this one is a little long.  The last bit is marc and I shooting the breez
 This was also recorded out of order.  It was recorded before episodes <a href="http://www.delphi.org/2009/04/28-ray-konopka/">28</a> and <a href="http://www.delphi.org/2009/05/29-pawel-glowacki/">29</a>.  I lost my original recordings and had to recreate it from marc's recordings.  We had some lost audio in the call too, but it ended up coming out pretty good.
 
 BTW, <a href="http://www.CyberEars.com/">CyberEars</a> (the podcast host) upgraded their download servers so we should have faster download speeds.  Let me know if you can tell a difference.  Also I replaced <a href="http://www.delphi.org/2008/10/episode-8-roundtable-on-best-practices/">episode 8</a> that I accidently deleted a while ago.  Sorry about that!
+

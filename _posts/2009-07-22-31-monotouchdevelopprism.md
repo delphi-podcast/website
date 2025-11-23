@@ -1,6 +1,6 @@
----
+﻿---
 id: 739
-title: '31 &#8211; MonoTouchDevelopPrism'
+title: '31 – MonoTouchDevelopPrism'
 date: '2009-07-22T23:34:43-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -29,3 +29,4 @@ You can follow the progress of Delphi Prism and the MonoDevelop rewrite in <a hr
 I discovered that <a href="http://it-republik.de/entwicklerkonferenz09/">EKON 13</a> is also known as <a href="http://www.delphilive.de/">Delphi Live Germany</a>.
 
 Follow along with <a href="http://www.TheCodeRage.com/">CodeRage IV</a>.
+

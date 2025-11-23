@@ -17,7 +17,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3310,"align":"center","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://openclipart.org/detail/137533/grace-hopper" target="_blank" rel="noreferrer noopener"><img src="http://delphi.org/wp-content/uploads/2019/04/grace-hopper-154833_640.png" alt="Grace Hopper illustration by gingercoons" class="wp-image-3310"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://openclipart.org/detail/137533/grace-hopper" target="_blank" rel="noreferrer noopener"><img src="/assets/images/2019/04/grace-hopper-154833_640.png" alt="Grace Hopper illustration by gingercoons" class="wp-image-3310"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -143,13 +143,13 @@ begin
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3315} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/04/Grace-Hopper-Animatedsample.gif" alt="" class="wp-image-3315"/></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/04/Grace-Hopper-Animatedsample.gif" alt="" class="wp-image-3315"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>I'm posting my code if you want to play with it some more. The source SVG is embedded in a memo instead of reading it from a file. It was written with Delphi 10.3.1 Rio.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:file {"id":3312,"href":"http://delphi.org/wp-content/uploads/2019/04/SVGAnimation.7z"} -->
-<div class="wp-block-file"><a href="http://delphi.org/wp-content/uploads/2019/04/SVGAnimation.7z">SVGAnimation</a><a href="http://delphi.org/wp-content/uploads/2019/04/SVGAnimation.7z" class="wp-block-file__button" download>Download</a></div>
+<!-- wp:file {"id":3312,"href":"/assets/images/2019/04/SVGAnimation.7z"} -->
+<div class="wp-block-file"><a href="/assets/images/2019/04/SVGAnimation.7z">SVGAnimation</a><a href="/assets/images/2019/04/SVGAnimation.7z" class="wp-block-file__button" download>Download</a></div>
 <!-- /wp:file -->

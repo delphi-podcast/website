@@ -13,7 +13,7 @@ tags:
     - News
 ---
 
-<a href="https://flixengineering.com/"><img class="alignright size-medium wp-image-2627" src="http://delphi.org/wp-content/uploads/2016/08/HolgarFlick-194x300.jpg" alt="Holgar Flick" width="194" height="300" /></a>I wanted to spotlight a recent return to the Delphi community as an MVP: Dr. Holger Flick. He's started blogging again and hasn't slowed down producing <a href="https://flixengineering.com/blog">good quality technical content</a>.
+<a href="https://flixengineering.com/"><img class="alignright size-medium wp-image-2627" src="/assets/images/2016/08/HolgarFlick-194x300.jpg" alt="Holgar Flick" width="194" height="300" /></a>I wanted to spotlight a recent return to the Delphi community as an MVP: Dr. Holger Flick. He's started blogging again and hasn't slowed down producing <a href="https://flixengineering.com/blog">good quality technical content</a>.
 
 Like many of us, Holger started programming with Turbo Pascal and GW Basic. For him it was at the age of 7 (with Basic) and switching to Delphi 2 at the age of 14. In 2003 he became very active in the forums and was a member of Team Indy. During that time he was blogging at "Holger's Thoughts on Delphi," and also wrote several articles in German and Dutch Delphi magazines.
 

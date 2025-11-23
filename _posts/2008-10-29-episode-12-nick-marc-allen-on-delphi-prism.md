@@ -1,6 +1,6 @@
----
+﻿---
 id: 429
-title: '12 &#8211; Nick, marc &#038; Allen on Delphi Prism'
+title: '12 – Nick, marc & Allen on Delphi Prism'
 date: '2008-10-29T08:00:51-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -21,3 +21,4 @@ tags:
 Sitting down with <a href="http://blogs.codegear.com/nickhodges/">Nick Hodges</a>, <a href="http://blogs.remobjects.com/mh">marc hoffman</a> and <a href="http://blogs.codegear.com/abauer">Allen Bauer</a> at Microsoft's PDC2008 to discuss Delphi Prism.  Get answers to all your questions about what Delphi Prism is, and the future of Delphi.  Leave any questions you have on Delphi Prism here, and I'll get the answers for you.
 
 A little late to on this podcast, but it is some good information.  The audio quality is not as good as I would like, but you can certainly hear what is going on.
+

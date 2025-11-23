@@ -15,11 +15,11 @@ tags:
     - podcast
 ---
 
-<img class="alignright size-full wp-image-2304" src="http://delphi.org/wp-content/uploads/2016/04/RobertLove.jpg" alt="Robert Love" width="179" height="256" />This week we are highlighting the work of <a href="http://robstechcorner.blogspot.com/">Robert Love, MVP</a>. I had the pleasure of meeting Robert around the release of Delphi 6. A coworker and I drove from Boise, Idaho down to Salt Lake City, Utah for the launch event (since there wasn't one in Boise that year). Robert Love runs the Salt Lake Delphi Users Group, and they scheduled a User Group meeting the night of the launch event, so we stayed for that too.
+<img class="alignright size-full wp-image-2304" src="/assets/images/2016/04/RobertLove.jpg" alt="Robert Love" width="179" height="256" />This week we are highlighting the work of <a href="http://robstechcorner.blogspot.com/">Robert Love, MVP</a>. I had the pleasure of meeting Robert around the release of Delphi 6. A coworker and I drove from Boise, Idaho down to Salt Lake City, Utah for the launch event (since there wasn't one in Boise that year). Robert Love runs the Salt Lake Delphi Users Group, and they scheduled a User Group meeting the night of the launch event, so we stayed for that too.
 
 <a href="http://robstechcorner.blogspot.com/">Blog</a> | <a href="https://twitter.com/DelphiDev">Twitter</a> | <a href="https://www.facebook.com/RobertJLove">Facebook</a> | <a href="http://gplus.to/RobertLove">G+</a> | <a href="http://www.linkedin.com/in/robjlove">LinkedIn</a> | <a href="http://stackoverflow.com/users/93161/robert-love">Stack Overflow</a>
 
-[caption id="attachment_2321" align="alignnone" width="600"]<img class="size-full wp-image-2321" src="http://delphi.org/wp-content/uploads/2016/04/teammembers.jpg" alt="Robert Love's Team Members - State of Utah" width="600" height="338" /> Robert Love's Team Members at the State of Utah[/caption]
+[caption id="attachment_2321" align="alignnone" width="600"]<img class="size-full wp-image-2321" src="/assets/images/2016/04/teammembers.jpg" alt="Robert Love's Team Members - State of Utah" width="600" height="338" /> Robert Love's Team Members at the State of Utah[/caption]
 
 He leads a team of Delphi developers that work for the state of Utah.
 
@@ -93,18 +93,18 @@ Robert is also working on a replacement for the <em><strong>Component Developmen
 
 [soundcloud url="https://api.soundcloud.com/tracks/258918332" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" iframe="true" /]
 
-[caption id="attachment_2331" align="alignnone" width="1024"]<img class="size-full wp-image-2331" src="http://delphi.org/wp-content/uploads/2016/04/TakingPicturesAtaDutchOvenEvent-1.jpg" alt="Robert Love taking pictures at Dutch Oven Event" width="1024" height="768" /> Robert Love taking pictures at Dutch Oven Event[/caption]
+[caption id="attachment_2331" align="alignnone" width="1024"]<img class="size-full wp-image-2331" src="/assets/images/2016/04/TakingPicturesAtaDutchOvenEvent-1.jpg" alt="Robert Love taking pictures at Dutch Oven Event" width="1024" height="768" /> Robert Love taking pictures at Dutch Oven Event[/caption]
 
-[caption id="attachment_2330" align="alignnone" width="650"]<img class="size-full wp-image-2330" src="http://delphi.org/wp-content/uploads/2016/04/OnTheMountainOverMyHouse-1.jpg" alt="Robert Love in mountains over house" width="650" height="488" /> Robert Love in mountains over his house[/caption]
+[caption id="attachment_2330" align="alignnone" width="650"]<img class="size-full wp-image-2330" src="/assets/images/2016/04/OnTheMountainOverMyHouse-1.jpg" alt="Robert Love in mountains over house" width="650" height="488" /> Robert Love in mountains over his house[/caption]
 
-[caption id="attachment_2329" align="alignnone" width="650"]<img class="size-full wp-image-2329" src="http://delphi.org/wp-content/uploads/2016/04/DaugtersFirstElectronicsProject-1.jpg" alt="Robert Love's Daughter's First Electronics Project" width="650" height="488" /> Robert Love's daughter's first electronics project[/caption]
+[caption id="attachment_2329" align="alignnone" width="650"]<img class="size-full wp-image-2329" src="/assets/images/2016/04/DaugtersFirstElectronicsProject-1.jpg" alt="Robert Love's Daughter's First Electronics Project" width="650" height="488" /> Robert Love's daughter's first electronics project[/caption]
 
-[caption id="attachment_2328" align="alignnone" width="640"]<img class="size-full wp-image-2328" src="http://delphi.org/wp-content/uploads/2016/04/DutchOvenFood-IDidNOTCookIt-ITookThePicture6.jpg" alt="Dutch Oven Cinnamon Rolls - Photograph by Robert Love (prepared by someone else)" width="640" height="427" /> Dutch Oven Cinnamon Rolls - Photograph by Robert Love (prepared by someone else)[/caption]
+[caption id="attachment_2328" align="alignnone" width="640"]<img class="size-full wp-image-2328" src="/assets/images/2016/04/DutchOvenFood-IDidNOTCookIt-ITookThePicture6.jpg" alt="Dutch Oven Cinnamon Rolls - Photograph by Robert Love (prepared by someone else)" width="640" height="427" /> Dutch Oven Cinnamon Rolls - Photograph by Robert Love (prepared by someone else)[/caption]
 
-[caption id="attachment_2327" align="alignnone" width="640"]<img class="size-full wp-image-2327" src="http://delphi.org/wp-content/uploads/2016/04/DutchOvenFood-IDidNOTCookIt-ITookThePicture4.jpg" alt="Dutch Oven Chicken - Photograph by Robert Love (prepared by someone else)" width="640" height="427" /> Dutch Oven Chicken - Photograph by Robert Love (prepared by someone else)[/caption]
+[caption id="attachment_2327" align="alignnone" width="640"]<img class="size-full wp-image-2327" src="/assets/images/2016/04/DutchOvenFood-IDidNOTCookIt-ITookThePicture4.jpg" alt="Dutch Oven Chicken - Photograph by Robert Love (prepared by someone else)" width="640" height="427" /> Dutch Oven Chicken - Photograph by Robert Love (prepared by someone else)[/caption]
 
-[caption id="attachment_2325" align="alignnone" width="640"]<img class="size-full wp-image-2325" src="http://delphi.org/wp-content/uploads/2016/04/DutchOvenFood-IDidNOTCookIt-ITookThePicture2.jpg" alt="Dutch Oven Rolls - Photograph by Robert Love (prepared by someone else)" width="640" height="427" /> Dutch Oven Rolls - Photograph by Robert Love (prepared by someone else)[/caption]
+[caption id="attachment_2325" align="alignnone" width="640"]<img class="size-full wp-image-2325" src="/assets/images/2016/04/DutchOvenFood-IDidNOTCookIt-ITookThePicture2.jpg" alt="Dutch Oven Rolls - Photograph by Robert Love (prepared by someone else)" width="640" height="427" /> Dutch Oven Rolls - Photograph by Robert Love (prepared by someone else)[/caption]
 
-[caption id="attachment_2324" align="alignnone" width="640"]<img class="size-full wp-image-2324" src="http://delphi.org/wp-content/uploads/2016/04/DutchOvenFood-IDidNOTCookIt-ITookThePicture1.jpg" alt="Dutch Oven Cake - Photograph by Robert Love (prepared by someone else)" width="640" height="427" /> Dutch Oven Cake - Photograph by Robert Love (prepared by someone else)[/caption]
+[caption id="attachment_2324" align="alignnone" width="640"]<img class="size-full wp-image-2324" src="/assets/images/2016/04/DutchOvenFood-IDidNOTCookIt-ITookThePicture1.jpg" alt="Dutch Oven Cake - Photograph by Robert Love (prepared by someone else)" width="640" height="427" /> Dutch Oven Cake - Photograph by Robert Love (prepared by someone else)[/caption]
 
 &nbsp;

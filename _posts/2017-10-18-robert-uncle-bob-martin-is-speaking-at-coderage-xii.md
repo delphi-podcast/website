@@ -1,6 +1,6 @@
----
+﻿---
 id: 2914
-title: 'Robert &#8220;Uncle Bob&#8221; Martin is Speaking at CodeRage XII'
+title: 'Robert “Uncle Bob” Martin is Speaking at CodeRage XII'
 date: '2017-10-18T19:54:59-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -19,4 +19,5 @@ I had an opportunity to see Uncle Bob speak a few years ago, and it was very mem
 
 <strong><a href="https://community.embarcadero.com/article/16578-coderage">Register now!</a></strong>
 
-<a href="https://cleancoders.com/"><img class="alignnone wp-image-2915 size-full" src="http://delphi.org/wp-content/uploads/2017/10/UncleBob.jpg" alt="Robert &quot;Uncle Bob&quot; Martin" width="600" height="400" /></a>
+<a href="https://cleancoders.com/"><img class="alignnone wp-image-2915 size-full" src="/assets/images/2017/10/UncleBob.jpg" alt="Robert &quot;Uncle Bob&quot; Martin" width="600" height="400" /></a>
+

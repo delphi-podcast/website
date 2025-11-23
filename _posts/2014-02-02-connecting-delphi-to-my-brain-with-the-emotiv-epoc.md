@@ -16,7 +16,7 @@ tags:
     - webinar
 ---
 
-<a href="http://www.emotiv.com/epoc/"><img class=" wp-image-1513 alignright" src="http://delphi.org/wp-content/uploads/2014/02/Emotiv-EPOC-1080-1024x791.jpeg" alt="Emotiv EPOC Neuroheadset" width="372" height="287" /></a>The Emotiv EPOC might seem more Sci-Fi than practical technology. It is designed to pick up on brain waves through its 14 brain wave sensors (plus 2 reference receivers) and convert them into a usable signal for your computer. For head tracking it also includes a head mounted gyroscope.
+<a href="http://www.emotiv.com/epoc/"><img class=" wp-image-1513 alignright" src="/assets/images/2014/02/Emotiv-EPOC-1080-1024x791.jpeg" alt="Emotiv EPOC Neuroheadset" width="372" height="287" /></a>The Emotiv EPOC might seem more Sci-Fi than practical technology. It is designed to pick up on brain waves through its 14 brain wave sensors (plus 2 reference receivers) and convert them into a usable signal for your computer. For head tracking it also includes a head mounted gyroscope.
 
 The sensor input comes in 4 different categories:
 <ul>

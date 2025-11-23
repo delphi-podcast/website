@@ -9,7 +9,7 @@ guid: 'http://delphi.org/?p=2426'
 permalink: /2016/05/mvp-of-the-week-nirav-kaku/
 enclosure:
     - "http://delphi.org/episodes/64-NiravKaku.mp3\n35041926\naudio/mpeg\n"
-image: /wp-content/uploads/2016/05/Nirav.jpg
+image: /assets/images/2016/05/Nirav.jpg
 categories:
     - News
 tags:
@@ -17,7 +17,7 @@ tags:
     - News
 ---
 
-<img class="alignright wp-image-2433" src="http://delphi.org/wp-content/uploads/2016/05/Nirav.jpg" alt="Nirav Kaku" width="254" height="190" />This week we are spotlighting our MVP <a href="http://www.veditindia.com/delphi/">Nirav Kaku</a> from Mumbai, India. I had the opportunity to meet Nirav while I was visiting Mumbai and he showed me around India and took me to dinner.
+<img class="alignright wp-image-2433" src="/assets/images/2016/05/Nirav.jpg" alt="Nirav Kaku" width="254" height="190" />This week we are spotlighting our MVP <a href="http://www.veditindia.com/delphi/">Nirav Kaku</a> from Mumbai, India. I had the opportunity to meet Nirav while I was visiting Mumbai and he showed me around India and took me to dinner.
 
 One of the places we visited was <a href="https://en.wikipedia.org/wiki/Banganga_Tank">Banganga Tank</a> and one of the temples in the <a title="Walkeshwar Temple" href="https://en.wikipedia.org/wiki/Walkeshwar_Temple">Walkeshwar Temple Complex</a>. It was a great experience.
 
@@ -27,11 +27,11 @@ One of the places we visited was <a href="https://en.wikipedia.org/wiki/Bangang
 
 Nirav runs a software development company in India where he employes 6 other Delphi developers. They provide a software as a service system to the high end corporate taxi service. It includes both mobile and web based aspects, all developed with Delphi (with a little HTML, JavaScript and PHP mixed in). It currently services a fleet of 1000 taxis and their drivers. For the back end they use both <a href="http://docwiki.embarcadero.com/RADStudio/en/Developing_DataSnap_Applications">DataSnap</a> and the <a href="http://www.danieleteti.it/delphi-mvc-framework/">Delphi MVC framework</a>. Here are a couple of his developers I met while I was visiting.
 
-<img class="alignnone size-full wp-image-2432" src="http://delphi.org/wp-content/uploads/2016/05/Developers-in-India.jpg" alt="Nirav's Developers" />
+<img class="alignnone size-full wp-image-2432" src="/assets/images/2016/05/Developers-in-India.jpg" alt="Nirav's Developers" />
 
 As an MVP and profession software developer he spends a lot of time researching technology and development topics, and then holds one day training sessions where he shares some of what he's learned.
 
-<img class="alignnone wp-image-2430" src="http://delphi.org/wp-content/uploads/2016/05/Nirav-Kaku.jpg" alt="Nirav Kaku" width="1280" height="957" />
+<img class="alignnone wp-image-2430" src="/assets/images/2016/05/Nirav-Kaku.jpg" alt="Nirav Kaku" width="1280" height="957" />
 
 [soundcloud url="https://api.soundcloud.com/tracks/264975464" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" iframe="true" /]
 

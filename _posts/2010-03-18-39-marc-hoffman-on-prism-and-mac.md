@@ -1,6 +1,6 @@
----
+﻿---
 id: 895
-title: '39 &#8211; marc hoffman on Prism and Mac'
+title: '39 – marc hoffman on Prism and Mac'
 date: '2010-03-18T22:18:35-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -25,3 +25,4 @@ Talking with marc hoffman of RemObjects talks with us about what is new in the O
 
 <em>I remixed the audio to remove the 5 minute gap.
 </em>
+

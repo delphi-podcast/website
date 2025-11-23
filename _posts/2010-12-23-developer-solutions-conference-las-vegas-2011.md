@@ -1,6 +1,6 @@
----
+﻿---
 id: 994
-title: 'Developer Solutions Conference &#8211; Las Vegas 2011'
+title: 'Developer Solutions Conference – Las Vegas 2011'
 date: '2010-12-23T01:55:00-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -18,3 +18,4 @@ tags:
 ---
 
 Another combined episode with RemObjects Radio (we will have our own episodes again soon).  In this episode I talk with marc hoffman, Olaf Monien and Daniel Magin about the upcoming <a href="http://dsconf.com/">Developer Solutions Conference</a> in Las Vegas for this February 2011.  There is a discount code good through Christmas on the site.  This is a really exciting conference.  It is the first joint conference with RemObjects and Developer Experts.  We are re-inventing the conference to degree.  The idea with the Developer Solutions Conference is to have all the sessions tightly coupled for a specific objective.  The objective this time around is introducing developers to cross platform and mobile application development, specifically with multi-tier database applications.  It will be a great conference and I look forward to seeing you all there.
+

@@ -27,6 +27,6 @@ You will want to copy it somewhere else before modifying it. Then add a button w
 
 [delphi light="True"]StreamToClipboard([RESTClient, RESTRequest, RESTResponse, RESTResponseDataSetAdapter, RESTClient.Authenticator]);[/delphi]
 
-And then download <a href="http://delphi.org/wp-content/uploads/2014/02/uCopyComponents.zip">uCopyComponents.pas</a> and add it to your project and uses clause. It is pretty simple, but is designed specifically to work with non-visual components, although could be modified to work with visual components too.
+And then download <a href="/assets/images/2014/02/uCopyComponents.zip">uCopyComponents.pas</a> and add it to your project and uses clause. It is pretty simple, but is designed specifically to work with non-visual components, although could be modified to work with visual components too.
 
 If you want to include the TClientDataSet in the copy, then add it to the array (although make sure it is not active). Or you could modify it to add a TFDMemTable. Use it how you wish, I hope it works for you. If you discover any bugs make any changes let me know. If anyone is interested in contributing to it, let me know.

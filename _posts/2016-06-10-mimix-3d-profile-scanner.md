@@ -6,14 +6,14 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2514'
 permalink: /2016/06/mimix-3d-profile-scanner/
-image: /wp-content/uploads/2016/05/Cool_App_Contest_Logo_and_Graphic-262x198.png
+image: /assets/images/2016/05/Cool_App_Contest_Logo_and_Graphic-262x198.png
 categories:
     - News
 tags:
     - News
 ---
 
-<a href="http://community.embarcadero.com/blogs/entry/join-our-club-of-elite-embarcadero-developers-show-us-your-cool-apps"><img class="alignright" src="http://i1.wp.com/delphi.org/wp-content/uploads/2016/05/Cool_App_Contest_Logo_and_Graphic.png?zoom=2&amp;resize=206%2C198" alt="Embarcadero Cool App Contest" width="206" height="198" /></a>
+<a href="http://community.embarcadero.com/blogs/entry/join-our-club-of-elite-embarcadero-developers-show-us-your-cool-apps"><img class="alignright" src="http://i1.wp.com/delphi.org/assets/images/2016/05/Cool_App_Contest_Logo_and_Graphic.png?zoom=2&amp;resize=206%2C198" alt="Embarcadero Cool App Contest" width="206" height="198" /></a>
 
 This brings me to the next contender in the <a href="http://community.embarcadero.com/blogs/entry/join-our-club-of-elite-embarcadero-developers-show-us-your-cool-apps">Embarcadero Cool App Contest</a> is the <a href="http://www.intricad.com/mimix3dscannerpersonal/">Mimix 3D Profile Scanner</a> by <a href="http://intricad.com/">intricad</a>. It uses a really cool technique to capture a 3D impression with only your monitor and a standard webcam.
 <blockquote>mimix 3D Profile Scanner Personal allows you to make 3D impressions using your webcam and PC monitor screen. mimix 3D Profile Scanner Personal uses a set of 4 black and white patterns which are projected by your computer screen while your camera captures the images of your face in front of the screen. The images are then processed to reveal a 3D impression.

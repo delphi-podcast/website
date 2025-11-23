@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2592'
 permalink: /2016/08/cool-app-contender-sumotori-de-chu/
-image: /wp-content/uploads/2016/08/SUMOTORI_DE_CHU-512x198.png
+image: /assets/images/2016/08/SUMOTORI_DE_CHU-512x198.png
 categories:
     - News
 tags:
@@ -16,7 +16,7 @@ tags:
 
 The next contender in our cool app contest is <a href="https://play.google.com/store/apps/details?id=com.AJ.SUMO">SUMOTORI DE CHU</a>.
 
-<a href="https://play.google.com/store/apps/details?id=com.AJ.SUMO"><img class=" wp-image-2593 alignright" src="http://delphi.org/wp-content/uploads/2016/08/SUMOTORI_DE_CHU.png" alt="SUMOTORI_DE_CHU" width="256" height="256" /></a>Are you fond of wrestling, sumo or other fighting games? You should surely try SUMOTORI DE CHU app. Inspired by Japanese national sport SUMO; it is a competitive full-contact sport where a wrestler attempts to force another wrestler out of a circular ring. It is an amazing minimalistic network game for two players.
+<a href="https://play.google.com/store/apps/details?id=com.AJ.SUMO"><img class=" wp-image-2593 alignright" src="/assets/images/2016/08/SUMOTORI_DE_CHU.png" alt="SUMOTORI_DE_CHU" width="256" height="256" /></a>Are you fond of wrestling, sumo or other fighting games? You should surely try SUMOTORI DE CHU app. Inspired by Japanese national sport SUMO; it is a competitive full-contact sport where a wrestler attempts to force another wrestler out of a circular ring. It is an amazing minimalistic network game for two players.
 
 It uses Wifi to synchronize the position, score and sound on a local network. Users can update their player image by taking snaps from their camera which will automatically get updated in the other player profile as well. Players can control the motion by tilting their device in the intended direction. This unique game also senses the physical motion of the user and this makes it able to control the motion in the game by those physical movements.
 

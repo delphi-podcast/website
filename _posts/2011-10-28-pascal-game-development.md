@@ -1,18 +1,18 @@
----
+﻿---
 id: 1105
-title: '48 &#8211; Pascal Game Development with Jason McMillen'
+title: '48 – Pascal Game Development with Jason McMillen'
 date: '2011-10-28T12:09:00-06:00'
 author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=1105'
 permalink: /2011/10/pascal-game-development/
-image: /wp-content/uploads/2011/10/PGD-News-Round-up-Aug-2011-627x180.jpg
+image: /assets/images/2011/10/PGD-News-Round-up-Aug-2011-627x180.jpg
 tags:
     - 'Audio podCast'
     - podcast
 ---
 
-<img class="alignright size-medium wp-image-1106" title="Jason McMillen of PascalGameDevelopment.com" src="http://delphi.org/wp-content/uploads/2011/10/PGD-News-Round-up-Aug-2011-300x224.jpg" alt="Jason McMillen of PascalGameDevelopment.com" width="300" height="224" /> In this much belated episode I talk with Jason McMillen of <a style="line-height: 18px;" href="http://PascalGameDevelopment.com/">Pascal Game Development</a>. We discuss the surprisingly vast world of Pascal Game Development with Delphi, Free Pascal, Oxygene and other Pascal and Object Pascal derivatives. You can find Jason "WILL" McMillen in the following places:
+<img class="alignright size-medium wp-image-1106" title="Jason McMillen of PascalGameDevelopment.com" src="/assets/images/2011/10/PGD-News-Round-up-Aug-2011-300x224.jpg" alt="Jason McMillen of PascalGameDevelopment.com" width="300" height="224" /> In this much belated episode I talk with Jason McMillen of <a style="line-height: 18px;" href="http://PascalGameDevelopment.com/">Pascal Game Development</a>. We discuss the surprisingly vast world of Pascal Game Development with Delphi, Free Pascal, Oxygene and other Pascal and Object Pascal derivatives. You can find Jason "WILL" McMillen in the following places:
 <ul>
 	<li><a href="http://PascalGamer.com">PascalGamer.com</a></li>
 	<li><a href="http://PGDAnnual.com">PGDAnnual.com</a></li>
@@ -83,3 +83,4 @@ tags:
 	<li><a href="http://http://www.pascalgamer.com/pgdannual/">PGD Annual Showcase Site</a></li>
 </ul>
 Again only a fraction much of the libraries and games have come and gone and there isn't much of a reference to them on the Internet anymore.
+

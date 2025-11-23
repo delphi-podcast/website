@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=3207'
 permalink: /2018/11/android-z-order-native-controls-and-10-3-rio/
-image: /wp-content/uploads/2018/11/Attack-of-Android-Z-Order-and-the-Native-Controls-Featured-940x198.jpg
+image: /assets/images/2018/11/Attack-of-Android-Z-Order-and-the-Native-Controls-Featured-940x198.jpg
 categories:
     - News
 tags:
@@ -18,7 +18,7 @@ tags:
 ---
 
 <!-- wp:image {"id":3208,"align":"right","width":245,"height":297} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="http://delphi.org/wp-content/uploads/2018/11/Z-order.png" alt="Z-order represents stacking controls" class="wp-image-3208" width="245" height="297"/><figcaption>Z-order represents stacking controls</figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="/assets/images/2018/11/Z-order.png" alt="Z-order represents stacking controls" class="wp-image-3208" width="245" height="297"/><figcaption>Z-order represents stacking controls</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -90,5 +90,5 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3211,"linkDestination":"media"} -->
-<figure class="wp-block-image"><a href="https://i0.wp.com/delphi.org/wp-content/uploads/2018/11/Attack-of-Android-Z-Order-and-the-Native-Controls.jpg?fit=640%2C402"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2018/11/Attack-of-Android-Z-Order-and-the-Native-Controls.jpg?fit=640%2C402" alt="Android Z-Order and the Native Controls - Coming soon to a RAD Studio 10.3 Rio Near you!" class="wp-image-3211"/></a></figure>
+<figure class="wp-block-image"><a href="https://i0.wp.com/delphi.org/assets/images/2018/11/Attack-of-Android-Z-Order-and-the-Native-Controls.jpg?fit=640%2C402"><img src="https://i0.wp.com/delphi.org/assets/images/2018/11/Attack-of-Android-Z-Order-and-the-Native-Controls.jpg?fit=640%2C402" alt="Android Z-Order and the Native Controls - Coming soon to a RAD Studio 10.3 Rio Near you!" class="wp-image-3211"/></a></figure>
 <!-- /wp:image -->

@@ -1,6 +1,6 @@
----
+﻿---
 id: 684
-title: 'Delphi Live! 2009 &#8211; What is Cooking in the Delphi Labs &#8211; Part 4'
+title: 'Delphi Live! 2009 – What is Cooking in the Delphi Labs – Part 4'
 date: '2009-05-21T13:53:39-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -41,3 +41,4 @@ RTTI
 Project "X" - Delphi application running on Mac OSX
 
 [<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-3/">Part 3</a>] - [<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-5/">Part 5</a>]
+

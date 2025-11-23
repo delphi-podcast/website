@@ -1,6 +1,6 @@
----
+﻿---
 id: 852
-title: 'Delphi Live! 2010 &#8211; Call for Papers'
+title: 'Delphi Live! 2010 – Call for Papers'
 date: '2010-02-17T10:19:28-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -74,3 +74,4 @@ Sessions are 75 minutes. It's possible to divide a session in an introduction an
 	<li> It is mandatory for each speaker to give at least 2 talks.</li>
 </ol>
 We are looking forward to meeting you in San Jose!
+

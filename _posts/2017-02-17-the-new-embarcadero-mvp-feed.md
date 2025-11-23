@@ -12,7 +12,7 @@ tags:
     - News
 ---
 
-<a href="http://embt.co/mvp-feed"><img class="alignright wp-image-2690" src="http://delphi.org/wp-content/uploads/2017/02/DelphiSocialMedia.png" alt="Delphi Social Media" width="270" height="270" /></a>We just launched a <a href="http://embt.co/mvp-feed">MVP Blog Feed</a> on the Community page. You can get to it at <a href="http://embt.co/mvp-feed">embt.co/mvp-feed</a>. Eventually we will expand it to contain all the MVPs, Tech Partners and other Embarcadero Partners that may be of interest to the general public.
+<a href="http://embt.co/mvp-feed"><img class="alignright wp-image-2690" src="/assets/images/2017/02/DelphiSocialMedia.png" alt="Delphi Social Media" width="270" height="270" /></a>We just launched a <a href="http://embt.co/mvp-feed">MVP Blog Feed</a> on the Community page. You can get to it at <a href="http://embt.co/mvp-feed">embt.co/mvp-feed</a>. Eventually we will expand it to contain all the MVPs, Tech Partners and other Embarcadero Partners that may be of interest to the general public.
 
 <em>We are just getting warmed up!</em>
 

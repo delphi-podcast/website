@@ -13,7 +13,7 @@ tags:
     - podcast
 ---
 
-I<img class="alignright size-thumbnail wp-image-1947" src="http://delphi.org/wp-content/uploads/2015/03/Brian-Alexakis-150x150.jpg" alt="Brian Alexakis" width="150" height="150" />n this episode I talk with Brian Alexakis about his role and what exactly it means to be a Knowledge Marketer. We also talk about the similarities between FireMonkey and some web development tools, and discuss virtual reality and what it holds in store for our near future. You can follow Brian Alexakis and his tutorials and C++ examples on <a href="http://blog.appmethod.com/">blog.appmethod.com</a> or on Twitter as <a href="https://twitter.com/IoTBrian">@IoTBrian</a>.
+I<img class="alignright size-thumbnail wp-image-1947" src="/assets/images/2015/03/Brian-Alexakis-150x150.jpg" alt="Brian Alexakis" width="150" height="150" />n this episode I talk with Brian Alexakis about his role and what exactly it means to be a Knowledge Marketer. We also talk about the similarities between FireMonkey and some web development tools, and discuss virtual reality and what it holds in store for our near future. You can follow Brian Alexakis and his tutorials and C++ examples on <a href="http://blog.appmethod.com/">blog.appmethod.com</a> or on Twitter as <a href="https://twitter.com/IoTBrian">@IoTBrian</a>.
 
 Here are some links that Brian mentioned during the podcast:
 <ul>

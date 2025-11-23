@@ -1,6 +1,6 @@
----
+﻿---
 id: 492
-title: '15 &#8211; Julian Bucknall on DevExpress'
+title: '15 – Julian Bucknall on DevExpress'
 date: '2008-11-19T01:35:47-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -43,3 +43,4 @@ The microphone picked up all the background noise, which makes it a little hard 
 	<li><a href="http://podcast.remobjects.com/15-DevExpress-Julian_media/15-DevExpress-Julian.wmv"><strong>WMV video</strong>, 66.7 MB</a></li>
 </ul>
 [<a href="http://delphi.org/wiki/Episode_15">Transcript</a> 90% done]
+

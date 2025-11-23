@@ -1,6 +1,6 @@
----
+﻿---
 id: 859
-title: '37 &#8211; Michael Rozlog'
+title: '37 – Michael Rozlog'
 date: '2010-02-22T22:35:12-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -38,3 +38,4 @@ Coming soon to <a href="http://www.embarcadero.com/products/beta-programs">more 
 	<li>And a whole lot more.</li>
 </ul>
 It came in a bit longer then usual, but I have a hard time cutting content out when it is so good.  Thanks to Michael for his time and for answering our questions.
+

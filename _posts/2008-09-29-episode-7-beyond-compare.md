@@ -1,6 +1,6 @@
----
+﻿---
 id: 261
-title: '7 &#8211; Beyond Compare'
+title: '7 – Beyond Compare'
 date: '2008-09-29T03:48:49-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -30,3 +30,4 @@ tags:
 	<li><a href="http://www.scootersoftware.com/download.php?zz=miscdl">Misc Downloads</a></li>
 </ul>
 Be sure to listen to the podcast to get your 25% discount code on Beyond compare version 3.  Also still good is the <a href="http://www.remobjects.com/">RemObjects</a> 20% discount code.  Both are valid through the end of October!
+

@@ -1,6 +1,6 @@
----
+﻿---
 id: 198
-title: '5 &#8211; Oxygene and .NET'
+title: '5 – Oxygene and .NET'
 date: '2008-09-15T04:50:27-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -28,3 +28,4 @@ tags:
 <span style="font-family: 'Times New Roman'; line-height: normal; font-size: medium;">
 <div style="display: inline !important;"><em>Also a note about last week's episode:</em> In addition to all the great information on using generic collections, I also had asked our guest, Julian Bucknall, some questions about the implementation of the TDictionary class.  Julian did not write this class, nor did he heavely research the code.  He did  tell me how he understood it worked.  Well it turns out he a missunderstood some of the implementation details.  Barry Kelly, the author of that class added some comments on the show notes for that show.  <a href="http://www.delphi.org/2008/09/episode-4-julian-bucknall-part-2/">Check those comments</a> out for a correction on the implementation of the generic TDictionary in Delphi 2009.</div>
 </span>
+

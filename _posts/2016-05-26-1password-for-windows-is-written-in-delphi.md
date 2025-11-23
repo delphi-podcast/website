@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2445'
 permalink: /2016/05/1password-for-windows-is-written-in-delphi/
-image: /wp-content/uploads/2016/05/1Password-512x198.png
+image: /assets/images/2016/05/1Password-512x198.png
 categories:
     - News
 tags:
@@ -21,4 +21,4 @@ I've been using LassPass, EverNote, Google Authenticator, Authy and Chrome's ide
 
 Who will win next month? Maybe your cool app. <a href="http://community.embarcadero.com/blogs/entry/join-our-club-of-elite-embarcadero-developers-show-us-your-cool-apps">Enter today</a>!
 
-<img class="size-full wp-image-2449 aligncenter" src="http://delphi.org/wp-content/uploads/2016/05/Cool_App_Contest_Logo_and_Graphic.png" alt="Embarcadero Cool App Contest" width="262" height="252" />
+<img class="size-full wp-image-2449 aligncenter" src="/assets/images/2016/05/Cool_App_Contest_Logo_and_Graphic.png" alt="Embarcadero Cool App Contest" width="262" height="252" />

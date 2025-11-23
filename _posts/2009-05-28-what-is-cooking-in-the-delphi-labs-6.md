@@ -1,6 +1,6 @@
----
+﻿---
 id: 702
-title: 'Delphi Live! 2009 &#8211; What is Cooking in the Delphi Labs &#8211; Part 6'
+title: 'Delphi Live! 2009 – What is Cooking in the Delphi Labs – Part 6'
 date: '2009-05-28T23:30:06-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -29,3 +29,5 @@ May 2009</p>
 <p>Part 6 of 8</p>
 <p>[<a href="http://www.youtube.com/watch?v=3jWdni2ikgA">YouTube</a>] [<a href="http://www.vimeo.com/4896127">Vimeo</a>] [<a href="http://www.viddler.com/explore/jimmckeeth/videos/6/">Viddler</a>]</p>
 <p>[<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-5/">Part 5</a>] - [<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-7/">Part 7</a>]</p>
+
+

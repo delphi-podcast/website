@@ -46,7 +46,7 @@ http://www.youtube.com/watch?v=CacpPleWsZM
 	<li>Open a new command window in the Windows guest OS and type "adb kill-server &amp; adb devices" and you should see the <i>emulator-5554</i> as a listed device.</li>
 	<li>Refresh target devices in Delphi and it should appear</li>
 </ol>
-<img class="alignnone  wp-image-1276" alt="PuTTY Tunnels" src="http://delphi.org/wp-content/uploads/2013/09/PuTTY-Tunnels.png" width="472" height="456" />
+<img class="alignnone  wp-image-1276" alt="PuTTY Tunnels" src="/assets/images/2013/09/PuTTY-Tunnels.png" width="472" height="456" />
 
 This should work for any emulators or devices connected to the remote machine. Unlike emulators that are local, you need to start the emulators before Delphi will see them. You may need to adjust the tunnel port numbers if you are connecting multiple devices.
 

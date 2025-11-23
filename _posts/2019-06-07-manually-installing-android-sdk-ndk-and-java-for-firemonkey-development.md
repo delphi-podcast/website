@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=3345'
 permalink: /2019/06/manually-installing-android-sdk-ndk-and-java-for-firemonkey-development/
-image: /wp-content/uploads/2019/06/Manually-Installing-Andorid-790x198.png
+image: /assets/images/2019/06/Manually-Installing-Andorid-790x198.png
 categories:
     - News
 tags:
@@ -14,7 +14,7 @@ tags:
 ---
 
 <!-- wp:image {"id":3367} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/Manually-Installing-Andorid.png" alt="" class="wp-image-3367"/></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/Manually-Installing-Andorid.png" alt="" class="wp-image-3367"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -34,7 +34,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3347} -->
-<figure class="wp-block-image"><img src="https://i1.wp.com/delphi.org/wp-content/uploads/2019/06/openjdk-1.png?fit=640%2C174" alt="" class="wp-image-3347"/><figcaption>What is the OpenJDK?</figcaption></figure>
+<figure class="wp-block-image"><img src="https://i1.wp.com/delphi.org/assets/images/2019/06/openjdk-1.png?fit=640%2C174" alt="" class="wp-image-3347"/><figcaption>What is the OpenJDK?</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,11 +62,11 @@ tags:
 <!-- /wp:list -->
 
 <!-- wp:image {"id":3348} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/OpenJDK-Install.jpg" alt="" class="wp-image-3348"/><figcaption>While installing AdoptOpenJDK, have it Set JAVA_HOME environment variable.</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/OpenJDK-Install.jpg" alt="" class="wp-image-3348"/><figcaption>While installing AdoptOpenJDK, have it Set JAVA_HOME environment variable.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3364,"align":"right","width":251,"height":294} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i1.wp.com/delphi.org/wp-content/uploads/2019/06/Android-sdk.png?fit=640%2C752" alt="" class="wp-image-3364" width="251" height="294"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i1.wp.com/delphi.org/assets/images/2019/06/Android-sdk.png?fit=640%2C752" alt="" class="wp-image-3364" width="251" height="294"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -122,7 +122,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3354} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image.png" alt="" class="wp-image-3354"/><figcaption>The GUI for the Android SDK Manager</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image.png" alt="" class="wp-image-3354"/><figcaption>The GUI for the Android SDK Manager</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -134,7 +134,7 @@ tags:
 <!-- /wp:preformatted -->
 
 <!-- wp:image {"id":3365,"align":"right","width":250,"height":293} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2019/06/Android-ndk.png?fit=640%2C752" alt="" class="wp-image-3365" width="250" height="293"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i0.wp.com/delphi.org/assets/images/2019/06/Android-ndk.png?fit=640%2C752" alt="" class="wp-image-3365" width="250" height="293"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -162,7 +162,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3352} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/Studio-SDK-Folders-1.png" alt="" class="wp-image-3352"/><figcaption>The folder containing the Android SDK and NDK</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/Studio-SDK-Folders-1.png" alt="" class="wp-image-3352"/><figcaption>The folder containing the Android SDK and NDK</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -178,7 +178,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3355} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image-1.png" alt="" class="wp-image-3355"/><figcaption> Make sure your JAVA_HOME is correct, and set the ANDROID_HOME environment variable.  </figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image-1.png" alt="" class="wp-image-3355"/><figcaption> Make sure your JAVA_HOME is correct, and set the ANDROID_HOME environment variable.  </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -190,7 +190,7 @@ tags:
 <!-- /wp:list -->
 
 <!-- wp:image {"id":3357} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image-3.png" alt="" class="wp-image-3357"/><figcaption>The first JAVA path is the JRE, the second is the JDK. <br>Using the environment variables in the path saves environment space.</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image-3.png" alt="" class="wp-image-3357"/><figcaption>The first JAVA path is the JRE, the second is the JDK. <br>Using the environment variables in the path saves environment space.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -202,15 +202,15 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3359} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image-5.png" alt="" class="wp-image-3359"/><figcaption>If you have an existing Android entry here, you can remove it before adding a new one.</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image-5.png" alt="" class="wp-image-3359"/><figcaption>If you have an existing Android entry here, you can remove it before adding a new one.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3358} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image-4.png" alt="" class="wp-image-3358"/><figcaption>We are adding a new Android platform.</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image-4.png" alt="" class="wp-image-3358"/><figcaption>We are adding a new Android platform.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3360} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image-6.png" alt="" class="wp-image-3360"/><figcaption>Provide the three paths based on where you installed them</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image-6.png" alt="" class="wp-image-3360"/><figcaption>Provide the three paths based on where you installed them</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -218,7 +218,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3361} -->
-<figure class="wp-block-image"><img src="http://delphi.org/wp-content/uploads/2019/06/image-7.png" alt="" class="wp-image-3361"/><figcaption> Be sure you select Android-26 for the API level, especially if you installed other versions too. <br>The SDK Manager found everything it needs to continue.</figcaption></figure>
+<figure class="wp-block-image"><img src="/assets/images/2019/06/image-7.png" alt="" class="wp-image-3361"/><figcaption> Be sure you select Android-26 for the API level, especially if you installed other versions too. <br>The SDK Manager found everything it needs to continue.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

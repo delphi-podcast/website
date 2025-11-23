@@ -1,6 +1,6 @@
----
+﻿---
 id: 667
-title: 'Delphi Live! 2009 &#8211; What is Cooking in the Delphi Labs &#8211; Part 2'
+title: 'Delphi Live! 2009 – What is Cooking in the Delphi Labs – Part 2'
 date: '2009-05-19T23:15:14-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -38,3 +38,4 @@ This is <a href="http://www.vimeo.com/4761524">part 2</a> where we start to see 
 	<li> Code Formatter</li>
 </ul>
 [<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-1/">Part 1</a>] [<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-3/">Part 3</a>]
+

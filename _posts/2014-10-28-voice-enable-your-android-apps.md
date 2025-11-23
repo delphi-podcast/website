@@ -80,7 +80,7 @@ android:name="com.google.android.glass.permission.DEVELOPMENT"/&gt;</span></li>
 </ul>
 </li>
 </ul>
-<strong>Voice Recognition on Android<img class="alignright size-full wp-image-1809" src="http://delphi.org/wp-content/uploads/2014/10/Android-Speak-Now.png" alt="Android/Google - Speak Now" width="264" height="176" /></strong>
+<strong>Voice Recognition on Android<img class="alignright size-full wp-image-1809" src="/assets/images/2014/10/Android-Speak-Now.png" alt="Android/Google - Speak Now" width="264" height="176" /></strong>
 <ul>
 	<li class="p1"><span class="s1">Prompts user for voice input</span></li>
 	<li class="p1"><span class="s1">Returns up to 5 “guesses”</span></li>

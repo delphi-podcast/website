@@ -1,6 +1,6 @@
----
+﻿---
 id: 215
-title: '6 &#8211; Cast on News'
+title: '6 – Cast on News'
 date: '2008-09-22T05:02:54-06:00'
 author: 'Jim McKeeth'
 excerpt: 'This episode is the first of what I hope to be a recurring feature where I get together with other bloggers and community members to discuss Delphi news.  We talk about Delphi 2009, Stack Overflow and their OpenId Issues, why we use Delphi, and other current events.  '
@@ -26,3 +26,4 @@ This episode is the first of what I hope to be a recurring feature where I get t
 <a href="http://blogs.remobjects.com/blogs/mh"><img class="alignright" title="marc hoffman" src="http://delphi.org/images/guests/marchoffman(small).jpg" alt="" width="150" height="99" /></a>marc hoffman is the Chief Software Architect for RemObjects and a Spare-time Photographer.  When he is not guest appearing on this podcast he runs a <a href="http://blogs.remobjects.com/blogs/mh">blog at RemObjects.com</a> where he talks about Oxygene and shares some of his photographs.  marc lives in Berlin Germany, and prefers his name all lowercase.
 
 Also tune in for the great 20% discount from RemObjects!
+

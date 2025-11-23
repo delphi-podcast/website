@@ -42,6 +42,6 @@ More information:
 </ul>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8i_U1EsSAhYetoEF76SIdOwc72arBC52irW3djHpoKdSAGqOgCmPtXhGFjPKsdEUxpZ9mcldw-dJs/embed?start=false&amp;loop=false&amp;delayms=10000" width="640" height="390" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[<a href="http://delphi.org/wp-content/uploads/2018/02/DelphiBlockChainExamples.7z">Delphi Blockchain Examples</a>]
+[<a href="/assets/images/2018/02/DelphiBlockChainExamples.7z">Delphi Blockchain Examples</a>]
 
 &nbsp;

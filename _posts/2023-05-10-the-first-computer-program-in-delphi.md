@@ -1,12 +1,12 @@
 ---
 id: 3613
-title: 'The First Computer Program &#8211; In Delphi'
+title: 'The First Computer Program – In Delphi'
 date: '2023-05-10T13:59:33-06:00'
 author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=3613'
 permalink: /2023/05/the-first-computer-program-in-delphi/
-image: /wp-content/uploads/2023/05/Lovelace-with-Analytic-Engine-and-Bernoulli-numbers-algorithm-1200x675.png
+image: /assets/images/2023/05/Lovelace-with-Analytic-Engine-and-Bernoulli-numbers-algorithm-1200x675.png
 categories:
     - News
 tags:
@@ -16,11 +16,11 @@ tags:
 ---
 
 <!-- wp:image {"align":"right","id":3614,"sizeSlug":"medium","linkDestination":"media","className":"is-style-rounded"} -->
-<figure class="wp-block-image alignright size-medium is-style-rounded"><a href="http://delphi.org/wp-content/uploads/2023/05/image.png"><img src="http://delphi.org/wp-content/uploads/2023/05/image-200x300.png" alt="Lady Ada Lovelace using a modern day laptop" class="wp-image-3614"/></a></figure>
+<figure class="wp-block-image alignright size-medium is-style-rounded"><a href="/assets/images/2023/05/image.png"><img src="/assets/images/2023/05/image-200x300.png" alt="Lady Ada Lovelace using a modern day laptop" class="wp-image-3614"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"left","id":3618,"sizeSlug":"medium","linkDestination":"media","className":"is-style-rounded"} -->
-<figure class="wp-block-image alignleft size-medium is-style-rounded"><a href="http://delphi.org/wp-content/uploads/2023/05/image-2.png"><img src="http://delphi.org/wp-content/uploads/2023/05/image-2-200x300.png" alt="Charles Babbage" class="wp-image-3618"/></a></figure>
+<figure class="wp-block-image alignleft size-medium is-style-rounded"><a href="/assets/images/2023/05/image-2.png"><img src="/assets/images/2023/05/image-2-200x300.png" alt="Charles Babbage" class="wp-image-3618"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -33,27 +33,27 @@ tags:
 
 <!-- wp:gallery {"linkTo":"file","align":"full"} -->
 <figure class="wp-block-gallery alignfull has-nested-images columns-default is-cropped"><!-- wp:image {"id":3622,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="http://delphi.org/wp-content/uploads/2023/05/IMG_8578-scaled.jpg"><img src="http://delphi.org/wp-content/uploads/2023/05/IMG_8578-1024x765.jpg" alt="Difference Engine at CHM in Silicon Valley" class="wp-image-3622"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/assets/images/2023/05/IMG_8578-scaled.jpg"><img src="/assets/images/2023/05/IMG_8578-1024x765.jpg" alt="Difference Engine at CHM in Silicon Valley" class="wp-image-3622"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3616,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="http://delphi.org/wp-content/uploads/2023/05/image-1.png"><img src="http://delphi.org/wp-content/uploads/2023/05/image-1-1024x576.png" alt="Jim McKeeth wearing his Google Glass at the Computer History Museum in Silicon Valley standing in front of the Difference Engine" class="wp-image-3616"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/assets/images/2023/05/image-1.png"><img src="/assets/images/2023/05/image-1-1024x576.png" alt="Jim McKeeth wearing his Google Glass at the Computer History Museum in Silicon Valley standing in front of the Difference Engine" class="wp-image-3616"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3620,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="http://delphi.org/wp-content/uploads/2023/05/IMG_8576-scaled.jpg"><img src="http://delphi.org/wp-content/uploads/2023/05/IMG_8576-1024x765.jpg" alt="Difference Engine at CHM in Silicon Valley" class="wp-image-3620"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/assets/images/2023/05/IMG_8576-scaled.jpg"><img src="/assets/images/2023/05/IMG_8576-1024x765.jpg" alt="Difference Engine at CHM in Silicon Valley" class="wp-image-3620"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3621,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="http://delphi.org/wp-content/uploads/2023/05/IMG_8577-scaled.jpg"><img src="http://delphi.org/wp-content/uploads/2023/05/IMG_8577-1024x765.jpg" alt="Difference Engine at CHM in Silicon Valley" class="wp-image-3621"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/assets/images/2023/05/IMG_8577-scaled.jpg"><img src="/assets/images/2023/05/IMG_8577-1024x765.jpg" alt="Difference Engine at CHM in Silicon Valley" class="wp-image-3621"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3619,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="http://delphi.org/wp-content/uploads/2023/05/Jim-McKeeth-with-Difference-Engine-at-CHM.jpg"><img src="http://delphi.org/wp-content/uploads/2023/05/Jim-McKeeth-with-Difference-Engine-at-CHM-1024x741.jpg" alt="Jim McKeeth with Difference Engine at CHM" class="wp-image-3619"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/assets/images/2023/05/Jim-McKeeth-with-Difference-Engine-at-CHM.jpg"><img src="/assets/images/2023/05/Jim-McKeeth-with-Difference-Engine-at-CHM-1024x741.jpg" alt="Jim McKeeth with Difference Engine at CHM" class="wp-image-3619"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":3623,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="http://delphi.org/wp-content/uploads/2023/05/IMG_8579-scaled.jpg"><img src="http://delphi.org/wp-content/uploads/2023/05/IMG_8579-1024x765.jpg" alt="Difference Engine at CHM in Silicon Valley" class="wp-image-3623"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/assets/images/2023/05/IMG_8579-scaled.jpg"><img src="/assets/images/2023/05/IMG_8579-1024x765.jpg" alt="Difference Engine at CHM in Silicon Valley" class="wp-image-3623"/></a></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -62,7 +62,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3629,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://commons.wikimedia.org/wiki/File:Diagram_for_the_computation_of_Bernoulli_numbers.jpg"><img src="http://delphi.org/wp-content/uploads/2023/05/Diagram_for_the_computation_of_Bernoulli_numbers-1024x717.jpg" alt="Lovelace's diagram from &quot;note G&quot;, the first published computer algorithm https://commons.wikimedia.org/wiki/File:Diagram_for_the_computation_of_Bernoulli_numbers.jpg" class="wp-image-3629"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://commons.wikimedia.org/wiki/File:Diagram_for_the_computation_of_Bernoulli_numbers.jpg"><img src="/assets/images/2023/05/Diagram_for_the_computation_of_Bernoulli_numbers-1024x717.jpg" alt="Lovelace's diagram from &quot;note G&quot;, the first published computer algorithm https://commons.wikimedia.org/wiki/File:Diagram_for_the_computation_of_Bernoulli_numbers.jpg" class="wp-image-3629"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

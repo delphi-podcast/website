@@ -14,7 +14,7 @@ tags:
 
 The <a href="https://twitter.com/hashtag/code2014">Twitter #Code2014</a> ranking have become a bit of a tradition. At the end of the year everyone votes for the  programming languages they used, or were their favorite for the year. Then they all get <a href="http://www.code2014.com/">tabulated up to see how they rank</a>. Once again Delphi did quite well, coming it at #9, just ahead of other mainstream languages like C and C++ as well as niche languages like Objective-C and Swift (developing for only one platform is so 2013). It was neck and neck with C#, ending with only 11 votes different.
 
-[caption id="attachment_1858" align="aligncenter" width="938"]<a href="http://www.code2014.com/"><img class="size-full wp-image-1858" src="http://delphi.org/wp-content/uploads/2015/01/Code2014Chart.png" alt="Delphi finished 9th in the #Code2014 rankings on Twitter" width="938" height="832" /></a> Delphi finished 9th in the #Code2014 rankings on Twitter[/caption]
+[caption id="attachment_1858" align="aligncenter" width="938"]<a href="http://www.code2014.com/"><img class="size-full wp-image-1858" src="/assets/images/2015/01/Code2014Chart.png" alt="Delphi finished 9th in the #Code2014 rankings on Twitter" width="938" height="832" /></a> Delphi finished 9th in the #Code2014 rankings on Twitter[/caption]
 
 There are actually still people voting, but the deadline was Friday, so the votes don't count. I still appreciate the enthusiasm. Watching Delphi climb the charts was a real treat, and shows two things:
 <ol>

@@ -40,6 +40,6 @@ In answer to one of the proposed interview questions, the article also states th
 <blockquote><span class="Article_Date"><span class="Article_Date"><span class="txt">VCL for the Web . . . enables developers to build AJAX and Silverlight-enabled rich intranet and line-of-business Web applications . . .</span></span></span></blockquote>
 It also states that the Architect Edition is a new edition.  But I did some more checking, and there is an Architect edition of RAD Studio 2007:
 
-<a href="http://www.codegear.com/products/radstudio/"><img class="aligncenter size-full wp-image-58" title="RAD Sudio 2007 Editions - Including Architect" src="http://www.delphi.org/wp-content/uploads/2008/08/radstudio2007editions.png" alt="" width="500" height="239" /></a>
+<a href="http://www.codegear.com/products/radstudio/"><img class="aligncenter size-full wp-image-58" title="RAD Sudio 2007 Editions - Including Architect" src="/assets/images/2008/08/radstudio2007editions.png" alt="" width="500" height="239" /></a>
 
 Architect gets the full ECO package.  Granted I think the inclusion of ER/Studio in the 2009 Architect package is a great upgrade.  In additions to this nicely appointed Architect edition, I still am a strong believer in them keeping the Turbo or Personal editions going.  If we don't introduce students, occupational programmers and new developers to Delphi then it will be hard to grow the community.

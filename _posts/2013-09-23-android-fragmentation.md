@@ -17,11 +17,11 @@ Fragmentation is the term used to describe all the <a href="http://delphi.org/20
 
 The <a href="http://developer.android.com/about/dashboards/">Android Dashboard</a> is a great resource for tracking the adoption of different versions of the Android OS. It is updated monthly and also covers screen sizes and densities and Open GL versions.
 
-<a href="http://developer.android.com/about/dashboards/"><img class="size-full wp-image-1300 aligncenter" alt="Android version pie chart" src="http://delphi.org/wp-content/uploads/2013/09/android-chart.png" width="500" height="250" /></a>
+<a href="http://developer.android.com/about/dashboards/"><img class="size-full wp-image-1300 aligncenter" alt="Android version pie chart" src="/assets/images/2013/09/android-chart.png" width="500" height="250" /></a>
 
 Another great resource is OpenSignal fragmentation report. It shows market share by model and manufacturer, as well as some different ways of looking at the information in the Android Dashboard, as well as screen size. It appears to be updated annually.
 
-<a href="http://opensignal.com/reports/fragmentation-2013/"><img class="alignnone size-large wp-image-1301" alt="Android Brand Fragmentation" src="http://delphi.org/wp-content/uploads/2013/09/android-Brand-Fragmentation-1024x598.png" width="620" height="362" /></a>
+<a href="http://opensignal.com/reports/fragmentation-2013/"><img class="alignnone size-large wp-image-1301" alt="Android Brand Fragmentation" src="/assets/images/2013/09/android-Brand-Fragmentation-1024x598.png" width="620" height="362" /></a>
 
 I didn't realize <strong>Samsung had almost 50%</strong> of the Android market, and I expected HTC to have a larger share. No wonder Apple feels threatened by Samsung. Noticeably missing from their list is any Amazon Kindles or Barns and Noble Nooks. That could be because they do not access the Google Play Store by default. I didn't see the method of data collection.
 

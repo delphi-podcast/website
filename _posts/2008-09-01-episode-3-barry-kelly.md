@@ -1,6 +1,6 @@
----
+﻿---
 id: 121
-title: '3 &#8211; Barry Kelly'
+title: '3 – Barry Kelly'
 date: '2008-09-01T16:59:04-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -28,3 +28,4 @@ tags:
 	<li><a href="http://cc.codegear.com/Item/25670">Example of a value typed TStringList</a> - We discussed this a bit during the podcast as an example pattern of how to fake garbage collector.</li>
 	<li><a href="http://video.codegear.com/CodeRage2007EncoreArchives/CodeRageEncoreCompiler/CodeRageEncoreCompiler.html">CodeRage 2007 replay with Barry Kelly</a> - Talking with David I about the Delphi compiler and working at CodeGear.</li>
 </ul>
+

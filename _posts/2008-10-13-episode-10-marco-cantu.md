@@ -1,6 +1,6 @@
----
+﻿---
 id: 328
-title: '10 &#8211; Marco Cantù'
+title: '10 – Marco Cantù'
 date: '2008-10-13T23:59:05-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -27,3 +27,4 @@ tags:
 	<li><a href="http://www.thecoderage.com/">CodeRage 3</a> - December 1-5, 2008</li>
 </ul>
 Marco will be presenting at both the upcoming <a href="http://it-republik.de/entwicklerkonferenz/">Ekon 12</a> conference in Germany, and <a href="http://www.thecoderage.com/">CodeRage 3</a> virtual conference.
+

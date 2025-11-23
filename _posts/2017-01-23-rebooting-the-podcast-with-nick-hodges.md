@@ -12,7 +12,7 @@ tags:
     - News
 ---
 
-[caption id="attachment_2659" align="alignright" width="300"]<img class="wp-image-2659 size-medium" src="http://delphi.org/wp-content/uploads/2017/01/Icon-300x300.png" alt="Podcast @ Delphi.org" width="300" height="300" /> Podcast @ Delphi.org[/caption]
+[caption id="attachment_2659" align="alignright" width="300"]<img class="wp-image-2659 size-medium" src="/assets/images/2017/01/Icon-300x300.png" alt="Podcast @ Delphi.org" width="300" height="300" /> Podcast @ Delphi.org[/caption]
 
 It is official, I am rebooting the Podcast with <a href="http://www.codingindelphi.com/blog/">Nick Hodges</a>. Right now I am calling it the Podcast @ Delphi.org since my friend Richard helped me get this domain working again (did you notice it wasn't working?)
 

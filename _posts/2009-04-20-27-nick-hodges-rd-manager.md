@@ -1,6 +1,6 @@
----
+﻿---
 id: 636
-title: '27 &#8211; Nick Hodges &#8211; R&#038;D Manager'
+title: '27 – Nick Hodges – R&D Manager'
 date: '2009-04-20T00:02:49-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -34,3 +34,4 @@ This episode was recorded with Nick Hodges on Thursday, the 17th of April, 2009.
 	<li>The <a href="http://edn.embarcadero.com/article/39174">Future of the Delphi compiler</a> is still comming.</li>
 </ul>
 The episodes with Nick are always great ones, so I hope you enjoy it!  If there are other links I missed please add those in the comments.
+

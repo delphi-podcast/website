@@ -1,6 +1,6 @@
----
+﻿---
 id: 434
-title: 'Screencast 4 &#8211; Delphi Prism WPF &#8211; Hello World'
+title: 'Screencast 4 – Delphi Prism WPF – Hello World'
 date: '2008-10-30T14:00:23-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -20,3 +20,4 @@ Another screen cast for Delphi Prism, this one is a WPF for Hello World.  Same 
 	<li><a href="http://www.Delphi.org/screencasts/4-DelphiPrismWPF1.html">Delphi Prism WPF - Hello World</a></li>
 </ul>
 Didn't think I would get any more done at PDC, but I found some time . . . .
+

@@ -1,6 +1,6 @@
----
+﻿---
 id: 2760
-title: 'What&#8217;s In a Name and Advocacy Defined'
+title: 'What’s In a Name and Advocacy Defined'
 date: '2017-03-20T20:45:37-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -39,3 +39,4 @@ A few other titles that were suggested:
 </ul>
 </blockquote>
 All of which I love, and are fairly accurate (especially the last two).
+

@@ -1,6 +1,6 @@
----
+﻿---
 id: 1631
-title: 'Meet Me in Chicago &#038; D.C./Baltimore for a First Look at XE6'
+title: 'Meet Me in Chicago & D.C./Baltimore for a First Look at XE6'
 date: '2014-04-18T13:22:14-06:00'
 author: 'Jim McKeeth'
 layout: post
@@ -40,3 +40,4 @@ A wide variety of topics are covered. Some topics, such as FireDAC and mobile de
 	<li>Lunch on both days</li>
 </ul>
 Space is limited to the first 42 people in each city. There is a discount for attendees of previous 2009-2013 tours, and group discounts are available when registering three or more people from the same company.Visit <a href="http://www.DelphiDeveloperDays.com">www.DelphiDeveloperDays.com</a> for complete information.Platinum Sponsors: Embarcadero Technologies, Sybase, An SAP Company, and TMS software. Gold Sponsors: Devart, Dr.Explain, Gnostice Information Technologies, and Raize Software.
+

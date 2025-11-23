@@ -6,7 +6,7 @@ author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2562'
 permalink: /2016/07/top-10-reasons-to-be-a-delphi-developer/
-image: /wp-content/uploads/2016/07/Delphi-500x198.png
+image: /assets/images/2016/07/Delphi-500x198.png
 categories:
     - News
 tags:

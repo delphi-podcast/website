@@ -18,6 +18,6 @@ Craig has a big project he is starting work on to build an <a href="https://www.
 
 I am looking forward to see other <a href="https://www.liveedu.tv/videos/delphi/">Delphi Developers</a> on <a href="https://www.liveedu.tv">LiveEdu.tv</a>!
 
-<a href="https://www.liveedu.tv/mrcraig/"><img class="aligncenter size-full wp-image-2737" src="http://delphi.org/wp-content/uploads/2017/03/LiveCode.png" alt="LiveCode Coding with Craig and Jim" width="973" height="849" /></a>
+<a href="https://www.liveedu.tv/mrcraig/"><img class="aligncenter size-full wp-image-2737" src="/assets/images/2017/03/LiveCode.png" alt="LiveCode Coding with Craig and Jim" width="973" height="849" /></a>
 
 &nbsp;

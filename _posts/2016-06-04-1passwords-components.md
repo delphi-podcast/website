@@ -1,12 +1,12 @@
----
+﻿---
 id: 2474
-title: 'More on 1Password&#8217;s Components'
+title: 'More on 1Password’s Components'
 date: '2016-06-04T21:36:41-06:00'
 author: 'Jim McKeeth'
 layout: post
 guid: 'http://delphi.org/?p=2474'
 permalink: /2016/06/1passwords-components/
-image: /wp-content/uploads/2016/06/StefanVanAs-200x198.jpeg
+image: /assets/images/2016/06/StefanVanAs-200x198.jpeg
 categories:
     - News
 tags:
@@ -14,11 +14,11 @@ tags:
     - News
 ---
 
-<a href="https://medium.com/@svanas/"><img class="alignright wp-image-2477" src="http://delphi.org/wp-content/uploads/2016/06/StefanVanAs.jpeg" alt="Stefan van As" width="93" height="93" /></a>Stefan van As of <a href="http://community.embarcadero.com/article/news/16234-1password-for-windows-is-the-1st-winner-of-the-cool-app-contest-2">1Password fame</a> sent me a more exhaustive list of the libraries and tools used in 1Password. I thought I would share it with everyone. He also recently started <a href="https://medium.com/@svanas/">blogging about security, software development and Delphi</a>.
+<a href="https://medium.com/@svanas/"><img class="alignright wp-image-2477" src="/assets/images/2016/06/StefanVanAs.jpeg" alt="Stefan van As" width="93" height="93" /></a>Stefan van As of <a href="http://community.embarcadero.com/article/news/16234-1password-for-windows-is-the-1st-winner-of-the-cool-app-contest-2">1Password fame</a> sent me a more exhaustive list of the libraries and tools used in 1Password. I thought I would share it with everyone. He also recently started <a href="https://medium.com/@svanas/">blogging about security, software development and Delphi</a>.
 
 Here is an overview of the 3rd party components used in 1Password:
 <ul>
- 	<li><img class="alignright wp-image-2448" src="http://delphi.org/wp-content/uploads/2016/05/1Password-300x300.png" alt="1Password" width="216" height="216" /><a href="https://msdn.microsoft.com/en-us/library/bb250436(v=vs.85).aspx">Browser Helper Objects (BHOs)</a> -- this is what powers 1Password inside Internet Explorer.</li>
+ 	<li><img class="alignright wp-image-2448" src="/assets/images/2016/05/1Password-300x300.png" alt="1Password" width="216" height="216" /><a href="https://msdn.microsoft.com/en-us/library/bb250436(v=vs.85).aspx">Browser Helper Objects (BHOs)</a> -- this is what powers 1Password inside Internet Explorer.</li>
  	<li><a href="https://developer.apple.com/bonjour/">Bonjour</a> -- this is what powers Wi-Fi Sync. (<a href="https://github.com/deltics/delphi.libs/tree/master/bonjour">here is an unrelated Delphi
 implementation</a>)</li>
  	<li><a href="https://www.chilkatsoft.com/delphiDll.asp">ChilkatCrypt</a> -- this is what powers some of our crypto</li>
@@ -39,3 +39,4 @@ Also uses the following tools:
  	<li><a href="http://www.jrsoftware.org/isinfo.php">Inno Setup</a> -- The installation wizard</li>
 </ul>
 A lot of great tools and libraries there.
+

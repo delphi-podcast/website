@@ -1,6 +1,6 @@
----
+﻿---
 id: 518
-title: '19 &#8211; Delphi Prism Q&#038;A'
+title: '19 – Delphi Prism Q&A'
 date: '2008-12-16T00:39:02-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -28,3 +28,4 @@ tags:
 	<li><a href="http://www.microsoft.com/express/vcsharp/">Visual Studio Express for C#</a> - If you need to edit and compile some C# and don't want to use the free command-line compiler.</li>
 </ul>
 Also, if you were one of the first people to download after I uploaded then you may have the wrong version.  Something got skewed during the upload.  Special thanks to my wife for recording the intro and outro for me on this episode!
+

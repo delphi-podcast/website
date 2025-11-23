@@ -18,7 +18,7 @@ In this episode of the Podcast @ Delphi.org we talk with Cary Jensen about his n
 
 Cary's new 558 page <a href="http://www.jensendatasystems.com/firedacbook/">Delphi in Depth book</a> tackles everyone's favorite multi-platform database access framework: FireDAC. Cary gives it his unique treatment that only he can deliver. He gives special emphasis to all the configuration options available with FireDAC that can help you gain even more performance.
 
-<a href="http://www.jensendatasystems.com/firedacbook/"><img class="size-medium wp-image-2882 aligncenter" src="http://delphi.org/wp-content/uploads/2017/07/Delphi-in-Depth_FireDAC-225x300.jpg" alt="Delphi in Depth: FireDAC by Cary Jensen" width="225" height="300" /></a>
+<a href="http://www.jensendatasystems.com/firedacbook/"><img class="size-medium wp-image-2882 aligncenter" src="/assets/images/2017/07/Delphi-in-Depth_FireDAC-225x300.jpg" alt="Delphi in Depth: FireDAC by Cary Jensen" width="225" height="300" /></a>
 
 For this year's <a href="http://www.delphideveloperdays.com/">Delphi Developer Days</a>, Cary and Dr. Bob are doing things a little differently. They are doing a special workshop focused on database development. You are encouraged to bring your laptop and follow along while you learn from the masters!
 

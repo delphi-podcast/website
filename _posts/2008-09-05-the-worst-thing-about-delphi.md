@@ -21,7 +21,7 @@ tags:
 
 One year I was at BorCon and they were playing some old Turbo Pascal commercials and one I remember was this guy doing various odd tasts around his office (watering plants, etc.) and then we find out that he is waiting for his code to compile.  At the end of the commercial he gets a new copy of Turbo Pascal and his code compiles right away.  Now he isn't able to get to all that busy work.  Bummer.
 
-<a href="http://xkcd.com/303/"><img class="alignright size-full wp-image-143" title="compiling" src="http://www.delphi.org/wp-content/uploads/2008/09/compiling.png" alt="XKCD's &quot;Compiling&quot; comic" /></a>AT&amp;T had a similar commercial where they appoligized that their long distance calls went through so quick as a teen-age guy lost his nerve and was about to hang up when his old girl friend picked-up.
+<a href="http://xkcd.com/303/"><img class="alignright size-full wp-image-143" title="compiling" src="/assets/images/2008/09/compiling.png" alt="XKCD's &quot;Compiling&quot; comic" /></a>AT&amp;T had a similar commercial where they appoligized that their long distance calls went through so quick as a teen-age guy lost his nerve and was about to hang up when his old girl friend picked-up.
 
 Anyway, I love <a href="http://xkcd.com/">XKCD</a>, this comic being one of my favorites.  Although since I have been using Delphi for so long I guess I am spoiled.  Even huge projects still compile fairly quickly.  Somewhere in the back of my mind I just assumed everyone's compiler was that quick.  This comic was a reminder that not everyone is as lucky as we are.  
 

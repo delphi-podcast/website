@@ -1,6 +1,6 @@
----
+﻿---
 id: 875
-title: 'Marco Cantu&#8217;s REST Webinar'
+title: 'Marco Cantu’s REST Webinar'
 date: '2010-03-02T18:34:04-07:00'
 author: 'Jim McKeeth'
 layout: post
@@ -32,3 +32,4 @@ March 3 8:00 PM PST / March 4 3:00 PM AEST</a></div>
 	<li>Creating Delphi REST clients that interface with RSS feeds, maps,  and Twitter</li>
 	<li>Data-Oriented REST Servers</li>
 </ul>
+
