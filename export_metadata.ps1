@@ -1,85 +1,55 @@
-# --- PASS 1: Collect all unique metadata keys ---
-Write-Host "Pass 1: Discovering all metadata keys from posts..." -ForegroundColor Cyan
-$allKeys = New-Object System.Collections.Generic.List[string]
-$allKeys.Add("filename")
-$allKeys.Add("tag_count")
+# Script to export focused post metadata to a CSV file
 
+$dataForCsv = @()
 $posts = Get-ChildItem -Path "_posts" -Recurse -File
 
 foreach ($post in $posts) {
-    $content = Get-Content -Path $post.FullName
-    $inFrontMatter = $false
-    foreach ($line in $content) {
-        if ($line -eq '---') {
-            if ($inFrontMatter) { break } else { $inFrontMatter = $true; continue }
-        }
-        if ($inFrontMatter) {
-            if ($line -match '^([^:]+):') {
-                $key = $matches[1].Trim()
-                if (-not $allKeys.Contains($key)) {
-                    $allKeys.Add($key)
-                }
-            }
-        }
-    }
-}
-Write-Host "Discovered $($allKeys.Count) unique keys." -ForegroundColor Green
-
-
-# --- PASS 2: Extract data and build CSV content ---
-Write-Host "Pass 2: Extracting metadata from all posts..." -ForegroundColor Cyan
-$dataForCsv = @()
-
-foreach ($post in $posts) {
-    $postRecord = [ordered]@{}
-    # Initialize all keys to ensure consistent CSV columns
-    foreach ($key in $allKeys) {
-        $postRecord[$key] = ""
+    $postRecord = [ordered]@{
+        filename  = $post.Name
+        title     = ""
+        date      = ""
+        author    = ""
+        categories = ""
+        tags      = ""
+        tag_count = 0
     }
 
-    $postRecord.filename = $post.Name
+    $content = Get-Content -Path $post.FullName -Raw
 
-    $content = Get-Content -Path $post.FullName
-    $inFrontMatter = $false
-    $currentKey = ""
-    $tagCount = 0
+    # Extract front matter block
+    $frontMatterMatch = [regex]::Match($content, '(?sm)^---\s*$(.*?)^---\s*$')
+    if ($frontMatterMatch.Success) {
+        $frontMatter = $frontMatterMatch.Groups[1].Value
 
-    foreach ($line in $content) {
-        if ($line -eq '---') {
-            if ($inFrontMatter) { break } else { $inFrontMatter = $true; continue }
+        # Extract simple key-value pairs
+        $postRecord.title = ($frontMatter | Select-String -Pattern '^\s*title:\s*(.*)').Matches.Groups[1].Value.Trim().Trim("'"').Trim('"')
+        $postRecord.date = ($frontMatter | Select-String -Pattern '^\s*date:\s*(.*)').Matches.Groups[1].Value.Trim().Trim("'"').Trim('"')
+        $postRecord.author = ($frontMatter | Select-String -Pattern '^\s*author:\s*(.*)').Matches.Groups[1].Value.Trim().Trim("'"').Trim('"')
+
+        # Extract categories
+        $categoriesMatch = [regex]::Match($frontMatter, '(?sm)categories:\s*(.*?)(?:\r?\n\S|$)' )
+        if ($categoriesMatch.Success) {
+            $categoryBlock = $categoriesMatch.Groups[1].Value
+            $categoryList = $categoryBlock -split "\n" | ForEach-Object { $_.Trim() -replace '-\s*', '' } | Where-Object { $_ -ne '' }
+            $postRecord.categories = $categoryList -join ", "
         }
 
-        if ($inFrontMatter) {
-            if ($line -match '^([^:]+):\s*(.*)') {
-                $currentKey = $matches[1].Trim()
-                $value = $matches[2].Trim()
-                if ($value) {
-                    $postRecord[$currentKey] = $value.Trim("'").Trim('"')
-                }
-            } elseif ($line -match '^\s*-\s*(.*)') {
-                $value = $matches[1].Trim().Trim("'").Trim('"')
-                # Append to existing value if it's a list
-                if ($postRecord[$currentKey]) {
-                    $postRecord[$currentKey] += ", $value"
-                } else {
-                    $postRecord[$currentKey] = $value
-                }
-                if ($currentKey -eq "tags") {
-                    $tagCount++
-                }
-            } else {
-                # If a line doesn't match the key:value or - value patterns, it's not a simple list item
-                $currentKey = ""
-            }
+        # Extract tags and count them
+        $tagsMatch = [regex]::Match($frontMatter, '(?sm)tags:\s*(.*?)(?:\r?\n\S|$)' )
+        if ($tagsMatch.Success) {
+            $tagBlock = $tagsMatch.Groups[1].Value
+            $tagList = $tagBlock -split "\n" | ForEach-Object { $_.Trim() -replace '-\s*', '' } | Where-Object { $_ -ne '' }
+            $postRecord.tags = $tagList -join ", "
+            $postRecord.tag_count = $tagList.Count
         }
     }
-    $postRecord.tag_count = $tagCount
+    
     $dataForCsv += [PSCustomObject]$postRecord
 }
 
-# --- Export to CSV ---
+# Export to CSV
 $outputPath = "metadata.csv"
-Write-Host "Exporting metadata to $outputPath..." -ForegroundColor Cyan
-$dataForCsv | Export-Csv -Path $outputPath -NoTypeInformation
+Write-Host "Exporting focused metadata to $outputPath..." -ForegroundColor Cyan
+$dataForCsv | Export-Csv -Path $outputPath -NoTypeInformation -Force
 
 Write-Host "Successfully created $outputPath" -ForegroundColor Green
