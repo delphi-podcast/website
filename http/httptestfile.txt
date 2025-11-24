@@ -1,0 +1,3 @@
+Line 1 is 76 bytes long, plus CR/LF, which brings the length up to 79 bytes.
+The total file size is 154 bytes.  
+There is an X at the 127th character.

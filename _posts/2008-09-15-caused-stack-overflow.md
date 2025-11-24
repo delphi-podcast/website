@@ -22,7 +22,7 @@ There is a new programming community site on the internet today.  It has been i
 
 Think of Stack Overflow as a combination of a Wiki with a Forum.  There is a little bit of Digg / Reddit thrown in and a touch of a blog.  Here is Jeff's Venn diagram to explain it:
 
-<a href="http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-venn-diagram.png"><img class="alignnone" title="Stack Overflow Venn Diagram" src="http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-venn-diagram.png" alt="" width="440" height="431" /></a>
+<a href="http://blog.stackoverflow.com/"><img class="alignnone" title="Stack Overflow Venn Diagram" src="/assets/images/2008/09/stackoverflow-venn-diagram.png" alt="" width="440" height="431" /></a>
 
 So that little asterisk in the middle.  Everything is tagged, so you can filter for only the <a href="http://stackoverflow.com/questions/tagged/delphi">Delphi questions</a>.  It is pretty active and sometimes it is good to see how the other side lives.  There is a pretty good community forming already.  
 

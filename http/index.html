@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>HTTP Spelunking</title>
+</head>
+
+<body>
+<p><strong>[<a href="http://delphi.org/http/HttpDebugger.7z">Project source code</a>]</strong></p>
+<p>This is the script I use to demonstrate HTTP Range requests through Telnet. Just copy and paste each block of code (including the trailing blank line) into a command window and it will run telnet and make the HTTP request. You can view the <a href="http://delphi.org/http/httptestfile.txt">test file here</a>. Read HTTP <a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html">Status Codes</a> (including <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">418</a>), <a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html">Methods</a>, <a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html">Headers</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS">Access Control (CORS)</a>. </p>   
+<pre>telnet delphi.org 80
+HEAD /http/httptestfile.txt HTTP/1.1
+Host: delphi.org
+Connection: close
+</pre>
+<pre>telnet delphi.org 80
+GET /http/httptestfile.txt HTTP/1.1
+Host: delphi.org
+Connection: close
+</pre>
+<pre>telnet delphi.org 80
+GET /http/httptestfile.txt HTTP/1.1
+Host: delphi.org
+Range: bytes=0-77
+Connection: close
+</pre>
+<pre>telnet delphi.org 80
+GET /http/httptestfile.txt HTTP/1.1
+Host: delphi.org
+Range: bytes=115-154
+Connection: close
+</pre>
+<pre>telnet delphi.org 80
+GET /http/httptestfile.txt HTTP/1.1
+Host: delphi.org
+Range: bytes=78-113
+Connection: close
+</pre>
+<pre>telnet delphi.org 80
+GET /http/httptestfile.txt HTTP/1.1
+Host: delphi.org	
+Range: bytes=115-154,127-127
+Connection: close
+</pre>
+<p>This last one stopped working because of a change on the webserver.</p>
+<p>Here are the images. They all are  available as both JPG and BMP and are 640x472 in resolution.</p>
+<table>
+<tr>  <td align="center" colspan="3"><a href="original.jpg"><img src="original.jpg" width="500" height="333" /><br />
+original.jpg</a></td></tr>
+  <tr><td align="center"><a href="blue.jpg"><img src="blue.jpg" width="160" height="107" /><br />
+  blue.jpg</a></td><td align="center"><a href="green.jpg"><img src="green.jpg" width="160" height="107" /><br />
+green.jpg</a></td><td align="center"><a href="red.jpg"><img src="red.jpg" width="160" height="107" /><br />
+red.jpg</a></td></tr>
+<tr>  <td align="center"><p><a href="purple.jpg"><img src="purple.jpg" width="160" height="107" /><br />
+  purple.jpg</a></p></td><td align="center"><p><a href="teal.jpg"><img src="teal.jpg" width="160" height="107" /><br />
+    teal.jpg</a></p></td><td align="center"><a href="yellow.jpg"><img src="yellow.jpg" width="160" height="107" /><br />
+  yellow.jpg</a></td></tr></table>  
+<p>Here is the code I used to stream all 7 images into one image. HTTPClient is a TNetHTTPClient and <br />
+HTTPReq is a TNetHTTPRequest on the form. The reason it uses Bitmap images is that they are an uncompressed stream of pixel data, so are easier to recombine into one image.</p>
+<pre>
+<FONT COLOR=RED><B>const</B></FONT>
+  baseurl<FONT COLOR=BLUE SIZE=+1><B>:</B></FONT> <FONT COLOR=RED><B>string</B></FONT> <FONT COLOR=BLUE SIZE=+1>=</FONT> <FONT COLOR=PURPLE>'http://delphi.org/http/'</FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  files<FONT COLOR=BLUE SIZE=+1><B>:</B></FONT> <FONT COLOR=RED><B>array</B></FONT><FONT COLOR=BLUE SIZE=+1><B>[</B></FONT>0<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT><FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>5<FONT COLOR=BLUE SIZE=+1><B>]</B></FONT> <FONT COLOR=RED><B>of</B></FONT> <FONT COLOR=RED><B>string</B></FONT> <FONT COLOR=BLUE SIZE=+1>=</FONT> <FONT COLOR=BLUE SIZE=+1><B>(</B></FONT><FONT COLOR=PURPLE>'red.bmp'</FONT><FONT COLOR=BLUE SIZE=+1><B>,</B></FONT><FONT COLOR=PURPLE>'green.bmp'</FONT><FONT COLOR=BLUE SIZE=+1><B>,</B></FONT><FONT COLOR=PURPLE>'blue.bmp'</FONT><FONT COLOR=BLUE SIZE=+1><B>,</B></FONT>
+    <FONT COLOR=PURPLE>'yellow.bmp'</FONT><FONT COLOR=BLUE SIZE=+1><B>,</B></FONT><FONT COLOR=PURPLE>'purple.bmp'</FONT><FONT COLOR=BLUE SIZE=+1><B>,</B></FONT><FONT COLOR=PURPLE>'teal.bmp'</FONT><FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+
+<FONT COLOR=RED><B>procedure</B></FONT> TForm34<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Button1Click<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>Sender<FONT COLOR=BLUE SIZE=+1><B>:</B></FONT> TObject<FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+<FONT COLOR=RED><B>var</B></FONT>
+  resp<FONT COLOR=BLUE SIZE=+1><B>:</B></FONT> IHTTPResponse<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  chunk<FONT COLOR=BLUE SIZE=+1><B>:</B></FONT> Integer<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  mem<FONT COLOR=BLUE SIZE=+1><B>:</B></FONT> TMemoryStream<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  I<FONT COLOR=BLUE SIZE=+1><B>:</B></FONT> Integer<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+<FONT COLOR=RED><B>begin</B></FONT>
+  resp <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> HTTPReq<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Head<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>baseurl <FONT COLOR=BLUE SIZE=+1>+</FONT> <FONT COLOR=PURPLE>'original.bmp'</FONT><FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  chunk <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> resp<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>ContentLength <FONT COLOR=RED><B>div</B></FONT> <FONT COLOR=BROWN>12</FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  ProgressBar1<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Max <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> resp<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>ContentLength<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  resp <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> HTTPReq<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Get<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>baseurl <FONT COLOR=BLUE SIZE=+1>+</FONT> <FONT COLOR=PURPLE>'original.bmp'</FONT><FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  mem <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> TMemoryStream<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Create<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  <FONT COLOR=RED><B>try</B></FONT>
+    mem<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>LoadFromStream<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>resp<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>ContentStream<FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+    <FONT COLOR=RED><B>for</B></FONT> I <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> <FONT COLOR=BROWN>5</FONT> <FONT COLOR=RED><B>to</B></FONT> <FONT COLOR=BROWN>11</FONT> <FONT COLOR=RED><B>do</B></FONT>
+    <FONT COLOR=RED><B>begin</B></FONT>
+      ProgressBar1<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Tag <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> chunk<FONT COLOR=BLUE SIZE=+1>*</FONT>i<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+      <FONT COLOR=RED><B>if</B></FONT> I <FONT COLOR=BLUE SIZE=+1>&lt;</FONT> <FONT COLOR=BROWN>11</FONT> <FONT COLOR=RED><B>then</B></FONT>
+        httpreq<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>CustomHeaders<FONT COLOR=BLUE SIZE=+1><B>[</B></FONT><FONT COLOR=PURPLE>'Range'</FONT><FONT COLOR=BLUE SIZE=+1><B>]</B></FONT> <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> <FONT COLOR=PURPLE>'bytes='</FONT> <FONT COLOR=BLUE SIZE=+1>+</FONT> IntToStr<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>chunk<FONT COLOR=BLUE SIZE=+1>*</FONT>i<FONT COLOR=BLUE SIZE=+1><B>)</B></FONT> <FONT COLOR=BLUE SIZE=+1>+</FONT><FONT COLOR=PURPLE>'-'</FONT> <FONT COLOR=BLUE SIZE=+1>+</FONT> IntToStr<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>chunk<FONT COLOR=BLUE SIZE=+1>*</FONT>i<FONT COLOR=BLUE SIZE=+1>+</FONT>chunk<FONT COLOR=BLUE SIZE=+1>-</FONT><FONT COLOR=BROWN>1</FONT><FONT COLOR=BLUE SIZE=+1><B>)</B></FONT>
+      <FONT COLOR=RED><B>else</B></FONT>
+        httpreq<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>CustomHeaders<FONT COLOR=BLUE SIZE=+1><B>[</B></FONT><FONT COLOR=PURPLE>'Range'</FONT><FONT COLOR=BLUE SIZE=+1><B>]</B></FONT> <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> <FONT COLOR=PURPLE>'bytes='</FONT> <FONT COLOR=BLUE SIZE=+1>+</FONT> IntToStr<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>chunk<FONT COLOR=BLUE SIZE=+1>*</FONT>i<FONT COLOR=BLUE SIZE=+1><B>)</B></FONT> <FONT COLOR=BLUE SIZE=+1>+</FONT><FONT COLOR=PURPLE>'-'</FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+      HTTPReq<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>MethodString <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> <FONT COLOR=PURPLE>'GET'</FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+      button1<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Text <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> files<FONT COLOR=BLUE SIZE=+1><B>[</B></FONT>i <FONT COLOR=RED><B>mod</B></FONT> <FONT COLOR=BROWN>6</FONT><FONT COLOR=BLUE SIZE=+1><B>]</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+      HTTPReq<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>URL <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> baseurl <FONT COLOR=BLUE SIZE=+1>+</FONT> files<FONT COLOR=BLUE SIZE=+1><B>[</B></FONT>i <FONT COLOR=RED><B>mod</B></FONT> <FONT COLOR=BROWN>6</FONT><FONT COLOR=BLUE SIZE=+1><B>]</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+      resp <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> HTTPReq<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Execute<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT><FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+      mem<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Position <FONT COLOR=BLUE SIZE=+1><B>:</B></FONT><FONT COLOR=BLUE SIZE=+1>=</FONT> chunk<FONT COLOR=BLUE SIZE=+1>*</FONT>i<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+      TMemoryStream<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>resp<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>ContentStream<FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>SaveToStream<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>mem<FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+    <FONT COLOR=RED><B>end</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+    Image1<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>Bitmap<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>LoadFromStream<FONT COLOR=BLUE SIZE=+1><B>(</B></FONT>mem<FONT COLOR=BLUE SIZE=+1><B>)</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  <FONT COLOR=RED><B>finally</B></FONT>
+    mem<FONT COLOR=BLUE SIZE=+1><B><FONT COLOR=BLUE SIZE=+1><B>.</B></FONT></B></FONT>DisposeOf<FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+  <FONT COLOR=RED><B>end</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT>
+<FONT COLOR=RED><B>end</B></FONT><FONT COLOR=BLUE SIZE=+1><B>;</B></FONT></pre>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
