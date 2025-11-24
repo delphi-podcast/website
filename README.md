@@ -4,5 +4,4 @@ Like a phoenix rising from the flames, the Podcast @ Delphi.org is back. For sta
 
 I'm trying to avoid breaking URLs where possible. Right now the site is viewable at [delphiorg.github.io](https://delphiorg.github.io/) but I plan to redirect the [delphi.org](http://delphi.org) domain soon. 
 
-
-![like a phoenix](https://github.com/user-attachments/assets/aeb421ca-daff-47a7-8c8b-cb7b139518ad)
+![like a phoenix](https://github.com/delphiorg/delphiorg.github.io/blob/main/assets/images/like%20a%20phoenix.jpg?raw=true)
