@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap    
+  - jekyll-seo-tag
 kramdown:
   syntax_highlighter_opts:
     disable: true
