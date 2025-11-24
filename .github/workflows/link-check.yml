@@ -1,0 +1,36 @@
+name: 🔗 Link Checker
+
+on:
+  # This makes the link checker run right after the GitHub Pages site is published
+  # The environment must match your deployment environment name (usually 'github-pages')
+  deployment_status:
+  
+jobs:
+  link_check:
+    # Only run this job when the deployment to the GitHub Pages environment succeeds
+    if: github.event.deployment_status.state == 'success'
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      # ⚠️ IMPORTANT: Get the deployed URL from the GitHub event
+      - name: Get Deployed URL
+        id: deployment_url
+        run: |
+          echo "url=${{ github.event.deployment_status.target_url }}" >> $GITHUB_OUTPUT
+
+      - name: Run Lychee Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          # Use the URL of the newly deployed site
+          args: --base ${{ steps.deployment_url.outputs.url }} --exclude-mail --max-threads 8 "${{ steps.deployment_url.outputs.url }}"
+          # Fail the build if any broken links are found (4xx or 5xx)
+          fail: true
+          # Optional: You can exclude common known issue patterns here
+          # exclude: 'http://localhost' 
+          
+      - name: Output Lychee Results
+        run: cat ${{ steps.lychee.outputs.result }}

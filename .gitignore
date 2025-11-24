@@ -2,3 +2,4 @@
 /_site/
 .jekyll-cache/
 /_scripts/.ipynb_checkpoints
+.jekyll-metadata

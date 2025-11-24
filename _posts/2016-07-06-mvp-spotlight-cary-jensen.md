@@ -10,7 +10,7 @@ tags:
     - MVP
 ---
 
-<a href="www.jensendatasystems.com"><img class="alignright wp-image-2549" src="/assets/images/2016/07/CaryJensen.jpg" alt="Cary Jensen" width="200" height="217" /></a>There are a handful of people who I believe are key to the developer community, and Cary Jensen is one of them. He's been a rock in the community since the beginning. Even before Delphi he was instrumental with the Turbo Pascal community.
+<a href="http://www.jensendatasystems.com"><img class="alignright wp-image-2549" src="/assets/images/2016/07/CaryJensen.jpg" alt="Cary Jensen" width="200" height="217" /></a>There are a handful of people who I believe are key to the developer community, and Cary Jensen is one of them. He's been a rock in the community since the beginning. Even before Delphi he was instrumental with the Turbo Pascal community.
 
 Cary consults, writes, presents, and trains on Delphi, databases and other related technologies. Cary's authored over 20 books, with his latest being <em><a href="http://www.jensendatasystems.com/cdsbook2/">Delphi in Depth: ClientDataSets, 2nd Edition</a>. </em>He's also presented multiple RAD-in-Action webinars online. You can catch the replays and check out the accompanying white papers.
 <ul>

@@ -11,7 +11,7 @@ tags:
     - Funny
 ---
 
-<a href="codingindelphi.com"><img class=" wp-image-2409 alignright" src="/assets/images/2016/05/CodingInDelphiCover.png" alt="Nick Hodges' Coding In Delphi" width="179" height="232" /></a>I was reading <a href="http://www.codingindelphi.com/blog/">Nick Hodges</a>’ <a href="http://codingindelphi.com/">Coding in Delphi</a> again last night (insomnia). In chapter 1 on <em>Exception Handling</em> he opens talking about how <em>not</em> to use exceptions. It got me thinking about some of the atrocious exception usage I’ve seen. I thought I would share a few examples beyond the usual exception sins.
+<a href="http://codingindelphi.com"><img class=" wp-image-2409 alignright" src="/assets/images/2016/05/CodingInDelphiCover.png" alt="Nick Hodges' Coding In Delphi" width="179" height="232" /></a>I was reading <a href="http://www.codingindelphi.com/blog/">Nick Hodges</a>’ <a href="http://codingindelphi.com/">Coding in Delphi</a> again last night (insomnia). In chapter 1 on <em>Exception Handling</em> he opens talking about how <em>not</em> to use exceptions. It got me thinking about some of the atrocious exception usage I’ve seen. I thought I would share a few examples beyond the usual exception sins.
 <h2>The Try / Except / Raise / Free Pattern</h2>
 The documentation on the <b>Try / Except</b> pattern says that all the code after the <b>Except</b> block gets ran because the exception is handled. Additionally you can call <b>Raise</b> during the handler to send the exception further up the call stack.
 
